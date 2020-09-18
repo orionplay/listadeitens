@@ -70,6 +70,13 @@
     "userLevel": "UserLevel"
   },
   {
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "shortcut": false,
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "UserLevel"
+  },
+  {
     "description": "Adds you to the name queue.",
     "name": "Join queue",
     "shortcut": false,

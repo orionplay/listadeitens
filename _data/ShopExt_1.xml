@@ -1,60 +1,65 @@
 <?xml version="1.0"?>
 <ShopExpansion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Races>
-    <XmlRace DefName="ChjAndroid">
-      <Enabled>true</Enabled>
-      <Name>Android</Name>
-      <Price>2500</Price>
-    </XmlRace>
-    <XmlRace DefName="ChjBattleDroid">
-      <Enabled>true</Enabled>
-      <Name>Battledroid</Name>
-      <Price>3167</Price>
-    </XmlRace>
-    <XmlRace DefName="ChjDroid">
-      <Enabled>true</Enabled>
-      <Name>Droid</Name>
-      <Price>1417</Price>
-    </XmlRace>
-    <XmlRace DefName="Human">
-      <Enabled>true</Enabled>
-      <Name>human</Name>
-      <Price>2917</Price>
-    </XmlRace>
     <XmlRace DefName="ChjSpacerDroid">
       <Enabled>true</Enabled>
       <Name>Advanced droid</Name>
       <Price>2750</Price>
     </XmlRace>
-    <XmlRace DefName="ChjSpacerBattleDroid">
+    <XmlRace DefName="ChjAndroid">
       <Enabled>true</Enabled>
-      <Name>Wardroid</Name>
-      <Price>5833</Price>
-    </XmlRace>
-    <XmlRace DefName="NEngiDrone">
-      <Enabled>true</Enabled>
-      <Name>engineer</Name>
-      <Price>667</Price>
-    </XmlRace>
-    <XmlRace DefName="NChefDrone">
-      <Enabled>true</Enabled>
-      <Name>chef</Name>
-      <Price>667</Price>
-    </XmlRace>
-    <XmlRace DefName="NMedicDrone">
-      <Enabled>true</Enabled>
-      <Name>medic</Name>
-      <Price>1100</Price>
+      <Name>Android</Name>
+      <Price>2500</Price>
     </XmlRace>
     <XmlRace DefName="ChjArchDroid">
       <Enabled>true</Enabled>
       <Name>ArchoDroid</Name>
       <Price>8333</Price>
     </XmlRace>
+    <XmlRace DefName="ChjBattleDroid">
+      <Enabled>true</Enabled>
+      <Name>Battledroid</Name>
+      <Price>3167</Price>
+    </XmlRace>
+    <XmlRace DefName="NChefDrone">
+      <Enabled>true</Enabled>
+      <Name>chef</Name>
+      <Price>667</Price>
+    </XmlRace>
     <XmlRace DefName="ChjArchBattleDroid">
       <Enabled>true</Enabled>
       <Name>Destroyer</Name>
       <Price>16667</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjDroid">
+      <Enabled>true</Enabled>
+      <Name>Droid</Name>
+      <Price>1417</Price>
+    </XmlRace>
+    <XmlRace DefName="NEngiDrone">
+      <Enabled>true</Enabled>
+      <Name>engineer</Name>
+      <Price>667</Price>
+    </XmlRace>
+    <XmlRace DefName="Human">
+      <Enabled>true</Enabled>
+      <Name>human</Name>
+      <Price>2917</Price>
+    </XmlRace>
+    <XmlRace DefName="NMedicDrone">
+      <Enabled>true</Enabled>
+      <Name>medic</Name>
+      <Price>1100</Price>
+    </XmlRace>
+    <XmlRace DefName="Alien_Moyo">
+      <Enabled>true</Enabled>
+      <Name>Moyo</Name>
+      <Price>5333</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjSpacerBattleDroid">
+      <Enabled>true</Enabled>
+      <Name>Wardroid</Name>
+      <Price>5833</Price>
     </XmlRace>
   </Races>
   <Traits>
@@ -93,6 +98,16 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>SYR_AnimalAffinity</DefName>
+      <Degree>0</Degree>
+      <Name>animal friend</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>AnnoyingVoice</DefName>
       <Degree>0</Degree>
       <Name>annoying voice</Name>
@@ -106,6 +121,16 @@
       <DefName>GAT_Aphrodite</DefName>
       <Degree>0</Degree>
       <Name>Aphrodite's Grace</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_Architect</DefName>
+      <Degree>0</Degree>
+      <Name>architect</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -193,9 +218,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>BleedingHeart</DefName>
+      <DefName>SYR_Blacksmith</DefName>
       <Degree>0</Degree>
-      <Name>bleeding heart</Name>
+      <Name>blacksmith (old)</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -263,9 +288,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Chatty</DefName>
+      <DefName>SYR_Chef</DefName>
       <Degree>0</Degree>
-      <Name>chatty</Name>
+      <Name>chef (old)</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -303,9 +328,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Codependent</DefName>
+      <DefName>GAT_Confident</DefName>
       <Degree>0</Degree>
-      <Name>codependent</Name>
+      <Name>Confident</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -313,9 +338,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>GAT_Confident</DefName>
+      <DefName>SYR_CreativeThinker</DefName>
       <Degree>0</Degree>
-      <Name>Confident</Name>
+      <Name>creative thinker</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -336,16 +361,6 @@
       <DefName>NaturalMood</DefName>
       <Degree>-2</Degree>
       <Name>depressive</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>Desensitized</DefName>
-      <Degree>0</Degree>
-      <Name>desensitized</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -410,6 +425,26 @@
     </XmlTrait>
     <XmlTrait>
       <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_GoodFortune</DefName>
+      <Degree>0</Degree>
+      <Name>fortunate</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>AC_FreeMind</DefName>
+      <Degree>0</Degree>
+      <Name>free mind</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
       <BypassLimit>true</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
@@ -453,16 +488,6 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Gourmet</DefName>
-      <Degree>0</Degree>
-      <Name>gourmet</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
       <DefName>GreatMemory</DefName>
       <Degree>0</Degree>
       <Name>great memory</Name>
@@ -483,9 +508,29 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>SYR_GreenThumb</DefName>
+      <Degree>0</Degree>
+      <Name>green thumb</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>GAT_GreenestThumb</DefName>
       <Degree>0</Degree>
       <Name>Green Thumb</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_GunNut</DefName>
+      <Degree>0</Degree>
+      <Name>gun nut</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -503,9 +548,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Industriousness</DefName>
-      <Degree>1</Degree>
-      <Name>hard worker</Name>
+      <DefName>SYR_HandEyeCoordination</DefName>
+      <Degree>0</Degree>
+      <Name>hand-eye coordination</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -513,9 +558,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>HeavySleeper</DefName>
-      <Degree>0</Degree>
-      <Name>heavy sleeper</Name>
+      <DefName>Industriousness</DefName>
+      <Degree>1</Degree>
+      <Name>hard worker</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -543,6 +588,16 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>SYR_Hotblooded</DefName>
+      <Degree>0</Degree>
+      <Name>hotblooded (old)</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>GAT_Imhotep</DefName>
       <Degree>0</Degree>
       <Name>Imhotep's Wisdom</Name>
@@ -556,16 +611,6 @@
       <DefName>Industriousness</DefName>
       <Degree>2</Degree>
       <Name>industrious</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>Insomniac</DefName>
-      <Degree>0</Degree>
-      <Name>insomniac</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -603,6 +648,16 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>SYR_KeenEye</DefName>
+      <Degree>0</Degree>
+      <Name>keen eye</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>Kind</DefName>
       <Degree>0</Degree>
       <Name>kind</Name>
@@ -623,16 +678,6 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Lecher</DefName>
-      <Degree>0</Degree>
-      <Name>lecher</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
       <DefName>GAT_LovedByAnimals</DefName>
       <Degree>0</Degree>
       <Name>Loved by Animals</Name>
@@ -646,6 +691,26 @@
       <DefName>Masochist</DefName>
       <Degree>0</Degree>
       <Name>masochist</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_MechanoidExpert</DefName>
+      <Degree>0</Degree>
+      <Name>mechanoid expert</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_MedicalTraining</DefName>
+      <Degree>0</Degree>
+      <Name>medical training (old)</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -803,9 +868,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>OpenMinded</DefName>
+      <DefName>AC_AntiStack</DefName>
       <Degree>0</Degree>
-      <Name>open-minded</Name>
+      <Name>One Soul</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -816,16 +881,6 @@
       <DefName>NaturalMood</DefName>
       <Degree>1</Degree>
       <Name>optimist</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>Outdoorsy</DefName>
-      <Degree>0</Degree>
-      <Name>outdoorsy</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -846,6 +901,16 @@
       <DefName>GAT_Perceptive</DefName>
       <Degree>0</Degree>
       <Name>Perceptive</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_Perfectionist</DefName>
+      <Degree>0</Degree>
+      <Name>perfectionist</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -883,49 +948,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Photosensitive</DefName>
-      <Degree>0</Degree>
-      <Name>photosensitive</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>Pluviophile</DefName>
-      <Degree>0</Degree>
-      <Name>pluviophile</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>Polygamous</DefName>
-      <Degree>0</Degree>
-      <Name>polyamorous</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
       <DefName>Beauty</DefName>
       <Degree>1</Degree>
       <Name>pretty</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>Prude</DefName>
-      <Degree>0</Degree>
-      <Name>prude</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -1013,6 +1038,16 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>AIRobot_BaseTrait</DefName>
+      <Degree>1</Degree>
+      <Name>Robot</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>NaturalMood</DefName>
       <Degree>2</Degree>
       <Name>sanguine</Name>
@@ -1023,9 +1058,9 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Sedentary</DefName>
+      <DefName>SYR_Scientist</DefName>
       <Degree>0</Degree>
-      <Name>sedentary</Name>
+      <Name>scientist (old)</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -1073,6 +1108,26 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>SYR_Haggler</DefName>
+      <Degree>0</Degree>
+      <Name>silver tongue</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>AC_Sleever</DefName>
+      <Degree>0</Degree>
+      <Name>sleever</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>Industriousness</DefName>
       <Degree>-2</Degree>
       <Name>slothful</Name>
@@ -1103,16 +1158,6 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Socialite</DefName>
-      <Degree>0</Degree>
-      <Name>socialite</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
       <DefName>Beauty</DefName>
       <Degree>-2</Degree>
       <Name>staggeringly ugly</Name>
@@ -1126,6 +1171,36 @@
       <DefName>Nerves</DefName>
       <Degree>1</Degree>
       <Name>steadfast</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_SteadyHands</DefName>
+      <Degree>0</Degree>
+      <Name>steady hands</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_Agile</DefName>
+      <Degree>0</Degree>
+      <Name>stealthy</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_StrongBack</DefName>
+      <Degree>0</Degree>
+      <Name>strong back</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -1166,6 +1241,16 @@
       <DefName>DrugDesire</DefName>
       <Degree>-1</Degree>
       <Name>teetotaler</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SYR_Tinkerer</DefName>
+      <Degree>0</Degree>
+      <Name>tinkerer (old)</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -1263,16 +1348,6 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
-      <DefName>Unstable</DefName>
-      <Degree>0</Degree>
-      <Name>unstable</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
       <DefName>GAT_DiplomacyPowerOffset</DefName>
       <Degree>2</Degree>
       <Name>Very diplomatic</Name>
@@ -1336,46 +1411,6 @@
       <DefName>Xenophobia</DefName>
       <Degree>1</Degree>
       <Name>xenophobe</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>AIRobot_BaseTrait</DefName>
-      <Degree>1</Degree>
-      <Name>Robot</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>AC_FreeMind</DefName>
-      <Degree>0</Degree>
-      <Name>free mind</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>AC_Sleever</DefName>
-      <Degree>0</Degree>
-      <Name>sleever</Name>
-      <RemovePrice>5500</RemovePrice>
-    </XmlTrait>
-    <XmlTrait>
-      <AddPrice>3500</AddPrice>
-      <BypassLimit>false</BypassLimit>
-      <CanAdd>true</CanAdd>
-      <CanRemove>true</CanRemove>
-      <DefName>AC_AntiStack</DefName>
-      <Degree>0</Degree>
-      <Name>One Soul</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
   </Traits>

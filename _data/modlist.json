@@ -78,12 +78,6 @@
     "version": "8.0.1"
   },
   {
-    "author": "Nationality (updater) Linq (original)",
-    "name": "Psychology Unofficial Update",
-    "steamId": "2006654889",
-    "version": null
-  },
-  {
     "author": "sulusdacor",
     "name": "[sd] Advanced Powergeneration (Continued)",
     "steamId": "2079579039",
@@ -318,12 +312,6 @@
     "version": null
   },
   {
-    "author": "Indeed",
-    "name": "Stack XXL",
-    "steamId": "826366050",
-    "version": null
-  },
-  {
     "author": "AuxiliusM",
     "name": "Super Soil",
     "steamId": "823626435",
@@ -346,5 +334,41 @@
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-EnhancedOptions",
+    "steamId": "1241694757",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Alaestor",
+    "name": "Misc. Robots++",
+    "steamId": "747645520",
+    "version": null
+  },
+  {
+    "author": "gloriousyuri",
+    "name": "Misc. Craftable Robots Retexture",
+    "steamId": "2140349611",
+    "version": null
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Individuality",
+    "steamId": "1497105115",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.0.81"
   }
 ]
