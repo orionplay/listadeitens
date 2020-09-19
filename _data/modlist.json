@@ -33,7 +33,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7539.5466"
+    "version": "1.0.7562.33990"
   },
   {
     "author": "Gewen, Swenzi, and Alias",
@@ -108,10 +108,10 @@
     "version": null
   },
   {
-    "author": "Mic",
+    "author": "Mic, Iron Wolf, The Pheonix",
     "name": "Pawnmorpher",
     "steamId": "1786466855",
-    "version": "1.9.3"
+    "version": "1.9.3a"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -148,12 +148,6 @@
     "name": "ToolkitUtils",
     "steamId": "0",
     "version": "4.0.7.0"
-  },
-  {
-    "author": "Mic, Iron Wolf, The Pheonix",
-    "name": "Pawnmorpher Insects",
-    "steamId": "2215953133",
-    "version": "0.1"
   },
   {
     "author": "EdB",
@@ -267,13 +261,13 @@
     "author": "Kiame Vivacity",
     "name": "[KV] RimFridge",
     "steamId": "1180721235",
-    "version": "1.1.0.1"
+    "version": "1.2.1.0"
   },
   {
-    "author": "Helixien, Taranchuk, OskarPotocki",
+    "author": "Helixien, Taranchuk, Luizi, Saakra, OskarPotocki",
     "name": "Rimworld: Altered Carbon",
     "steamId": "2196278117",
-    "version": null
+    "version": "1.2"
   },
   {
     "author": "Ratys",
@@ -360,15 +354,69 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.0.81"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "aRandomKiwi, CrackaJack",
+    "name": "Android tiers - TX Series",
+    "steamId": "2010528561",
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Animal Food Restrictions",
+    "steamId": "1547017052",
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": "1677616980",
+    "version": null
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Genetic Rim",
+    "steamId": "1113137502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "GeneticRim Dinosauria Patch",
+    "steamId": "1257032899",
+    "version": null
+  },
+  {
     "author": "Syrchalis",
     "name": "[SYR] Individuality",
     "steamId": "1497105115",
     "version": "1.0.0.0"
   },
   {
-    "author": "Nemonian",
-    "name": "Moyo-From the depth",
-    "steamId": "2182305386",
-    "version": "1.0.81"
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.3"
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.0.0.0"
   }
 ]

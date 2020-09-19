@@ -1,6 +1,101 @@
 <?xml version="1.0"?>
 <ShopExpansion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Races>
+    <XmlRace DefName="M7Mech">
+      <Enabled>true</Enabled>
+      <Name>M7 Mechanised infantry</Name>
+      <Price>30000</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjArchBattleDroid">
+      <Enabled>true</Enabled>
+      <Name>Destroyer</Name>
+      <Price>16667</Price>
+    </XmlRace>
+    <XmlRace DefName="Android5Tier">
+      <Enabled>true</Enabled>
+      <Name>T5 Android</Name>
+      <Price>13333</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android4ITX">
+      <Enabled>true</Enabled>
+      <Name>TX4I Android</Name>
+      <Price>11667</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android4TX">
+      <Enabled>true</Enabled>
+      <Name>TX4 Android</Name>
+      <Price>11667</Price>
+    </XmlRace>
+    <XmlRace DefName="Android4Tier">
+      <Enabled>true</Enabled>
+      <Name>T4 Android</Name>
+      <Price>10000</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android3ITX">
+      <Enabled>true</Enabled>
+      <Name>TX3I Android</Name>
+      <Price>9667</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android3TX">
+      <Enabled>true</Enabled>
+      <Name>TX3 Android</Name>
+      <Price>9667</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android2KITX">
+      <Enabled>true</Enabled>
+      <Name>TX2KI Android</Name>
+      <Price>9167</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android2KTX">
+      <Enabled>true</Enabled>
+      <Name>TX2K Android</Name>
+      <Price>9167</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjArchDroid">
+      <Enabled>true</Enabled>
+      <Name>ArchoDroid</Name>
+      <Price>8333</Price>
+    </XmlRace>
+    <XmlRace DefName="Android3Tier">
+      <Enabled>true</Enabled>
+      <Name>T3 Android</Name>
+      <Price>8000</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjSpacerBattleDroid">
+      <Enabled>true</Enabled>
+      <Name>Wardroid</Name>
+      <Price>5833</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android2TX">
+      <Enabled>true</Enabled>
+      <Name>TX2 Android</Name>
+      <Price>5833</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android2ITX">
+      <Enabled>true</Enabled>
+      <Name>TX2I Android</Name>
+      <Price>5833</Price>
+    </XmlRace>
+    <XmlRace DefName="Alien_Moyo">
+      <Enabled>true</Enabled>
+      <Name>Moyo</Name>
+      <Price>5333</Price>
+    </XmlRace>
+    <XmlRace DefName="Android2Tier">
+      <Enabled>true</Enabled>
+      <Name>T2 Android</Name>
+      <Price>4167</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjBattleDroid">
+      <Enabled>true</Enabled>
+      <Name>Battledroid</Name>
+      <Price>3167</Price>
+    </XmlRace>
+    <XmlRace DefName="Human">
+      <Enabled>true</Enabled>
+      <Name>human</Name>
+      <Price>2917</Price>
+    </XmlRace>
     <XmlRace DefName="ChjSpacerDroid">
       <Enabled>true</Enabled>
       <Name>Advanced droid</Name>
@@ -11,55 +106,30 @@
       <Name>Android</Name>
       <Price>2500</Price>
     </XmlRace>
-    <XmlRace DefName="ChjArchDroid">
+    <XmlRace DefName="Android1Tier">
       <Enabled>true</Enabled>
-      <Name>ArchoDroid</Name>
-      <Price>8333</Price>
-    </XmlRace>
-    <XmlRace DefName="ChjBattleDroid">
-      <Enabled>true</Enabled>
-      <Name>Battledroid</Name>
-      <Price>3167</Price>
-    </XmlRace>
-    <XmlRace DefName="NChefDrone">
-      <Enabled>true</Enabled>
-      <Name>chef</Name>
-      <Price>667</Price>
-    </XmlRace>
-    <XmlRace DefName="ChjArchBattleDroid">
-      <Enabled>true</Enabled>
-      <Name>Destroyer</Name>
-      <Price>16667</Price>
+      <Name>T1 Android</Name>
+      <Price>2333</Price>
     </XmlRace>
     <XmlRace DefName="ChjDroid">
       <Enabled>true</Enabled>
       <Name>Droid</Name>
       <Price>1417</Price>
     </XmlRace>
-    <XmlRace DefName="NEngiDrone">
-      <Enabled>true</Enabled>
-      <Name>engineer</Name>
-      <Price>667</Price>
-    </XmlRace>
-    <XmlRace DefName="Human">
-      <Enabled>true</Enabled>
-      <Name>human</Name>
-      <Price>2917</Price>
-    </XmlRace>
     <XmlRace DefName="NMedicDrone">
       <Enabled>true</Enabled>
       <Name>medic</Name>
       <Price>1100</Price>
     </XmlRace>
-    <XmlRace DefName="Alien_Moyo">
+    <XmlRace DefName="NChefDrone">
       <Enabled>true</Enabled>
-      <Name>Moyo</Name>
-      <Price>5333</Price>
+      <Name>chef</Name>
+      <Price>667</Price>
     </XmlRace>
-    <XmlRace DefName="ChjSpacerBattleDroid">
+    <XmlRace DefName="NEngiDrone">
       <Enabled>true</Enabled>
-      <Name>Wardroid</Name>
-      <Price>5833</Price>
+      <Name>engineer</Name>
+      <Price>667</Price>
     </XmlRace>
   </Races>
   <Traits>
@@ -568,6 +638,16 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>FeelingsTowardHumanity</DefName>
+      <Degree>2</Degree>
+      <Name>Hates humanity</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>GAT_HeavySleeper</DefName>
       <Degree>0</Degree>
       <Name>Heavy Sleeper</Name>
@@ -611,6 +691,16 @@
       <DefName>Industriousness</DefName>
       <Degree>2</Degree>
       <Name>industrious</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>Intolerance</DefName>
+      <Degree>0</Degree>
+      <Name>Intolerance</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -688,9 +778,29 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>FeelingsTowardHumanity</DefName>
+      <Degree>1</Degree>
+      <Name>Loves humanity</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>Masochist</DefName>
       <Degree>0</Degree>
       <Name>masochist</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>MechAtlas</DefName>
+      <Degree>0</Degree>
+      <Name>Mech</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -1111,6 +1221,16 @@
       <DefName>SYR_Haggler</DefName>
       <Degree>0</Degree>
       <Name>silver tongue</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>SimpleMindedAndroid</DefName>
+      <Degree>0</Degree>
+      <Name>Simple minded</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>

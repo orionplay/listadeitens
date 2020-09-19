@@ -53,6 +53,24 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "silvertongue"
+      ],
+      "defName": "SYR_AnimalAffinity",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a special connection to animals and understands them better than most people. Animals also tend to understand what {PAWN_pronoun} wants from them. The time {PAWN_pronoun} spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals",
+      "name": "animalfriend",
+      "removePrice": 5500,
+      "stats": [
+        "-50% Animal gather speed",
+        "+20% Animal gather yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "AnnoyingVoice",
       "degree": 0,
@@ -78,6 +96,22 @@
         "+100.00% Trade price improvement",
         "+100.0% Armor - Blunt (armor stat)",
         "+120.0% Armor - Sharp (armor stat)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Architect",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is proficient with various construction materials, particularly stone. {PAWN_pronoun} will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200%",
+      "name": "architect",
+      "removePrice": 5500,
+      "stats": [
+        "+200% Smoothing speed",
+        "+10% Construct success chance"
       ]
     },
     {
@@ -220,6 +254,19 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "SYR_Blacksmith",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "blacksmith(old)",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Bloodlust",
       "degree": 0,
       "description": "{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others.",
@@ -317,6 +364,19 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "SYR_Chef",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "chef(old)",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "DrugDesire",
       "degree": 2,
       "description": "{PAWN_nameDef} has an intense fascination with chemical sources of enjoyment. {PAWN_pronoun} will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. {PAWN_pronoun} will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
@@ -372,6 +432,19 @@
       "stats": [
         "-6% Mental break threshold"
       ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_CreativeThinker",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a unique approach to science. {PAWN_pronoun} always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed",
+      "name": "creativethinker",
+      "removePrice": 5500,
+      "stats": []
     },
     {
       "addPrice": 3500,
@@ -499,6 +572,23 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_GoodFortune",
+      "degree": 0,
+      "description": "{PAWN_nameDef} seems to have rented all the good fortune on this Rimworld.",
+      "name": "fortunate",
+      "removePrice": 5500,
+      "stats": [
+        "+10% Mining yield",
+        "+20% Animal gather yield",
+        "+10% Plant harvest yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [
         "onesoul"
       ],
@@ -612,6 +702,22 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "SYR_GreenThumb",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a special talent to grow plants and nurture them even in hostile enviroments. {PAWN_pronoun} can grow any plant, even if other people would fail due to their lack of skills. {PAWN_pronoun} would like some plants in {PAWN_possessive} bedroom.\n\n    Can grow any plant regardless of skill",
+      "name": "greenthumb",
+      "removePrice": 5500,
+      "stats": [
+        "+80% Plant work speed",
+        "+10% Plant harvest yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "GAT_GreenestThumb",
       "degree": 0,
       "description": "{PAWN_nameDef} has a passion for gardening. {PAWN_pronoun} knows exactly what a plant needs to grow happily.",
@@ -620,6 +726,23 @@
       "stats": [
         "+50% Plant work speed",
         "+150% Plant harvest yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "brawler"
+      ],
+      "defName": "SYR_GunNut",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is a gun nut, {PAWN_possessive} life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand {PAWN_objective} a melee weapon.",
+      "name": "gunnut",
+      "removePrice": 5500,
+      "stats": [
+        "-10% Aiming time"
       ]
     },
     {
@@ -645,6 +768,23 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "SYR_HandEyeCoordination",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is exceptionally coordinated with his hands.",
+      "name": "hand-eyecoordination",
+      "removePrice": 5500,
+      "stats": [
+        "+15% Global work speed",
+        "-10% Aiming time",
+        "+5.0 Melee hit chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Industriousness",
       "degree": 1,
       "description": "[PAWN_nameDef] is a natural hard worker and will finish tasks faster than most.",
@@ -654,6 +794,19 @@
         "+20% Global work speed",
         "+10% Joy need rate multiplier"
       ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 2,
+      "description": "{PAWN_nameDef} has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
+      "name": "hateshumanity",
+      "removePrice": 5500,
+      "stats": []
     },
     {
       "addPrice": 3500,
@@ -692,6 +845,19 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "SYR_Hotblooded",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "hotblooded(old)",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "GAT_Imhotep",
       "degree": 0,
       "description": "{PAWN_nameDef} sends to sleep those who suffer, the new day bringing good health to them.",
@@ -721,6 +887,21 @@
       "stats": [
         "+35% Global work speed",
         "+15% Joy need rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Intolerance",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
+      "name": "intolerance",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
       ]
     },
     {
@@ -768,6 +949,21 @@
       "stats": [
         "+0.70 Move speed",
         "-10% Rest rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_KeenEye",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a keen eye and can spot even tiny mineral deposits. {PAWN_pronoun} will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain.",
+      "name": "keeneye",
+      "removePrice": 5500,
+      "stats": [
+        "+40% Mining speed"
       ]
     },
     {
@@ -825,10 +1021,66 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 1,
+      "description": "{PAWN_nameDef} has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
+      "name": "loveshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Masochist",
       "degree": 0,
       "description": "For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently.",
       "name": "masochist",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MechAtlas",
+      "degree": 0,
+      "description": "A mechanized infantry unit, they do not think or feel.",
+      "name": "mech",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_MechanoidExpert",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has had their fair share of encounters with mechanoids. {PAWN_pronoun} has become an expert in mechanoid construction and combat, making {PAWN_objective} uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50%",
+      "name": "mechanoidexpert",
+      "removePrice": 5500,
+      "stats": [
+        "+50% Mechanoid shredding efficiency"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_MedicalTraining",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "medicaltraining(old)",
       "removePrice": 5500,
       "stats": []
     },
@@ -1125,6 +1377,21 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Perfectionist",
+      "degree": 0,
+      "description": "{PAWN_nameDef} wants thing to be exactly right. This does take time, but the results speak for themselves.\n\n    Quality level +1 (50% chance)",
+      "name": "perfectionist",
+      "removePrice": 5500,
+      "stats": [
+        "-25% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [
         "sucker",
         "amateurhaggler",
@@ -1335,6 +1602,19 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Scientist",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "scientist(old)",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [
         "brawler"
       ],
@@ -1393,6 +1673,38 @@
       "name": "sickly",
       "removePrice": 5500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Haggler",
+      "degree": 0,
+      "description": "{PAWN_nameDef} knows exactly the right words for every situation. This also means {PAWN_possessive} insults hurt more.",
+      "name": "silvertongue",
+      "removePrice": 5500,
+      "stats": [
+        "+33.00% Trade price improvement",
+        "+20.00% Negotiation ability",
+        "+50.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SimpleMindedAndroid",
+      "degree": 0,
+      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
+      "name": "simpleminded",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
     },
     {
       "addPrice": 3500,
@@ -1493,6 +1805,61 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_SteadyHands",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has particularly steady hands, which don't even tremble in dire circumstances or when {PAWN_pronoun} {PAWN_objective}self is injured.\n\n    No self-tend penalty",
+      "name": "steadyhands",
+      "removePrice": 5500,
+      "stats": [
+        "+50% Medical tend speed",
+        "+10% Medical tend quality",
+        "+3.0 Shooting accuracy (people)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "defName": "SYR_Agile",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is uncommonly agile and stealthy, with better reflexes and a more flexible body than most.",
+      "name": "stealthy",
+      "removePrice": 5500,
+      "stats": [
+        "+100% Hunting stealth",
+        "+0.30 Move speed",
+        "+10.0 Melee dodge chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp"
+      ],
+      "defName": "SYR_StrongBack",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a very strong back or is part mule or something. {PAWN_pronoun} can carry significantly more as a normal person.",
+      "name": "strongback",
+      "removePrice": 5500,
+      "stats": [
+        "+75 Carrying capacity"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [
         "persuasive"
       ],
@@ -1555,6 +1922,19 @@
       "stats": [
         "+20% Global work speed"
       ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Tinkerer",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "tinkerer(old)",
+      "removePrice": 5500,
+      "stats": []
     },
     {
       "addPrice": 3500,
@@ -1807,323 +2187,68 @@
       "name": "xenophobe",
       "removePrice": 5500,
       "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "slowpoke",
-        "fastwalker",
-        "jogger"
-      ],
-      "defName": "SYR_Agile",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is uncommonly agile and stealthy, with better reflexes and a more flexible body than most.",
-      "name": "stealthy",
-      "removePrice": 5500,
-      "stats": [
-        "+100% Hunting stealth",
-        "+0.30 Move speed",
-        "+10.0 Melee dodge chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "silvertongue"
-      ],
-      "defName": "SYR_AnimalAffinity",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a special connection to animals and understands them better than most people. Animals also tend to understand what {PAWN_pronoun} wants from them. The time {PAWN_pronoun} spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals",
-      "name": "animalfriend",
-      "removePrice": 5500,
-      "stats": [
-        "-50% Animal gather speed",
-        "+20% Animal gather yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Architect",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is proficient with various construction materials, particularly stone. {PAWN_pronoun} will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200%",
-      "name": "architect",
-      "removePrice": 5500,
-      "stats": [
-        "+200% Smoothing speed",
-        "+10% Construct success chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_CreativeThinker",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a unique approach to science. {PAWN_pronoun} always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed",
-      "name": "creativethinker",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_GoodFortune",
-      "degree": 0,
-      "description": "{PAWN_nameDef} seems to have rented all the good fortune on this Rimworld.",
-      "name": "fortunate",
-      "removePrice": 5500,
-      "stats": [
-        "+10% Mining yield",
-        "+20% Animal gather yield",
-        "+10% Plant harvest yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_GreenThumb",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a special talent to grow plants and nurture them even in hostile enviroments. {PAWN_pronoun} can grow any plant, even if other people would fail due to their lack of skills. {PAWN_pronoun} would like some plants in {PAWN_possessive} bedroom.\n\n    Can grow any plant regardless of skill",
-      "name": "greenthumb",
-      "removePrice": 5500,
-      "stats": [
-        "+80% Plant work speed",
-        "+10% Plant harvest yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "brawler"
-      ],
-      "defName": "SYR_GunNut",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a gun nut, {PAWN_possessive} life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand {PAWN_objective} a melee weapon.",
-      "name": "gunnut",
-      "removePrice": 5500,
-      "stats": [
-        "-10% Aiming time"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_HandEyeCoordination",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is exceptionally coordinated with his hands.",
-      "name": "hand-eyecoordination",
-      "removePrice": 5500,
-      "stats": [
-        "+15% Global work speed",
-        "-10% Aiming time",
-        "+5.0 Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_KeenEye",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a keen eye and can spot even tiny mineral deposits. {PAWN_pronoun} will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain.",
-      "name": "keeneye",
-      "removePrice": 5500,
-      "stats": [
-        "+40% Mining speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_MechanoidExpert",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has had their fair share of encounters with mechanoids. {PAWN_pronoun} has become an expert in mechanoid construction and combat, making {PAWN_objective} uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50%",
-      "name": "mechanoidexpert",
-      "removePrice": 5500,
-      "stats": [
-        "+50% Mechanoid shredding efficiency"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Perfectionist",
-      "degree": 0,
-      "description": "{PAWN_nameDef} wants thing to be exactly right. This does take time, but the results speak for themselves.\n\n    Quality level +1 (50% chance)",
-      "name": "perfectionist",
-      "removePrice": 5500,
-      "stats": [
-        "-25% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Haggler",
-      "degree": 0,
-      "description": "{PAWN_nameDef} knows exactly the right words for every situation. This also means {PAWN_possessive} insults hurt more.",
-      "name": "silvertongue",
-      "removePrice": 5500,
-      "stats": [
-        "+33.00% Trade price improvement",
-        "+20.00% Negotiation ability",
-        "+50.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_SteadyHands",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has particularly steady hands, which don't even tremble in dire circumstances or when {PAWN_pronoun} {PAWN_objective}self is injured.\n\n    No self-tend penalty",
-      "name": "steadyhands",
-      "removePrice": 5500,
-      "stats": [
-        "+50% Medical tend speed",
-        "+10% Medical tend quality",
-        "+3.0 Shooting accuracy (people)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp"
-      ],
-      "defName": "SYR_StrongBack",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a very strong back or is part mule or something. {PAWN_pronoun} can carry significantly more as a normal person.",
-      "name": "strongback",
-      "removePrice": 5500,
-      "stats": [
-        "+75 Carrying capacity"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Blacksmith",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "blacksmith(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Chef",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "chef(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Hotblooded",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "hotblooded(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_MedicalTraining",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "medicaltraining(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Scientist",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "scientist(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Tinkerer",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "tinkerer(old)",
-      "removePrice": 5500,
-      "stats": []
     }
   ],
   "races": [
+    {
+      "defName": "M7Mech",
+      "enabled": true,
+      "name": "m7mechanisedinfantry",
+      "price": 30000
+    },
     {
       "defName": "ChjArchBattleDroid",
       "enabled": true,
       "name": "destroyer",
       "price": 16667
+    },
+    {
+      "defName": "Android5Tier",
+      "enabled": true,
+      "name": "t5android",
+      "price": 13333
+    },
+    {
+      "defName": "ATPP_Android4ITX",
+      "enabled": true,
+      "name": "tx4iandroid",
+      "price": 11667
+    },
+    {
+      "defName": "ATPP_Android4TX",
+      "enabled": true,
+      "name": "tx4android",
+      "price": 11667
+    },
+    {
+      "defName": "Android4Tier",
+      "enabled": true,
+      "name": "t4android",
+      "price": 10000
+    },
+    {
+      "defName": "ATPP_Android3ITX",
+      "enabled": true,
+      "name": "tx3iandroid",
+      "price": 9667
+    },
+    {
+      "defName": "ATPP_Android3TX",
+      "enabled": true,
+      "name": "tx3android",
+      "price": 9667
+    },
+    {
+      "defName": "ATPP_Android2KITX",
+      "enabled": true,
+      "name": "tx2kiandroid",
+      "price": 9167
+    },
+    {
+      "defName": "ATPP_Android2KTX",
+      "enabled": true,
+      "name": "tx2kandroid",
+      "price": 9167
     },
     {
       "defName": "ChjArchDroid",
@@ -2132,10 +2257,40 @@
       "price": 8333
     },
     {
+      "defName": "Android3Tier",
+      "enabled": true,
+      "name": "t3android",
+      "price": 8000
+    },
+    {
       "defName": "ChjSpacerBattleDroid",
       "enabled": true,
       "name": "wardroid",
       "price": 5833
+    },
+    {
+      "defName": "ATPP_Android2TX",
+      "enabled": true,
+      "name": "tx2android",
+      "price": 5833
+    },
+    {
+      "defName": "ATPP_Android2ITX",
+      "enabled": true,
+      "name": "tx2iandroid",
+      "price": 5833
+    },
+    {
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "moyo",
+      "price": 5333
+    },
+    {
+      "defName": "Android2Tier",
+      "enabled": true,
+      "name": "t2android",
+      "price": 4167
     },
     {
       "defName": "ChjBattleDroid",
@@ -2162,6 +2317,12 @@
       "price": 2500
     },
     {
+      "defName": "Android1Tier",
+      "enabled": true,
+      "name": "t1android",
+      "price": 2333
+    },
+    {
       "defName": "ChjDroid",
       "enabled": true,
       "name": "droid",
@@ -2184,12 +2345,6 @@
       "enabled": true,
       "name": "engineer",
       "price": 667
-    },
-    {
-      "defName": "Alien_Moyo",
-      "enabled": true,
-      "name": "moyo",
-      "price": 5333
     }
   ]
 }
