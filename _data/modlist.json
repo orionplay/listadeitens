@@ -33,7 +33,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7562.33990"
+    "version": "1.0.7568.35742"
   },
   {
     "author": "Gewen, Swenzi, and Alias",
@@ -150,12 +150,6 @@
     "version": "4.0.7.0"
   },
   {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": "735106432",
-    "version": "1.2.1"
-  },
-  {
     "author": "AliceTries",
     "name": "Woohooer 1.1",
     "steamId": "2127642337",
@@ -208,12 +202,6 @@
     "name": "Fluffy Breakdowns",
     "steamId": "726244033",
     "version": "4.4.54"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": "753498552",
-    "version": "1.2.05"
   },
   {
     "author": "Knight",
@@ -418,5 +406,65 @@
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": "753498552",
+    "version": "1.2.05"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": "735106432",
+    "version": "1.2.1"
+  },
+  {
+    "author": "Jecrell and Xen",
+    "name": "Star Wars - Fully Functional Lightsabers",
+    "steamId": "918200645",
+    "version": "1.21.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Factions",
+    "steamId": "918227266",
+    "version": "1.21.0.1"
+  },
+  {
+    "author": "Jecrell and Xen",
+    "name": "Star Wars - The Force",
+    "steamId": "918226861",
+    "version": "1.21.1.0"
+  },
+  {
+    "author": "Mythos",
+    "name": "Extended Human Body Simulation",
+    "steamId": "2174247669",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Mythos",
+    "name": "Diseases Overhauled",
+    "steamId": "2174246491",
+    "version": "1.9.3"
+  },
+  {
+    "author": "gguake",
+    "name": "Simple Search Bar",
+    "steamId": "1827546987",
+    "version": null
+  },
+  {
+    "author": "Xahkarias",
+    "name": "EvolvedOrgansRedux",
+    "steamId": "1978492655",
+    "version": "1.1.5"
   }
 ]

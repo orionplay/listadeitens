@@ -498,6 +498,26 @@
       <BypassLimit>false</BypassLimit>
       <CanAdd>true</CanAdd>
       <CanRemove>true</CanRemove>
+      <DefName>PJ_ForceSensitive</DefName>
+      <Degree>2</Degree>
+      <Name>Force Apprentice</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_ForceSensitive</DefName>
+      <Degree>1</Degree>
+      <Name>Force Sensitive</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
       <DefName>SYR_GoodFortune</DefName>
       <Degree>0</Degree>
       <Name>fortunate</Name>
@@ -551,6 +571,46 @@
       <DefName>Gourmand</DefName>
       <Degree>0</Degree>
       <Name>gourmand</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_GrayTrait</DefName>
+      <Degree>2</Degree>
+      <Name>Gray Jedi</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_GrayTrait</DefName>
+      <Degree>3</Degree>
+      <Name>Gray Master</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_GrayTrait</DefName>
+      <Degree>1</Degree>
+      <Name>Gray Padawan</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_GrayTrait</DefName>
+      <Degree>4</Degree>
+      <Name>Gray Sage</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -721,6 +781,46 @@
       <DefName>Jealous</DefName>
       <Degree>0</Degree>
       <Name>jealous</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_JediTrait</DefName>
+      <Degree>1</Degree>
+      <Name>Jedi</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_JediTrait</DefName>
+      <Degree>4</Degree>
+      <Name>Jedi Consular</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_JediTrait</DefName>
+      <Degree>2</Degree>
+      <Name>Jedi Knight</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_JediTrait</DefName>
+      <Degree>3</Degree>
+      <Name>Jedi Master</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
@@ -1231,6 +1331,46 @@
       <DefName>SimpleMindedAndroid</DefName>
       <Degree>0</Degree>
       <Name>Simple minded</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_SithTrait</DefName>
+      <Degree>1</Degree>
+      <Name>Sith</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_SithTrait</DefName>
+      <Degree>2</Degree>
+      <Name>Sith Inquisitor</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_SithTrait</DefName>
+      <Degree>3</Degree>
+      <Name>Sith Lord</Name>
+      <RemovePrice>5500</RemovePrice>
+    </XmlTrait>
+    <XmlTrait>
+      <AddPrice>3500</AddPrice>
+      <BypassLimit>false</BypassLimit>
+      <CanAdd>true</CanAdd>
+      <CanRemove>true</CanRemove>
+      <DefName>PJ_SithTrait</DefName>
+      <Degree>4</Degree>
+      <Name>Sith Master</Name>
       <RemovePrice>5500</RemovePrice>
     </XmlTrait>
     <XmlTrait>
