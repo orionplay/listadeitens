@@ -3104,7 +3104,7 @@
 	},
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AberrantFleshbeast"
 	},
@@ -4142,7 +4142,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -6752,7 +6752,7 @@
 	},
 	{
 		"abr": "imperialcredit",
-		"price": 0,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "PJ_ImperialCredit"
 	},
@@ -9673,216 +9673,6 @@
 		"defname": "PJ_RebScoutHat"
 	},
 	{
-		"abr": "auxilaryheart",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Abd_SecondHeart"
-	},
-	{
-		"abr": "butcher'snails",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Brain_Nails"
-	},
-	{
-		"abr": "calcium-alloyribcage",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Ribcage"
-	},
-	{
-		"abr": "combatserumgland",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Abd_Combat"
-	},
-	{
-		"abr": "cranialplating",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Skull_Plating"
-	},
-	{
-		"abr": "distendablejaw",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Jaw_Distend"
-	},
-	{
-		"abr": "extranano-filterlung",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Abd_ThirdLung"
-	},
-	{
-		"abr": "extradextrousarm",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_NormalArm"
-	},
-	{
-		"abr": "featheredwings",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Back_Wing"
-	},
-	{
-		"abr": "flameretardantskin",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Skin_Flame"
-	},
-	{
-		"abr": "graspingleg",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Leg_Hand"
-	},
-	{
-		"abr": "highpressurepincer",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_HighPincer"
-	},
-	{
-		"abr": "hormoneregulator",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Abd_Hormone"
-	},
-	{
-		"abr": "interferenceshielding",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Skull_Shielding"
-	},
-	{
-		"abr": "lymphaticproliferator",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Abd_Lymph"
-	},
-	{
-		"abr": "manipulatortail",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Tail_Hand"
-	},
-	{
-		"abr": "micro-analyzernose",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Nose"
-	},
-	{
-		"abr": "multichamberstomach",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Stomach"
-	},
-	{
-		"abr": "multifrequencyear",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Ear"
-	},
-	{
-		"abr": "multilayereddermalplating",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Skin_Plating"
-	},
-	{
-		"abr": "multispectrumeye",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Eye"
-	},
-	{
-		"abr": "musculaturebraces",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Back_Muscle"
-	},
-	{
-		"abr": "nanomechanites",
-		"price": 50,
-		"category": "Manufactured",
-		"defname": "EVOR_Resource_Mechanites"
-	},
-	{
-		"abr": "nano-alveolilung",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Lung"
-	},
-	{
-		"abr": "neuralhyperthreader",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Brain_Hyper"
-	},
-	{
-		"abr": "neuro-acceleratedspine",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Spine"
-	},
-	{
-		"abr": "organgrowingworksbench",
-		"price": 5583,
-		"category": "Production",
-		"defname": "EVOR_Building_Cellbench"
-	},
-	{
-		"abr": "ossifiedbonesaber",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_BoneSaber"
-	},
-	{
-		"abr": "pheromonereleasernose",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Nose_Pheromones"
-	},
-	{
-		"abr": "plaguelesions",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Artifact_Lesions"
-	},
-	{
-		"abr": "proteinslag",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "EVOR_Resource_Protein"
-	},
-	{
-		"abr": "psychicresonancetissue",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Skull_Resonance"
-	},
-	{
-		"abr": "quadlobeliver",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Liver"
-	},
-	{
-		"abr": "ra'svacoule",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Abd_NoAge"
-	},
-	{
-		"abr": "reactiveshimmerworms",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Artifact_Royalty_ReactiveWorms"
-	},
-	{
 		"abr": "reconditioner",
 		"price": 1833,
 		"category": "Mind",
@@ -9911,24 +9701,6 @@
 		"price": 642,
 		"category": "Apparel",
 		"defname": "PJ_Apparel_XVestPlate"
-	},
-	{
-		"abr": "reinforcedleg",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Leg_Normal"
-	},
-	{
-		"abr": "reinforcedtortoiseshell",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Artifact_Tortoise"
-	},
-	{
-		"abr": "rendingclaws",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_RendingClaw"
 	},
 	{
 		"abr": "reptile/bearincubator",
@@ -10189,12 +9961,6 @@
 		"defname": "ANN_SensoricEarside"
 	},
 	{
-		"abr": "serratedstingertail",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Tail_Blade"
-	},
-	{
 		"abr": "shadowrunner",
 		"price": 2458,
 		"category": "Cyborg",
@@ -10331,12 +10097,6 @@
 		"price": 2667,
 		"category": "Android",
 		"defname": "SoldierMindImplant"
-	},
-	{
-		"abr": "sonicimpactmace",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_SonicMace"
 	},
 	{
 		"abr": "sonicinfestationrepeller",
@@ -10741,42 +10501,6 @@
 		"defname": "Techprint_BrainWiring"
 	},
 	{
-		"abr": "techprint(engineeredresistantshellplating)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_EVOR_Research_Artifact_Tortoise"
-	},
-	{
-		"abr": "techprint(psuedo-invisibilitystudies)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_EVOR_Research_Artifact_ShimmerWorm"
-	},
-	{
-		"abr": "techprint(psychicareamoodprofileration)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_EVOR_Research_Artifact_NornCrown"
-	},
-	{
-		"abr": "techprint(weaponizedgermengineering)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_EVOR_Research_Artifact_Lesions"
-	},
-	{
-		"abr": "tentaclecluster",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Back_Hand"
-	},
-	{
-		"abr": "thenorncrown",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Artifact_Royalty_NornCrown"
-	},
-	{
 		"abr": "therizinosaurus",
 		"price": 1000,
 		"category": "Animal",
@@ -11053,28 +10777,10 @@
 		"defname": "SurgeonMindImplant"
 	},
 	{
-		"abr": "tri-platedlimb",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_PlatedLimb"
-	},
-	{
-		"abr": "triplefilterpasskidney",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Kidney"
-	},
-	{
 		"abr": "tritoxylon",
 		"price": 39,
 		"category": "Drugs",
 		"defname": "Tritoxylon"
-	},
-	{
-		"abr": "triwovenprimaryheart",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Heart"
 	},
 	{
 		"abr": "trooperjacket",
@@ -11213,12 +10919,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Utahraptor"
-	},
-	{
-		"abr": "variableinsulationskin",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Skin_Insulation"
 	},
 	{
 		"abr": "vat-grownboomtick",
@@ -11381,12 +11081,6 @@
 		"price": 2000,
 		"category": "Insect",
 		"defname": "VFEI_VenomGland"
-	},
-	{
-		"abr": "venomousfangs",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Jaw_Venom"
 	},
 	{
 		"abr": "ventricularsleeve",
@@ -11887,5 +11581,5 @@
 		"defname": "AC_SleeveCasketGuest"
 	}
 	],
-	"total": 1981
+	"total": 1930
 }

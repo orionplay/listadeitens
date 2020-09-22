@@ -19,12 +19,141 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "GAT_Achilles",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is said to have been dipped in the river of death, {PAWN_pronoun} seems invulnerable in battle.",
+      "name": "achillean",
+      "removePrice": 5500,
+      "stats": [
+        "+100% Immunity gain speed",
+        "+0.50 Move speed",
+        "+80.0% Armor - Blunt (armor stat)",
+        "+80.0% Armor - Sharp (armor stat)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "persuasive"
+      ],
+      "defName": "GAT_TradePriceImprovementOffset",
+      "degree": 1,
+      "description": "{PAWN_nameDef} likes to haggle. {PAWN_pronoun} gets better prices than most people.",
+      "name": "amateurhaggler",
+      "removePrice": 5500,
+      "stats": [
+        "+20.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "silvertongue"
+      ],
+      "defName": "SYR_AnimalAffinity",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a special connection to animals and understands them better than most people. Animals also tend to understand what {PAWN_pronoun} wants from them. The time {PAWN_pronoun} spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals",
+      "name": "animalfriend",
+      "removePrice": 5500,
+      "stats": [
+        "-50% Animal gather speed",
+        "+20% Animal gather yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "AnnoyingVoice",
       "degree": 0,
       "description": "{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}.",
       "name": "annoyingvoice",
       "removePrice": 5500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Aphrodite",
+      "degree": 0,
+      "description": "So wondrous is {PAWN_nameDef} to behold that one look can inspire tears, desire, jealousy, and love.",
+      "name": "aphrodite'sgrace",
+      "removePrice": 5500,
+      "stats": [
+        "+100.00% Negotiation ability",
+        "+100.00% Social impact",
+        "+100.00% Trade price improvement",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+120.0% Armor - Sharp (armor stat)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Architect",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is proficient with various construction materials, particularly stone. {PAWN_pronoun} will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200%",
+      "name": "architect",
+      "removePrice": 5500,
+      "stats": [
+        "+200% Smoothing speed",
+        "+10% Construct success chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Ares",
+      "degree": 0,
+      "description": "Feared by {PAWN_objective} enemies and worshiped by warriors, {PAWN_nameDef} is a bloodthirsty embodiment of war.",
+      "name": "ares'wrath",
+      "removePrice": 5500,
+      "stats": [
+        "+1.0 Shooting accuracy (people)",
+        "+0.50 Move speed",
+        "+1.0 Melee hit chance",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+120.0% Armor - Sharp (armor stat)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Artemis",
+      "degree": 0,
+      "description": "{PAWN_nameDef}'s natural instinct to protect and nurture the people led {PAWN_objective} to champion the hunt.",
+      "name": "artemis'blessing",
+      "removePrice": 5500,
+      "stats": [
+        "+50% Hunting stealth",
+        "+1.0 Shooting accuracy (people)",
+        "-100% Aiming time",
+        "+100% Butchery speed",
+        "+1.0 Cooking speed",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+120.0% Armor - Sharp (armor stat)",
+        "+1 Foraged food amount"
+      ]
     },
     {
       "addPrice": 3500,
@@ -61,6 +190,41 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "overweight"
+      ],
+      "defName": "GAT_Athletic",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has honed {PAWN_possessive} mind and body for most of {PAWN_possessive} life.",
+      "name": "athletic",
+      "removePrice": 5500,
+      "stats": [
+        "+0.35 Move speed",
+        "+25% Global work speed",
+        "-10% Aiming time",
+        "+0.1 Shooting accuracy (people)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_SocialImpactOffset",
+      "degree": -1,
+      "description": "The elephant in the room is named {PAWN_nameDef}.",
+      "name": "awkward",
+      "removePrice": 5500,
+      "stats": [
+        "-20.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": 2,
@@ -81,6 +245,19 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to both men and women.",
       "name": "bisexual",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Blacksmith",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "blacksmith(old)",
       "removePrice": 5500,
       "stats": []
     },
@@ -169,6 +346,37 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "GAT_CarefulSurgeon",
+      "degree": 0,
+      "description": "{PAWN_nameDef} takes medicine very seriously. {PAWN_pronoun} wants to do no harm and isn't afraid to take longer to do the job right.",
+      "name": "carefulsurgeon",
+      "removePrice": 5500,
+      "stats": [
+        "+20% Medical operation speed",
+        "+20% Medical tend speed",
+        "+60% Medical surgery success chance",
+        "+30% Medical tend quality"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Chef",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "chef(old)",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "DrugDesire",
       "degree": 2,
       "description": "{PAWN_nameDef} has an intense fascination with chemical sources of enjoyment. {PAWN_pronoun} will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. {PAWN_pronoun} will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
@@ -186,6 +394,55 @@
       "degree": 1,
       "description": "{PAWN_nameDef} has an unusual interest in chemical sources of enjoyment. {PAWN_pronoun} will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. {PAWN_pronoun} will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
       "name": "chemicalinterest",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Clean",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is fastidious to a fault.",
+      "name": "clean",
+      "removePrice": 5500,
+      "stats": [
+        "-25% Global work speed",
+        "-50.00% Food poison chance (chance to poison a meal)",
+        "+20% Immunity gain speed",
+        "+20% Medical surgery success chance",
+        "+20% Medical tend quality",
+        "+20% Medical operation speed",
+        "+20% Medical tend speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Confident",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is confident that everything will work out for the best.",
+      "name": "confident",
+      "removePrice": 5500,
+      "stats": [
+        "-6% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_CreativeThinker",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a unique approach to science. {PAWN_pronoun} always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed",
+      "name": "creativethinker",
       "removePrice": 5500,
       "stats": []
     },
@@ -221,6 +478,53 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "GAT_Dexterous",
+      "degree": 0,
+      "description": "{PAWN_nameDef} demonstrates neat skill, especially with {PAWN_possessive} hands.",
+      "name": "dexterous",
+      "removePrice": 5500,
+      "stats": [
+        "+25% Global work speed",
+        "-10% Aiming time"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_DiplomacyPowerOffset",
+      "degree": 1,
+      "description": "{PAWN_nameDef} knows how to grease the wheels of diplomacy.",
+      "name": "diplomatic",
+      "removePrice": 5500,
+      "stats": [
+        "+20.00% Negotiation ability"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_EfficientBuilder",
+      "degree": 0,
+      "description": "{PAWN_nameDef} doesn't like to waste materials. {PAWN_pronoun} takes great care in {PAWN_possessive} work.",
+      "name": "efficientbuilder",
+      "removePrice": 5500,
+      "stats": [
+        "-10% Construction speed",
+        "+150% Construct success chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "FastLearner",
       "degree": 0,
       "description": "{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.",
@@ -229,6 +533,23 @@
       "stats": [
         "+75% Global learning factor",
         "-10% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_FastMiner",
+      "degree": 0,
+      "description": "{PAWN_nameDef} knows how to exploit the cleavage of rocks. {PAWN_pronoun} doesn't understand why plants are so much more fragile though.",
+      "name": "fastminer",
+      "removePrice": 5500,
+      "stats": [
+        "+50% Mining speed",
+        "+50% Smoothing speed",
+        "-75% Plant harvest yield"
       ]
     },
     {
@@ -248,6 +569,64 @@
     },
     {
       "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "PJ_ForceSensitive",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
+      "name": "forceapprentice",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "PJ_ForceSensitive",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
+      "name": "forcesensitive",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_GoodFortune",
+      "degree": 0,
+      "description": "{PAWN_nameDef} seems to have rented all the good fortune on this Rimworld.",
+      "name": "fortunate",
+      "removePrice": 5500,
+      "stats": [
+        "+10% Mining yield",
+        "+20% Animal gather yield",
+        "+10% Plant harvest yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "onesoul"
+      ],
+      "defName": "AC_FreeMind",
+      "degree": 0,
+      "description": "{PAWN_nameDef} always saw their body as nothing more than a vessel for their mind. {PAWN_pronoun} does not care about the gender, age or looks of a body.",
+      "name": "freemind",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -258,6 +637,40 @@
       "name": "gay",
       "removePrice": 5500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_GeniusResearcher",
+      "degree": 0,
+      "description": "Strange new ideas just appear in the mind of {PAWN_nameDef}. Researching new technology comes easily to {PAWN_nameDef}, but {PAWN_pronoun} always seems distracted.",
+      "name": "geniusinventor",
+      "removePrice": 5500,
+      "stats": [
+        "+70% Research speed",
+        "-20% Global work speed",
+        "-0.10 Move speed",
+        "+10% Psychic sensitivity",
+        "+10% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Glutton",
+      "degree": 0,
+      "description": "Some people use a spoon to eat. {PAWN_nameDef} uses a shovel...",
+      "name": "glutton",
+      "removePrice": 5500,
+      "stats": [
+        "+25% Eating speed"
+      ]
     },
     {
       "addPrice": 3500,
@@ -279,6 +692,102 @@
         "+10% Butchery efficiency",
         "+35% Hunger rate multiplier"
       ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_GrayTrait",
+      "degree": 2,
+      "description": "[PAWN_nameDef] is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "name": "grayjedi",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_GrayTrait",
+      "degree": 3,
+      "description": "[PAWN_nameDef] is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "name": "graymaster",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_GrayTrait",
+      "degree": 1,
+      "description": "[PAWN_nameDef] is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "name": "graypadawan",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_GrayTrait",
+      "degree": 4,
+      "description": "[PAWN_nameDef] is attuned to the Living Force. [PAWN_pronoun] sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "name": "graysage",
+      "removePrice": 5500,
+      "stats": []
     },
     {
       "addPrice": 3500,
@@ -315,6 +824,89 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "SYR_GreenThumb",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a special talent to grow plants and nurture them even in hostile enviroments. {PAWN_pronoun} can grow any plant, even if other people would fail due to their lack of skills. {PAWN_pronoun} would like some plants in {PAWN_possessive} bedroom.\n\n    Can grow any plant regardless of skill",
+      "name": "greenthumb",
+      "removePrice": 5500,
+      "stats": [
+        "+80% Plant work speed",
+        "+10% Plant harvest yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_GreenestThumb",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a passion for gardening. {PAWN_pronoun} knows exactly what a plant needs to grow happily.",
+      "name": "greenthumb",
+      "removePrice": 5500,
+      "stats": [
+        "+50% Plant work speed",
+        "+150% Plant harvest yield"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "brawler"
+      ],
+      "defName": "SYR_GunNut",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is a gun nut, {PAWN_possessive} life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand {PAWN_objective} a melee weapon.",
+      "name": "gunnut",
+      "removePrice": 5500,
+      "stats": [
+        "-10% Aiming time"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "persuasive"
+      ],
+      "defName": "GAT_TradePriceImprovementOffset",
+      "degree": 2,
+      "description": "{PAWN_nameDef} always gets the best deals - so much so that others often fail to realize they're being duped.",
+      "name": "hagglingenthusiast",
+      "removePrice": 5500,
+      "stats": [
+        "+40.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_HandEyeCoordination",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is exceptionally coordinated with his hands.",
+      "name": "hand-eyecoordination",
+      "removePrice": 5500,
+      "stats": [
+        "+15% Global work speed",
+        "-10% Aiming time",
+        "+5.0 Melee hit chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Industriousness",
       "degree": 1,
       "description": "[PAWN_nameDef] is a natural hard worker and will finish tasks faster than most.",
@@ -331,6 +923,84 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 2,
+      "description": "{PAWN_nameDef} has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
+      "name": "hateshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_HeavySleeper",
+      "degree": 0,
+      "description": "{PAWN_nameDef} could sleep through an earthquake.",
+      "name": "heavysleeper",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Hercules",
+      "degree": 0,
+      "description": "Brave {PAWN_nameDef}, born with impossible strength and force of will.",
+      "name": "herculean",
+      "removePrice": 5500,
+      "stats": [
+        "-100% Mental break threshold",
+        "+150 Carrying capacity",
+        "+50.0% Armor - Blunt (armor stat)",
+        "+70.0% Armor - Sharp (armor stat)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Hotblooded",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "hotblooded(old)",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Imhotep",
+      "degree": 0,
+      "description": "{PAWN_nameDef} sends to sleep those who suffer, the new day bringing good health to them.",
+      "name": "imhotep'swisdom",
+      "removePrice": 5500,
+      "stats": [
+        "+100% Medical tend speed",
+        "+100% Medical operation speed",
+        "+100% Medical surgery success chance",
+        "+100% Medical tend quality",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+120.0% Armor - Sharp (armor stat)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Industriousness",
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -339,6 +1009,21 @@
       "stats": [
         "+35% Global work speed",
         "+15% Joy need rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Intolerance",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
+      "name": "intolerance",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
       ]
     },
     {
@@ -377,6 +1062,102 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_JediTrait",
+      "degree": 1,
+      "description": "[PAWN_nameDef] Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
+      "name": "jedi",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_JediTrait",
+      "degree": 4,
+      "description": "[PAWN_nameDef] is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
+      "name": "jediconsular",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_JediTrait",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
+      "name": "jediknight",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "defName": "PJ_JediTrait",
+      "degree": 3,
+      "description": "[PAWN_nameDef] is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
+      "name": "jedimaster",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "SpeedOffset",
       "degree": 2,
@@ -386,6 +1167,21 @@
       "stats": [
         "+0.70 Move speed",
         "-10% Rest rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_KeenEye",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a keen eye and can spot even tiny mineral deposits. {PAWN_pronoun} will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain.",
+      "name": "keeneye",
+      "removePrice": 5500,
+      "stats": [
+        "+40% Mining speed"
       ]
     },
     {
@@ -426,12 +1222,120 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "GAT_LovedByAnimals",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is loved by animals, but people don't feel quite the same.",
+      "name": "lovedbyanimals",
+      "removePrice": 5500,
+      "stats": [
+        "+50.00% Train animal chance",
+        "+50.00% Tame animal chance",
+        "-50.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 1,
+      "description": "{PAWN_nameDef} has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
+      "name": "loveshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Masochist",
       "degree": 0,
       "description": "For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently.",
       "name": "masochist",
       "removePrice": 5500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MechAtlas",
+      "degree": 0,
+      "description": "A mechanized infantry unit, they do not think or feel.",
+      "name": "mech",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_MechanoidExpert",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has had their fair share of encounters with mechanoids. {PAWN_pronoun} has become an expert in mechanoid construction and combat, making {PAWN_objective} uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50%",
+      "name": "mechanoidexpert",
+      "removePrice": 5500,
+      "stats": [
+        "+50% Mechanoid shredding efficiency"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_MedicalTraining",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "medicaltraining(old)",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_SocialImpactOffset",
+      "degree": 2,
+      "description": "{PAWN_nameDef} could talk for days on end and people would still listen to that sweet voice.",
+      "name": "melodicvoice",
+      "removePrice": 5500,
+      "stats": [
+        "+40.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Mercury",
+      "degree": 0,
+      "description": "It is said that {PAWN_nameDef} can leap the space between lightning and thunder, outfox the fox king, and reach tomorrow before the sun.",
+      "name": "mercury'sblessing",
+      "removePrice": 5500,
+      "stats": [
+        "+100% Eating speed",
+        "+100% Global work speed",
+        "+100% Global learning factor",
+        "+1.00 Move speed",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+120.0% Armor - Sharp (armor stat)"
+      ]
     },
     {
       "addPrice": 3500,
@@ -458,6 +1362,80 @@
       "name": "misogynist",
       "removePrice": 5500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Morbid",
+      "degree": 0,
+      "description": "Ashes to ashes and dust to dust. {PAWN_nameDef} is fascinated by corpses and decay.",
+      "name": "morbid",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "transhumanist",
+        "bodypurist"
+      ],
+      "defName": "MutationAffinity",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is intrigued by the idea of becoming something other than human.",
+      "name": "mutationaffinity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_ProfessionalButcher",
+      "degree": 0,
+      "description": "Sometimes it's hard to tell where the knife stops and {PAWN_nameDef} starts. People like to say that \"if it bleeds {PAWN_nameDef} can skin it and split it\".",
+      "name": "naturalbutcher",
+      "removePrice": 5500,
+      "stats": [
+        "-50% Mechanoid shredding speed",
+        "+50% Butchery speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "NaturalHunter",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is now a natural hunter.",
+      "name": "naturalhunter",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Nearsighted",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a hard time seeing things clearly unless {PAWN_pronoun} is relatively close to it.",
+      "name": "near-sighted",
+      "removePrice": 5500,
+      "stats": [
+        "-10% Global work speed",
+        "-0.3 Shooting accuracy (people)"
+      ]
     },
     {
       "addPrice": 3500,
@@ -537,10 +1515,127 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "GAT_Odysseus",
+      "degree": 0,
+      "description": "Craftier by far than any mortal man, {PAWN_nameDef} is also a very capable warrior.",
+      "name": "odyssean",
+      "removePrice": 5500,
+      "stats": [
+        "+100% Global learning factor",
+        "+0.5 Shooting accuracy (people)",
+        "+0.5 Melee hit chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "freemind",
+        "sleever"
+      ],
+      "defName": "AC_AntiStack",
+      "degree": 0,
+      "description": "{PAWN_nameDef} considers the use of stacks and sleeves as amoral. {PAWN_pronoun} believes that humans only get one life and that the extension of their lives via technology is a sin.",
+      "name": "onesoul",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "NaturalMood",
       "degree": 1,
       "description": "[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.",
       "name": "optimist",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "athletic"
+      ],
+      "defName": "GAT_Overweight",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is seriously overweight. {PAWN_pronoun} moves slowly, and works even slower.",
+      "name": "overweight",
+      "removePrice": 5500,
+      "stats": [
+        "-0.30 Move speed",
+        "-25% Global work speed",
+        "+10 Meat amount"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Perceptive",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a keen eye, and can quickly spot a target.",
+      "name": "perceptive",
+      "removePrice": 5500,
+      "stats": [
+        "+0.3 Shooting accuracy (people)",
+        "+0.1 Melee hit chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Perfectionist",
+      "degree": 0,
+      "description": "{PAWN_nameDef} wants thing to be exactly right. This does take time, but the results speak for themselves.\n\n    Quality level +1 (50% chance)",
+      "name": "perfectionist",
+      "removePrice": 5500,
+      "stats": [
+        "-25% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "sucker",
+        "amateurhaggler",
+        "hagglingenthusiast"
+      ],
+      "defName": "GAT_Persuasive",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is good at persuading someone to do or believe something through reasoning or the use of temptation.",
+      "name": "persuasive",
+      "removePrice": 5500,
+      "stats": [
+        "+10.00% Negotiation ability",
+        "+10.00% Social impact",
+        "+5.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Pervert",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is an extreme pervert. {PAWN_pronoun} doesn't mind sharing a room, or streaking. It makes others feel incredibly uncomfortable.",
+      "name": "pervert",
       "removePrice": 5500,
       "stats": []
     },
@@ -664,6 +1759,21 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "GAT_QuickLearner",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has always picked up skills pretty quickly.",
+      "name": "quicklearner",
+      "removePrice": 5500,
+      "stats": [
+        "+25% Global learning factor"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "QuickSleeper",
       "degree": 0,
       "description": "{PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time.",
@@ -671,302 +1781,6 @@
       "removePrice": 5500,
       "stats": [
         "+50% Rest rate multiplier"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "NaturalMood",
-      "degree": 2,
-      "description": "[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.",
-      "name": "sanguine",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Immunity",
-      "degree": -1,
-      "description": "[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
-      "name": "sickly",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Industriousness",
-      "degree": -2,
-      "description": "[PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task.",
-      "name": "slothful",
-      "removePrice": 5500,
-      "stats": [
-        "-35% Global work speed",
-        "-67% Joy need rate multiplier"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "toosmart"
-      ],
-      "defName": "SlowLearner",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has never learned how to learn. The motivation and talent is there, {PAWN_pronoun} just needs time and patience. \n\n    Each skill point increases global learning factor by 2%",
-      "name": "slowlearner",
-      "removePrice": 5500,
-      "stats": [
-        "-130% Global learning factor"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SpeedOffset",
-      "degree": -1,
-      "description": "[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere.",
-      "name": "slowpoke",
-      "removePrice": 5500,
-      "stats": [
-        "-0.40 Move speed",
-        "+25% Rest rate multiplier"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Beauty",
-      "degree": -2,
-      "description": "{PAWN_nameDef} is staggeringly ugly. {PAWN_possessive} face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at {PAWN_objective} while conversing. If there is an upside to this than that no one minds if {PAWN_possessive} face has a scar or two... or ten.",
-      "name": "staggeringlyugly",
-      "removePrice": 5500,
-      "stats": [
-        "-2.0 Beauty"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Nerves",
-      "degree": 1,
-      "description": "[PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people.",
-      "name": "steadfast",
-      "removePrice": 5500,
-      "stats": [
-        "-9% Mental break threshold"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Immunity",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
-      "name": "super-immune",
-      "removePrice": 5500,
-      "stats": [
-        "+30% Immunity gain speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "DrugDesire",
-      "degree": -1,
-      "description": "{PAWN_nameDef} abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. {PAWN_pronoun} is a hard working individual.",
-      "name": "teetotaler",
-      "removePrice": 5500,
-      "stats": [
-        "+20% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile",
-        "slowlearner"
-      ],
-      "defName": "TooSmart",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.",
-      "name": "toosmart",
-      "removePrice": 5500,
-      "stats": [
-        "+75% Global learning factor",
-        "+12% Mental break threshold"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "TorturedArtist",
-      "degree": 0,
-      "description": "{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
-      "name": "torturedartist",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Tough",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} stands solid like a rock, and equally unmovable.",
-      "name": "tough",
-      "removePrice": 5500,
-      "stats": [
-        "-0.40 Move speed",
-        "x50% Incoming damage multiplier"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "bodypurist"
-      ],
-      "defName": "Transhumanist",
-      "degree": 0,
-      "description": "{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts.",
-      "name": "transhumanist",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "brawler"
-      ],
-      "defName": "ShootingAccuracy",
-      "degree": -1,
-      "description": "Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.",
-      "name": "trigger-happy",
-      "removePrice": 5500,
-      "stats": [
-        "-50% Aiming time",
-        "-5.0 Shooting accuracy (people)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Beauty",
-      "degree": -1,
-      "description": "{PAWN_nameDef} is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if {PAWN_possessive} face has a scar or two.",
-      "name": "ugly",
-      "removePrice": 5500,
-      "stats": [
-        "-1.0 Beauty"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Undergrounder",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.",
-      "name": "undergrounder",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Neurotic",
-      "degree": 2,
-      "description": "{PAWN_nameDef} feels constantly nervous about everything that has to get done. {PAWN_pronoun} will work extremely hard to attain this state of affairs, but {PAWN_possessive} random mood swings can easily get the better of {PAWN_objective}.",
-      "name": "veryneurotic",
-      "removePrice": 5500,
-      "stats": [
-        "+40% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Nerves",
-      "degree": -2,
-      "description": "{PAWN_nameDef} is on a hair-trigger all the time. {PAWN_pronoun} is the first to break in any tough situation. If that happens {PAWN_pronoun} will find something to smash.",
-      "name": "volatile",
-      "removePrice": 5500,
-      "stats": [
-        "+15% Mental break threshold"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "brawler"
-      ],
-      "defName": "Wimp",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. At least {PAWN_pronoun} is really good at running and for whatever reason seems to be nearly immune to toxic substances.",
-      "name": "wimp",
-      "removePrice": 5500,
-      "stats": [
-        "-45% Pain shock threshold",
-        "-90% Toxic sensitivity",
-        "+0.40 Move speed"
       ]
     },
     {
@@ -994,408 +1808,12 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "Xenophobia",
-      "degree": 1,
-      "description": "[PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals.",
-      "name": "xenophobe",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Xenophobia",
-      "degree": -1,
-      "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "name": "xenophile",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Confident",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is confident that everything will work out for the best.",
-      "name": "confident",
-      "removePrice": 5500,
-      "stats": [
-        "-6% Mental break threshold"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "athletic"
-      ],
-      "defName": "GAT_Overweight",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is seriously overweight. {PAWN_pronoun} moves slowly, and works even slower.",
-      "name": "overweight",
-      "removePrice": 5500,
-      "stats": [
-        "-0.30 Move speed",
-        "-25% Global work speed",
-        "+10 Meat amount"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "overweight"
-      ],
-      "defName": "GAT_Athletic",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has honed {PAWN_possessive} mind and body for most of {PAWN_possessive} life.",
-      "name": "athletic",
-      "removePrice": 5500,
-      "stats": [
-        "+0.35 Move speed",
-        "+25% Global work speed",
-        "-10% Aiming time",
-        "+0.1 Shooting accuracy (people)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Dexterous",
-      "degree": 0,
-      "description": "{PAWN_nameDef} demonstrates neat skill, especially with {PAWN_possessive} hands.",
-      "name": "dexterous",
-      "removePrice": 5500,
-      "stats": [
-        "+25% Global work speed",
-        "-10% Aiming time"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Perceptive",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a keen eye, and can quickly spot a target.",
-      "name": "perceptive",
-      "removePrice": 5500,
-      "stats": [
-        "+0.3 Shooting accuracy (people)",
-        "+0.1 Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Clean",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is fastidious to a fault.",
-      "name": "clean",
-      "removePrice": 5500,
-      "stats": [
-        "-25% Global work speed",
-        "-50.00% Food poison chance (chance to poison a meal)",
-        "+20% Immunity gain speed",
-        "+20% Medical surgery success chance",
-        "+20% Medical tend quality",
-        "+20% Medical operation speed",
-        "+20% Medical tend speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Nearsighted",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a hard time seeing things clearly unless {PAWN_pronoun} is relatively close to it.",
-      "name": "near-sighted",
-      "removePrice": 5500,
-      "stats": [
-        "-10% Global work speed",
-        "-0.3 Shooting accuracy (people)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_QuickLearner",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has always picked up skills pretty quickly.",
-      "name": "quicklearner",
-      "removePrice": 5500,
-      "stats": [
-        "+25% Global learning factor"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Glutton",
-      "degree": 0,
-      "description": "Some people use a spoon to eat. {PAWN_nameDef} uses a shovel...",
-      "name": "glutton",
-      "removePrice": 5500,
-      "stats": [
-        "+25% Eating speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "sucker",
-        "amateurhaggler",
-        "hagglingenthusiast"
-      ],
-      "defName": "GAT_Persuasive",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is good at persuading someone to do or believe something through reasoning or the use of temptation.",
-      "name": "persuasive",
-      "removePrice": 5500,
-      "stats": [
-        "+10.00% Negotiation ability",
-        "+10.00% Social impact",
-        "+5.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_HeavySleeper",
-      "degree": 0,
-      "description": "{PAWN_nameDef} could sleep through an earthquake.",
-      "name": "heavysleeper",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Pervert",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is an extreme pervert. {PAWN_pronoun} doesn't mind sharing a room, or streaking. It makes others feel incredibly uncomfortable.",
-      "name": "pervert",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Morbid",
-      "degree": 0,
-      "description": "Ashes to ashes and dust to dust. {PAWN_nameDef} is fascinated by corpses and decay.",
-      "name": "morbid",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_CarefulSurgeon",
-      "degree": 0,
-      "description": "{PAWN_nameDef} takes medicine very seriously. {PAWN_pronoun} wants to do no harm and isn't afraid to take longer to do the job right.",
-      "name": "carefulsurgeon",
-      "removePrice": 5500,
-      "stats": [
-        "+20% Medical operation speed",
-        "+20% Medical tend speed",
-        "+60% Medical surgery success chance",
-        "+30% Medical tend quality"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_ProfessionalButcher",
-      "degree": 0,
-      "description": "Sometimes it's hard to tell where the knife stops and {PAWN_nameDef} starts. People like to say that \"if it bleeds {PAWN_nameDef} can skin it and split it\".",
-      "name": "naturalbutcher",
-      "removePrice": 5500,
-      "stats": [
-        "-50% Mechanoid shredding speed",
-        "+50% Butchery speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_LovedByAnimals",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is loved by animals, but people don't feel quite the same.",
-      "name": "lovedbyanimals",
-      "removePrice": 5500,
-      "stats": [
-        "+50.00% Train animal chance",
-        "+50.00% Tame animal chance",
-        "-50.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_GeniusResearcher",
-      "degree": 0,
-      "description": "Strange new ideas just appear in the mind of {PAWN_nameDef}. Researching new technology comes easily to {PAWN_nameDef}, but {PAWN_pronoun} always seems distracted.",
-      "name": "geniusinventor",
-      "removePrice": 5500,
-      "stats": [
-        "+70% Research speed",
-        "-20% Global work speed",
-        "-0.10 Move speed",
-        "+10% Psychic sensitivity",
-        "+10% Mental break threshold"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_GreenestThumb",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a passion for gardening. {PAWN_pronoun} knows exactly what a plant needs to grow happily.",
-      "name": "greenthumb",
-      "removePrice": 5500,
-      "stats": [
-        "+50% Plant work speed",
-        "+150% Plant harvest yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_EfficientBuilder",
-      "degree": 0,
-      "description": "{PAWN_nameDef} doesn't like to waste materials. {PAWN_pronoun} takes great care in {PAWN_possessive} work.",
-      "name": "efficientbuilder",
-      "removePrice": 5500,
-      "stats": [
-        "-10% Construction speed",
-        "+150% Construct success chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_FastMiner",
-      "degree": 0,
-      "description": "{PAWN_nameDef} knows how to exploit the cleavage of rocks. {PAWN_pronoun} doesn't understand why plants are so much more fragile though.",
-      "name": "fastminer",
-      "removePrice": 5500,
-      "stats": [
-        "+50% Mining speed",
-        "+50% Smoothing speed",
-        "-75% Plant harvest yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "persuasive"
-      ],
-      "defName": "GAT_TradePriceImprovementOffset",
-      "degree": -1,
-      "description": "They say a sucker is born every minute, and {PAWN_nameDef} is that sucker.",
-      "name": "sucker",
-      "removePrice": 5500,
-      "stats": [
-        "-20.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "persuasive"
-      ],
-      "defName": "GAT_TradePriceImprovementOffset",
-      "degree": 1,
-      "description": "{PAWN_nameDef} likes to haggle. {PAWN_pronoun} gets better prices than most people.",
-      "name": "amateurhaggler",
-      "removePrice": 5500,
-      "stats": [
-        "+20.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "persuasive"
-      ],
-      "defName": "GAT_TradePriceImprovementOffset",
+      "defName": "NaturalMood",
       "degree": 2,
-      "description": "{PAWN_nameDef} always gets the best deals - so much so that others often fail to realize they're being duped.",
-      "name": "hagglingenthusiast",
+      "description": "[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.",
+      "name": "sanguine",
       "removePrice": 5500,
-      "stats": [
-        "+40.00% Trade price improvement"
-      ]
+      "stats": []
     },
     {
       "addPrice": 3500,
@@ -1403,89 +1821,12 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "GAT_SocialImpactOffset",
-      "degree": -1,
-      "description": "The elephant in the room is named {PAWN_nameDef}.",
-      "name": "awkward",
+      "defName": "SYR_Scientist",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "scientist(old)",
       "removePrice": 5500,
-      "stats": [
-        "-20.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_SocialImpactOffset",
-      "degree": 1,
-      "description": "\"That's a lotta graves. Lotta holes to fill. Bow-Chicka-Bow-Wow\" - {PAWN_nameDef}, probably.",
-      "name": "tucker",
-      "removePrice": 5500,
-      "stats": [
-        "+20.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_SocialImpactOffset",
-      "degree": 2,
-      "description": "{PAWN_nameDef} could talk for days on end and people would still listen to that sweet voice.",
-      "name": "melodicvoice",
-      "removePrice": 5500,
-      "stats": [
-        "+40.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_DiplomacyPowerOffset",
-      "degree": -1,
-      "description": "Subtle is the game of diplomacy, and subtle, {PAWN_nameDef} is not.",
-      "name": "uncouth",
-      "removePrice": 5500,
-      "stats": [
-        "-20.00% Negotiation ability"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_DiplomacyPowerOffset",
-      "degree": 1,
-      "description": "{PAWN_nameDef} knows how to grease the wheels of diplomacy.",
-      "name": "diplomatic",
-      "removePrice": 5500,
-      "stats": [
-        "+20.00% Negotiation ability"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_DiplomacyPowerOffset",
-      "degree": 2,
-      "description": "{PAWN_nameDef} has such a way with {PAWN_objective} words and gifts that {PAWN_pronoun} always manages to cool down a tense situation.",
-      "name": "verydiplomatic",
-      "removePrice": 5500,
-      "stats": [
-        "+40.00% Negotiation ability"
-      ]
+      "stats": []
     },
     {
       "addPrice": 3500,
@@ -1544,520 +1885,12 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "GAT_Hercules",
-      "degree": 0,
-      "description": "Brave {PAWN_nameDef}, born with impossible strength and force of will.",
-      "name": "herculean",
-      "removePrice": 5500,
-      "stats": [
-        "-100% Mental break threshold",
-        "+150 Carrying capacity",
-        "+50.0% Armor - Blunt (armor stat)",
-        "+70.0% Armor - Sharp (armor stat)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Achilles",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is said to have been dipped in the river of death, {PAWN_pronoun} seems invulnerable in battle.",
-      "name": "achillean",
-      "removePrice": 5500,
-      "stats": [
-        "+100% Immunity gain speed",
-        "+0.50 Move speed",
-        "+80.0% Armor - Blunt (armor stat)",
-        "+80.0% Armor - Sharp (armor stat)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Odysseus",
-      "degree": 0,
-      "description": "Craftier by far than any mortal man, {PAWN_nameDef} is also a very capable warrior.",
-      "name": "odyssean",
-      "removePrice": 5500,
-      "stats": [
-        "+100% Global learning factor",
-        "+0.5 Shooting accuracy (people)",
-        "+0.5 Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Ares",
-      "degree": 0,
-      "description": "Feared by {PAWN_objective} enemies and worshiped by warriors, {PAWN_nameDef} is a bloodthirsty embodiment of war.",
-      "name": "ares'wrath",
-      "removePrice": 5500,
-      "stats": [
-        "+1.0 Shooting accuracy (people)",
-        "+0.50 Move speed",
-        "+1.0 Melee hit chance",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+120.0% Armor - Sharp (armor stat)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Artemis",
-      "degree": 0,
-      "description": "{PAWN_nameDef}'s natural instinct to protect and nurture the people led {PAWN_objective} to champion the hunt.",
-      "name": "artemis'blessing",
-      "removePrice": 5500,
-      "stats": [
-        "+50% Hunting stealth",
-        "+1.0 Shooting accuracy (people)",
-        "-100% Aiming time",
-        "+100% Butchery speed",
-        "+1.0 Cooking speed",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+120.0% Armor - Sharp (armor stat)",
-        "+1 Foraged food amount"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Aphrodite",
-      "degree": 0,
-      "description": "So wondrous is {PAWN_nameDef} to behold that one look can inspire tears, desire, jealousy, and love.",
-      "name": "aphrodite'sgrace",
-      "removePrice": 5500,
-      "stats": [
-        "+100.00% Negotiation ability",
-        "+100.00% Social impact",
-        "+100.00% Trade price improvement",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+120.0% Armor - Sharp (armor stat)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Mercury",
-      "degree": 0,
-      "description": "It is said that {PAWN_nameDef} can leap the space between lightning and thunder, outfox the fox king, and reach tomorrow before the sun.",
-      "name": "mercury'sblessing",
-      "removePrice": 5500,
-      "stats": [
-        "+100% Eating speed",
-        "+100% Global work speed",
-        "+100% Global learning factor",
-        "+1.00 Move speed",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+120.0% Armor - Sharp (armor stat)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Sylvanus",
-      "degree": 0,
-      "description": "Companion to all woodland creatures, both mundane and fantastic, {PAWN_nameDef} protects and nurtures those that respect {PAWN_possessive} domain.",
-      "name": "sylvanus'blessing",
-      "removePrice": 5500,
-      "stats": [
-        "+100.00% Tame animal chance",
-        "+100.00% Train animal chance",
-        "+100% Plant work speed",
-        "+200% Plant harvest yield",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+120.0% Armor - Sharp (armor stat)",
-        "+1 Foraged food amount"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Vulcan",
-      "degree": 0,
-      "description": "{PAWN_nameDef} crafts with fire and forge as an artist would with paint and brush.",
-      "name": "vulcan'sfire",
-      "removePrice": 5500,
-      "stats": [
-        "+200% Construct success chance",
-        "+100% Construction speed",
-        "+100% Smelting speed",
-        "+50% General labor speed",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+120.0% Armor - Sharp (armor stat)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GAT_Imhotep",
-      "degree": 0,
-      "description": "{PAWN_nameDef} sends to sleep those who suffer, the new day bringing good health to them.",
-      "name": "imhotep'swisdom",
-      "removePrice": 5500,
-      "stats": [
-        "+100% Medical tend speed",
-        "+100% Medical operation speed",
-        "+100% Medical surgery success chance",
-        "+100% Medical tend quality",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+100.0% Armor - Blunt (armor stat)",
-        "+120.0% Armor - Sharp (armor stat)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "NaturalHunter",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is now a natural hunter.",
-      "name": "naturalhunter",
+      "defName": "Immunity",
+      "degree": -1,
+      "description": "[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "name": "sickly",
       "removePrice": 5500,
       "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "transhumanist",
-        "bodypurist"
-      ],
-      "defName": "MutationAffinity",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is intrigued by the idea of becoming something other than human.",
-      "name": "mutationaffinity",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "onesoul"
-      ],
-      "defName": "AC_FreeMind",
-      "degree": 0,
-      "description": "{PAWN_nameDef} always saw their body as nothing more than a vessel for their mind. {PAWN_pronoun} does not care about the gender, age or looks of a body.",
-      "name": "freemind",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "onesoul"
-      ],
-      "defName": "AC_Sleever",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is used to switching sleeves like they are clothes. {PAWN_pronoun} doesn’t care how often {PAWN_pronoun} switches {PAWN_objective} sleeves or what sleeve {Pawn_pronoun} is currently using.",
-      "name": "sleever",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "freemind",
-        "sleever"
-      ],
-      "defName": "AC_AntiStack",
-      "degree": 0,
-      "description": "{PAWN_nameDef} considers the use of stacks and sleeves as amoral. {PAWN_pronoun} believes that humans only get one life and that the extension of their lives via technology is a sin.",
-      "name": "onesoul",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SimpleMindedAndroid",
-      "degree": 0,
-      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
-      "name": "simpleminded",
-      "removePrice": 5500,
-      "stats": [
-        "-90.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "MechAtlas",
-      "degree": 0,
-      "description": "A mechanized infantry unit, they do not think or feel.",
-      "name": "mech",
-      "removePrice": 5500,
-      "stats": [
-        "-90.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Intolerance",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
-      "name": "intolerance",
-      "removePrice": 5500,
-      "stats": [
-        "-90.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FeelingsTowardHumanity",
-      "degree": 1,
-      "description": "{PAWN_nameDef} has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
-      "name": "loveshumanity",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FeelingsTowardHumanity",
-      "degree": 2,
-      "description": "{PAWN_nameDef} has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
-      "name": "hateshumanity",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "slowpoke",
-        "fastwalker",
-        "jogger"
-      ],
-      "defName": "SYR_Agile",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is uncommonly agile and stealthy, with better reflexes and a more flexible body than most.",
-      "name": "stealthy",
-      "removePrice": 5500,
-      "stats": [
-        "+100% Hunting stealth",
-        "+0.30 Move speed",
-        "+10.0 Melee dodge chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "silvertongue"
-      ],
-      "defName": "SYR_AnimalAffinity",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a special connection to animals and understands them better than most people. Animals also tend to understand what {PAWN_pronoun} wants from them. The time {PAWN_pronoun} spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals",
-      "name": "animalfriend",
-      "removePrice": 5500,
-      "stats": [
-        "-50% Animal gather speed",
-        "+20% Animal gather yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Architect",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is proficient with various construction materials, particularly stone. {PAWN_pronoun} will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200%",
-      "name": "architect",
-      "removePrice": 5500,
-      "stats": [
-        "+200% Smoothing speed",
-        "+10% Construct success chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_CreativeThinker",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a unique approach to science. {PAWN_pronoun} always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed",
-      "name": "creativethinker",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_GoodFortune",
-      "degree": 0,
-      "description": "{PAWN_nameDef} seems to have rented all the good fortune on this Rimworld.",
-      "name": "fortunate",
-      "removePrice": 5500,
-      "stats": [
-        "+10% Mining yield",
-        "+20% Animal gather yield",
-        "+10% Plant harvest yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_GreenThumb",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a special talent to grow plants and nurture them even in hostile enviroments. {PAWN_pronoun} can grow any plant, even if other people would fail due to their lack of skills. {PAWN_pronoun} would like some plants in {PAWN_possessive} bedroom.\n\n    Can grow any plant regardless of skill",
-      "name": "greenthumb",
-      "removePrice": 5500,
-      "stats": [
-        "+80% Plant work speed",
-        "+10% Plant harvest yield"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "brawler"
-      ],
-      "defName": "SYR_GunNut",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a gun nut, {PAWN_possessive} life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand {PAWN_objective} a melee weapon.",
-      "name": "gunnut",
-      "removePrice": 5500,
-      "stats": [
-        "-10% Aiming time"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_HandEyeCoordination",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is exceptionally coordinated with his hands.",
-      "name": "hand-eyecoordination",
-      "removePrice": 5500,
-      "stats": [
-        "+15% Global work speed",
-        "-10% Aiming time",
-        "+5.0 Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_KeenEye",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a keen eye and can spot even tiny mineral deposits. {PAWN_pronoun} will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain.",
-      "name": "keeneye",
-      "removePrice": 5500,
-      "stats": [
-        "+40% Mining speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_MechanoidExpert",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has had their fair share of encounters with mechanoids. {PAWN_pronoun} has become an expert in mechanoid construction and combat, making {PAWN_objective} uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50%",
-      "name": "mechanoidexpert",
-      "removePrice": 5500,
-      "stats": [
-        "+50% Mechanoid shredding efficiency"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Perfectionist",
-      "degree": 0,
-      "description": "{PAWN_nameDef} wants thing to be exactly right. This does take time, but the results speak for themselves.\n\n    Quality level +1 (50% chance)",
-      "name": "perfectionist",
-      "removePrice": 5500,
-      "stats": [
-        "-25% Global work speed"
-      ]
     },
     {
       "addPrice": 3500,
@@ -2082,233 +1915,14 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "SYR_SteadyHands",
+      "defName": "SimpleMindedAndroid",
       "degree": 0,
-      "description": "{PAWN_nameDef} has particularly steady hands, which don't even tremble in dire circumstances or when {PAWN_pronoun} {PAWN_objective}self is injured.\n\n    No self-tend penalty",
-      "name": "steadyhands",
+      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
+      "name": "simpleminded",
       "removePrice": 5500,
       "stats": [
-        "+50% Medical tend speed",
-        "+10% Medical tend quality",
-        "+3.0 Shooting accuracy (people)"
+        "-90.00% Social impact"
       ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp"
-      ],
-      "defName": "SYR_StrongBack",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a very strong back or is part mule or something. {PAWN_pronoun} can carry significantly more as a normal person.",
-      "name": "strongback",
-      "removePrice": 5500,
-      "stats": [
-        "+75 Carrying capacity"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Blacksmith",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "blacksmith(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Chef",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "chef(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Hotblooded",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "hotblooded(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_MedicalTraining",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "medicaltraining(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Scientist",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "scientist(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SYR_Tinkerer",
-      "degree": 0,
-      "description": "(Old trait)",
-      "name": "tinkerer(old)",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "PJ_ForceSensitive",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
-      "name": "forcesensitive",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "PJ_ForceSensitive",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
-      "name": "forceapprentice",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "defName": "PJ_JediTrait",
-      "degree": 1,
-      "description": "[PAWN_nameDef] Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
-      "name": "jedi",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "defName": "PJ_JediTrait",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
-      "name": "jediknight",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "defName": "PJ_JediTrait",
-      "degree": 3,
-      "description": "[PAWN_nameDef] is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
-      "name": "jedimaster",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "defName": "PJ_JediTrait",
-      "degree": 4,
-      "description": "[PAWN_nameDef] is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
-      "name": "jediconsular",
-      "removePrice": 5500,
-      "stats": []
     },
     {
       "addPrice": 3500,
@@ -2412,21 +2026,227 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
+        "onesoul"
       ],
-      "defName": "PJ_GrayTrait",
+      "defName": "AC_Sleever",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is used to switching sleeves like they are clothes. {PAWN_pronoun} doesn’t care how often {PAWN_pronoun} switches {PAWN_objective} sleeves or what sleeve {Pawn_pronoun} is currently using.",
+      "name": "sleever",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Industriousness",
+      "degree": -2,
+      "description": "[PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task.",
+      "name": "slothful",
+      "removePrice": 5500,
+      "stats": [
+        "-35% Global work speed",
+        "-67% Joy need rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "toosmart"
+      ],
+      "defName": "SlowLearner",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has never learned how to learn. The motivation and talent is there, {PAWN_pronoun} just needs time and patience. \n\n    Each skill point increases global learning factor by 2%",
+      "name": "slowlearner",
+      "removePrice": 5500,
+      "stats": [
+        "-130% Global learning factor"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SpeedOffset",
+      "degree": -1,
+      "description": "[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere.",
+      "name": "slowpoke",
+      "removePrice": 5500,
+      "stats": [
+        "-0.40 Move speed",
+        "+25% Rest rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Beauty",
+      "degree": -2,
+      "description": "{PAWN_nameDef} is staggeringly ugly. {PAWN_possessive} face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at {PAWN_objective} while conversing. If there is an upside to this than that no one minds if {PAWN_possessive} face has a scar or two... or ten.",
+      "name": "staggeringlyugly",
+      "removePrice": 5500,
+      "stats": [
+        "-2.0 Beauty"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Nerves",
       "degree": 1,
-      "description": "[PAWN_nameDef] is exploring the balance of the Force.\n\n(Star Wars - The Force)",
-      "name": "graypadawan",
+      "description": "[PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people.",
+      "name": "steadfast",
+      "removePrice": 5500,
+      "stats": [
+        "-9% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_SteadyHands",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has particularly steady hands, which don't even tremble in dire circumstances or when {PAWN_pronoun} {PAWN_objective}self is injured.\n\n    No self-tend penalty",
+      "name": "steadyhands",
+      "removePrice": 5500,
+      "stats": [
+        "+50% Medical tend speed",
+        "+10% Medical tend quality",
+        "+3.0 Shooting accuracy (people)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "defName": "SYR_Agile",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is uncommonly agile and stealthy, with better reflexes and a more flexible body than most.",
+      "name": "stealthy",
+      "removePrice": 5500,
+      "stats": [
+        "+100% Hunting stealth",
+        "+0.30 Move speed",
+        "+10.0 Melee dodge chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp"
+      ],
+      "defName": "SYR_StrongBack",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a very strong back or is part mule or something. {PAWN_pronoun} can carry significantly more as a normal person.",
+      "name": "strongback",
+      "removePrice": 5500,
+      "stats": [
+        "+75 Carrying capacity"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "persuasive"
+      ],
+      "defName": "GAT_TradePriceImprovementOffset",
+      "degree": -1,
+      "description": "They say a sucker is born every minute, and {PAWN_nameDef} is that sucker.",
+      "name": "sucker",
+      "removePrice": 5500,
+      "stats": [
+        "-20.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Immunity",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "name": "super-immune",
+      "removePrice": 5500,
+      "stats": [
+        "+30% Immunity gain speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Sylvanus",
+      "degree": 0,
+      "description": "Companion to all woodland creatures, both mundane and fantastic, {PAWN_nameDef} protects and nurtures those that respect {PAWN_possessive} domain.",
+      "name": "sylvanus'blessing",
+      "removePrice": 5500,
+      "stats": [
+        "+100.00% Tame animal chance",
+        "+100.00% Train animal chance",
+        "+100% Plant work speed",
+        "+200% Plant harvest yield",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+120.0% Armor - Sharp (armor stat)",
+        "+1 Foraged food amount"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "DrugDesire",
+      "degree": -1,
+      "description": "{PAWN_nameDef} abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. {PAWN_pronoun} is a hard working individual.",
+      "name": "teetotaler",
+      "removePrice": 5500,
+      "stats": [
+        "+20% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SYR_Tinkerer",
+      "degree": 0,
+      "description": "(Old trait)",
+      "name": "tinkerer(old)",
       "removePrice": 5500,
       "stats": []
     },
@@ -2436,21 +2256,236 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "slowlearner"
       ],
-      "defName": "PJ_GrayTrait",
+      "defName": "TooSmart",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.",
+      "name": "toosmart",
+      "removePrice": 5500,
+      "stats": [
+        "+75% Global learning factor",
+        "+12% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "TorturedArtist",
+      "degree": 0,
+      "description": "{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "name": "torturedartist",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Tough",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} stands solid like a rock, and equally unmovable.",
+      "name": "tough",
+      "removePrice": 5500,
+      "stats": [
+        "-0.40 Move speed",
+        "x50% Incoming damage multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "bodypurist"
+      ],
+      "defName": "Transhumanist",
+      "degree": 0,
+      "description": "{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts.",
+      "name": "transhumanist",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "brawler"
+      ],
+      "defName": "ShootingAccuracy",
+      "degree": -1,
+      "description": "Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.",
+      "name": "trigger-happy",
+      "removePrice": 5500,
+      "stats": [
+        "-50% Aiming time",
+        "-5.0 Shooting accuracy (people)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_SocialImpactOffset",
+      "degree": 1,
+      "description": "\"That's a lotta graves. Lotta holes to fill. Bow-Chicka-Bow-Wow\" - {PAWN_nameDef}, probably.",
+      "name": "tucker",
+      "removePrice": 5500,
+      "stats": [
+        "+20.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Beauty",
+      "degree": -1,
+      "description": "{PAWN_nameDef} is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if {PAWN_possessive} face has a scar or two.",
+      "name": "ugly",
+      "removePrice": 5500,
+      "stats": [
+        "-1.0 Beauty"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_DiplomacyPowerOffset",
+      "degree": -1,
+      "description": "Subtle is the game of diplomacy, and subtle, {PAWN_nameDef} is not.",
+      "name": "uncouth",
+      "removePrice": 5500,
+      "stats": [
+        "-20.00% Negotiation ability"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Undergrounder",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.",
+      "name": "undergrounder",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_DiplomacyPowerOffset",
       "degree": 2,
-      "description": "[PAWN_nameDef] is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
-      "name": "grayjedi",
+      "description": "{PAWN_nameDef} has such a way with {PAWN_objective} words and gifts that {PAWN_pronoun} always manages to cool down a tense situation.",
+      "name": "verydiplomatic",
+      "removePrice": 5500,
+      "stats": [
+        "+40.00% Negotiation ability"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Neurotic",
+      "degree": 2,
+      "description": "{PAWN_nameDef} feels constantly nervous about everything that has to get done. {PAWN_pronoun} will work extremely hard to attain this state of affairs, but {PAWN_possessive} random mood swings can easily get the better of {PAWN_objective}.",
+      "name": "veryneurotic",
+      "removePrice": 5500,
+      "stats": [
+        "+40% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Nerves",
+      "degree": -2,
+      "description": "{PAWN_nameDef} is on a hair-trigger all the time. {PAWN_pronoun} is the first to break in any tough situation. If that happens {PAWN_pronoun} will find something to smash.",
+      "name": "volatile",
+      "removePrice": 5500,
+      "stats": [
+        "+15% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GAT_Vulcan",
+      "degree": 0,
+      "description": "{PAWN_nameDef} crafts with fire and forge as an artist would with paint and brush.",
+      "name": "vulcan'sfire",
+      "removePrice": 5500,
+      "stats": [
+        "+200% Construct success chance",
+        "+100% Construction speed",
+        "+100% Smelting speed",
+        "+50% General labor speed",
+        "+100.0% Armor - Blunt (armor stat)",
+        "+120.0% Armor - Sharp (armor stat)"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "brawler"
+      ],
+      "defName": "Wimp",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. At least {PAWN_pronoun} is really good at running and for whatever reason seems to be nearly immune to toxic substances.",
+      "name": "wimp",
+      "removePrice": 5500,
+      "stats": [
+        "-45% Pain shock threshold",
+        "-90% Toxic sensitivity",
+        "+0.40 Move speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Xenophobia",
+      "degree": -1,
+      "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "name": "xenophile",
       "removePrice": 5500,
       "stats": []
     },
@@ -2459,56 +2494,21 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "defName": "PJ_GrayTrait",
-      "degree": 3,
-      "description": "[PAWN_nameDef] is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
-      "name": "graymaster",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "defName": "PJ_GrayTrait",
-      "degree": 4,
-      "description": "[PAWN_nameDef] is attuned to the Living Force. [PAWN_pronoun] sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
-      "name": "graysage",
+      "conflicts": [],
+      "defName": "Xenophobia",
+      "degree": 1,
+      "description": "[PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals.",
+      "name": "xenophobe",
       "removePrice": 5500,
       "stats": []
     }
   ],
   "races": [
     {
-      "defName": "Human",
+      "defName": "ChjSpacerDroid",
       "enabled": true,
-      "name": "human",
-      "price": 2917
+      "name": "advanceddroid",
+      "price": 2750
     },
     {
       "defName": "ChjAndroid",
@@ -2517,10 +2517,10 @@
       "price": 2500
     },
     {
-      "defName": "ChjDroid",
+      "defName": "ChjArchDroid",
       "enabled": true,
-      "name": "droid",
-      "price": 1417
+      "name": "archodroid",
+      "price": 8333
     },
     {
       "defName": "ChjBattleDroid",
@@ -2529,40 +2529,10 @@
       "price": 3167
     },
     {
-      "defName": "ChjSpacerDroid",
-      "enabled": true,
-      "name": "advanceddroid",
-      "price": 2750
-    },
-    {
-      "defName": "ChjSpacerBattleDroid",
-      "enabled": true,
-      "name": "wardroid",
-      "price": 5833
-    },
-    {
-      "defName": "NEngiDrone",
-      "enabled": true,
-      "name": "engineer",
-      "price": 667
-    },
-    {
       "defName": "NChefDrone",
       "enabled": true,
       "name": "chef",
       "price": 667
-    },
-    {
-      "defName": "NMedicDrone",
-      "enabled": true,
-      "name": "medic",
-      "price": 1100
-    },
-    {
-      "defName": "ChjArchDroid",
-      "enabled": true,
-      "name": "archodroid",
-      "price": 8333
     },
     {
       "defName": "ChjArchBattleDroid",
@@ -2571,10 +2541,22 @@
       "price": 16667
     },
     {
-      "defName": "Alien_Moyo",
+      "defName": "ChjDroid",
       "enabled": true,
-      "name": "moyo",
-      "price": 5333
+      "name": "droid",
+      "price": 1417
+    },
+    {
+      "defName": "NEngiDrone",
+      "enabled": true,
+      "name": "engineer",
+      "price": 667
+    },
+    {
+      "defName": "Human",
+      "enabled": true,
+      "name": "human",
+      "price": 2917
     },
     {
       "defName": "M7Mech",
@@ -2583,22 +2565,16 @@
       "price": 30000
     },
     {
-      "defName": "Android5Tier",
+      "defName": "NMedicDrone",
       "enabled": true,
-      "name": "t5android",
-      "price": 13333
+      "name": "medic",
+      "price": 1100
     },
     {
-      "defName": "Android4Tier",
+      "defName": "Alien_Moyo",
       "enabled": true,
-      "name": "t4android",
-      "price": 10000
-    },
-    {
-      "defName": "Android3Tier",
-      "enabled": true,
-      "name": "t3android",
-      "price": 8000
+      "name": "moyo",
+      "price": 5333
     },
     {
       "defName": "Android1Tier",
@@ -2613,22 +2589,34 @@
       "price": 4167
     },
     {
+      "defName": "Android3Tier",
+      "enabled": true,
+      "name": "t3android",
+      "price": 8000
+    },
+    {
+      "defName": "Android4Tier",
+      "enabled": true,
+      "name": "t4android",
+      "price": 10000
+    },
+    {
+      "defName": "Android5Tier",
+      "enabled": true,
+      "name": "t5android",
+      "price": 13333
+    },
+    {
       "defName": "ATPP_Android2TX",
       "enabled": true,
       "name": "tx2android",
       "price": 5833
     },
     {
-      "defName": "ATPP_Android3TX",
+      "defName": "ATPP_Android2ITX",
       "enabled": true,
-      "name": "tx3android",
-      "price": 9667
-    },
-    {
-      "defName": "ATPP_Android4TX",
-      "enabled": true,
-      "name": "tx4android",
-      "price": 11667
+      "name": "tx2iandroid",
+      "price": 5833
     },
     {
       "defName": "ATPP_Android2KTX",
@@ -2643,10 +2631,10 @@
       "price": 9167
     },
     {
-      "defName": "ATPP_Android2ITX",
+      "defName": "ATPP_Android3TX",
       "enabled": true,
-      "name": "tx2iandroid",
-      "price": 5833
+      "name": "tx3android",
+      "price": 9667
     },
     {
       "defName": "ATPP_Android3ITX",
@@ -2655,10 +2643,22 @@
       "price": 9667
     },
     {
+      "defName": "ATPP_Android4TX",
+      "enabled": true,
+      "name": "tx4android",
+      "price": 11667
+    },
+    {
       "defName": "ATPP_Android4ITX",
       "enabled": true,
       "name": "tx4iandroid",
       "price": 11667
+    },
+    {
+      "defName": "ChjSpacerBattleDroid",
+      "enabled": true,
+      "name": "wardroid",
+      "price": 5833
     }
   ]
 }

@@ -1,70 +1,90 @@
 <?xml version="1.0"?>
 <ShopExpansion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Races>
-    <XmlRace DefName="M7Mech">
+    <XmlRace DefName="ChjSpacerDroid">
       <Enabled>true</Enabled>
-      <Name>M7 Mechanised infantry</Name>
-      <Price>30000</Price>
+      <Name>Advanced droid</Name>
+      <Price>2750</Price>
     </XmlRace>
-    <XmlRace DefName="ChjArchBattleDroid">
+    <XmlRace DefName="ChjAndroid">
       <Enabled>true</Enabled>
-      <Name>Destroyer</Name>
-      <Price>16667</Price>
-    </XmlRace>
-    <XmlRace DefName="Android5Tier">
-      <Enabled>true</Enabled>
-      <Name>T5 Android</Name>
-      <Price>13333</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android4ITX">
-      <Enabled>true</Enabled>
-      <Name>TX4I Android</Name>
-      <Price>11667</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android4TX">
-      <Enabled>true</Enabled>
-      <Name>TX4 Android</Name>
-      <Price>11667</Price>
-    </XmlRace>
-    <XmlRace DefName="Android4Tier">
-      <Enabled>true</Enabled>
-      <Name>T4 Android</Name>
-      <Price>10000</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android3ITX">
-      <Enabled>true</Enabled>
-      <Name>TX3I Android</Name>
-      <Price>9667</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android3TX">
-      <Enabled>true</Enabled>
-      <Name>TX3 Android</Name>
-      <Price>9667</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android2KITX">
-      <Enabled>true</Enabled>
-      <Name>TX2KI Android</Name>
-      <Price>9167</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android2KTX">
-      <Enabled>true</Enabled>
-      <Name>TX2K Android</Name>
-      <Price>9167</Price>
+      <Name>Android</Name>
+      <Price>2500</Price>
     </XmlRace>
     <XmlRace DefName="ChjArchDroid">
       <Enabled>true</Enabled>
       <Name>ArchoDroid</Name>
       <Price>8333</Price>
     </XmlRace>
+    <XmlRace DefName="ChjBattleDroid">
+      <Enabled>true</Enabled>
+      <Name>Battledroid</Name>
+      <Price>3167</Price>
+    </XmlRace>
+    <XmlRace DefName="NChefDrone">
+      <Enabled>true</Enabled>
+      <Name>chef</Name>
+      <Price>667</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjArchBattleDroid">
+      <Enabled>true</Enabled>
+      <Name>Destroyer</Name>
+      <Price>16667</Price>
+    </XmlRace>
+    <XmlRace DefName="ChjDroid">
+      <Enabled>true</Enabled>
+      <Name>Droid</Name>
+      <Price>1417</Price>
+    </XmlRace>
+    <XmlRace DefName="NEngiDrone">
+      <Enabled>true</Enabled>
+      <Name>engineer</Name>
+      <Price>667</Price>
+    </XmlRace>
+    <XmlRace DefName="Human">
+      <Enabled>true</Enabled>
+      <Name>human</Name>
+      <Price>2917</Price>
+    </XmlRace>
+    <XmlRace DefName="M7Mech">
+      <Enabled>true</Enabled>
+      <Name>M7 Mechanised infantry</Name>
+      <Price>30000</Price>
+    </XmlRace>
+    <XmlRace DefName="NMedicDrone">
+      <Enabled>true</Enabled>
+      <Name>medic</Name>
+      <Price>1100</Price>
+    </XmlRace>
+    <XmlRace DefName="Alien_Moyo">
+      <Enabled>true</Enabled>
+      <Name>Moyo</Name>
+      <Price>5333</Price>
+    </XmlRace>
+    <XmlRace DefName="Android1Tier">
+      <Enabled>true</Enabled>
+      <Name>T1 Android</Name>
+      <Price>2333</Price>
+    </XmlRace>
+    <XmlRace DefName="Android2Tier">
+      <Enabled>true</Enabled>
+      <Name>T2 Android</Name>
+      <Price>4167</Price>
+    </XmlRace>
     <XmlRace DefName="Android3Tier">
       <Enabled>true</Enabled>
       <Name>T3 Android</Name>
       <Price>8000</Price>
     </XmlRace>
-    <XmlRace DefName="ChjSpacerBattleDroid">
+    <XmlRace DefName="Android4Tier">
       <Enabled>true</Enabled>
-      <Name>Wardroid</Name>
-      <Price>5833</Price>
+      <Name>T4 Android</Name>
+      <Price>10000</Price>
+    </XmlRace>
+    <XmlRace DefName="Android5Tier">
+      <Enabled>true</Enabled>
+      <Name>T5 Android</Name>
+      <Price>13333</Price>
     </XmlRace>
     <XmlRace DefName="ATPP_Android2TX">
       <Enabled>true</Enabled>
@@ -76,60 +96,40 @@
       <Name>TX2I Android</Name>
       <Price>5833</Price>
     </XmlRace>
-    <XmlRace DefName="Alien_Moyo">
+    <XmlRace DefName="ATPP_Android2KTX">
       <Enabled>true</Enabled>
-      <Name>Moyo</Name>
-      <Price>5333</Price>
+      <Name>TX2K Android</Name>
+      <Price>9167</Price>
     </XmlRace>
-    <XmlRace DefName="Android2Tier">
+    <XmlRace DefName="ATPP_Android2KITX">
       <Enabled>true</Enabled>
-      <Name>T2 Android</Name>
-      <Price>4167</Price>
+      <Name>TX2KI Android</Name>
+      <Price>9167</Price>
     </XmlRace>
-    <XmlRace DefName="ChjBattleDroid">
+    <XmlRace DefName="ATPP_Android3TX">
       <Enabled>true</Enabled>
-      <Name>Battledroid</Name>
-      <Price>3167</Price>
+      <Name>TX3 Android</Name>
+      <Price>9667</Price>
     </XmlRace>
-    <XmlRace DefName="Human">
+    <XmlRace DefName="ATPP_Android3ITX">
       <Enabled>true</Enabled>
-      <Name>human</Name>
-      <Price>2917</Price>
+      <Name>TX3I Android</Name>
+      <Price>9667</Price>
     </XmlRace>
-    <XmlRace DefName="ChjSpacerDroid">
+    <XmlRace DefName="ATPP_Android4TX">
       <Enabled>true</Enabled>
-      <Name>Advanced droid</Name>
-      <Price>2750</Price>
+      <Name>TX4 Android</Name>
+      <Price>11667</Price>
     </XmlRace>
-    <XmlRace DefName="ChjAndroid">
+    <XmlRace DefName="ATPP_Android4ITX">
       <Enabled>true</Enabled>
-      <Name>Android</Name>
-      <Price>2500</Price>
+      <Name>TX4I Android</Name>
+      <Price>11667</Price>
     </XmlRace>
-    <XmlRace DefName="Android1Tier">
+    <XmlRace DefName="ChjSpacerBattleDroid">
       <Enabled>true</Enabled>
-      <Name>T1 Android</Name>
-      <Price>2333</Price>
-    </XmlRace>
-    <XmlRace DefName="ChjDroid">
-      <Enabled>true</Enabled>
-      <Name>Droid</Name>
-      <Price>1417</Price>
-    </XmlRace>
-    <XmlRace DefName="NMedicDrone">
-      <Enabled>true</Enabled>
-      <Name>medic</Name>
-      <Price>1100</Price>
-    </XmlRace>
-    <XmlRace DefName="NChefDrone">
-      <Enabled>true</Enabled>
-      <Name>chef</Name>
-      <Price>667</Price>
-    </XmlRace>
-    <XmlRace DefName="NEngiDrone">
-      <Enabled>true</Enabled>
-      <Name>engineer</Name>
-      <Price>667</Price>
+      <Name>Wardroid</Name>
+      <Price>5833</Price>
     </XmlRace>
   </Races>
   <Traits>
