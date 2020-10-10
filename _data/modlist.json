@@ -6,6 +6,12 @@
     "version": "1.0.4.0"
   },
   {
+    "author": "Krypt",
+    "name": "ModDiff",
+    "steamId": "2200054867",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
@@ -33,7 +39,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7568.35742"
+    "version": "1.0.7587.42481"
   },
   {
     "author": "Gewen, Swenzi, and Alias",
@@ -85,7 +91,7 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.8.1583"
+    "version": "2.8.1603"
   },
   {
     "author": "avilmask",
@@ -134,8 +140,8 @@
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "5.0.1.4"
+    "steamId": "",
+    "version": "5.0.1.8"
   },
   {
     "author": "AliceTries",
@@ -420,5 +426,45 @@
   {
     "author": "Mlie",
     "name": "Tag Trait (Continued)"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Archotech"
+  },
+  {
+    "author": "Abraxas",
+    "name": "Medical System Expansion - Revived"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Meditation Freedom"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Metallic Batteries"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Power++",
+    "steamId": "1771402217",
+    "version": "1.7.11"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2020.1.3.0"
+  },
+  {
+    "author": "XeoNovaDan + OdysseyScorpio",
+    "name": "Targeting Modes [1.2]",
+    "steamId": "2026720565",
+    "version": "v2.1.0"
   }
 ]
