@@ -12149,14 +12149,14 @@
     "Mod": "Clockwork And Steam",
     "QuantityLimit": -1
   },
-  "tripistol": {
+  "ArchotechRegenerator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Clockwork Rimworld - Buildings and Modules.",
+    "Mod": "Archotech+",
     "QuantityLimit": -1
   },
   "CS_AIChip": {
@@ -13879,14 +13879,14 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1
   },
-  "bricabrac": {
+  "ArchotechCortex": {
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Clockwork Rimworld - Buildings and Modules.",
+    "Mod": "Archotech+",
     "QuantityLimit": -1
   },
   "Apparel_BallisticShield": {
@@ -14639,17 +14639,17 @@
     "Mod": "Combat Extended",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_wind_turbine": {
+  "ArchotechBioadapter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Archotech+",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_WatermillGenerator": {
+  "sd_adv_powergen_adv_wind_turbine": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -14669,6 +14669,16 @@
     "Mod": "Archotechnology and Archotech Bionics Expanded",
     "QuantityLimit": -1
   },
+  "sd_adv_powergen_WatermillGenerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
   "sd_adv_powergen_adv_solar_generator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14680,16 +14690,6 @@
     "QuantityLimit": -1
   },
   "sd_adv_powergen_nuclear_power_plant": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
-    "QuantityLimit": -1
-  },
-  "sd_adv_powergen_adv_geothermal_generator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -14859,14 +14859,14 @@
     "Mod": "Gun Nut - Community Pack",
     "QuantityLimit": -1
   },
-  "turbineBlade": {
+  "sd_adv_powergen_adv_geothermal_generator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1
   },
   "Kenshi_UnstrainedMercenaryPlate": {
@@ -14887,6 +14887,56 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Kenshi Armory",
+    "QuantityLimit": -1
+  },
+  "GN_PulseRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Gun Nut - Community Pack",
+    "QuantityLimit": -1
+  },
+  "ArchotechSubdermalArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech+",
+    "QuantityLimit": -1
+  },
+  "bricabrac": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Clockwork Rimworld - Buildings and Modules.",
+    "QuantityLimit": -1
+  },
+  "tripistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Clockwork Rimworld - Buildings and Modules.",
+    "QuantityLimit": -1
+  },
+  "turbineBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
     "QuantityLimit": -1
   }
 }
