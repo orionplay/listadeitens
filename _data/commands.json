@@ -95,7 +95,7 @@
     },
     "description": "Directs you here!",
     "name": "Purchase list",
-    "usage": "!purchaselist",
+    "usage": "!lista",
     "userLevel": "Anyone",
     "shortcut": false
   },
