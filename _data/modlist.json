@@ -418,12 +418,6 @@
     "name": "[FSF] Advanced Bionics Expansion"
   },
   {
-    "author": "Gewen, Swenzi, and Alias",
-    "name": "Additional Traits (Heroes + Gods Optional)",
-    "steamId": "1621571024",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -452,5 +446,77 @@
   {
     "author": "latta",
     "name": "Infusion 2"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Consolidated Traits",
+    "steamId": "1507384362",
+    "version": "1.0.7516.1272"
+  },
+  {
+    "author": "Doomsday343",
+    "name": "DD Traits Expanded"
+  },
+  {
+    "author": "Mlie",
+    "name": "Fallout Traits (Continued)"
+  },
+  {
+    "author": "Anubis",
+    "name": "Genetically Engineered Trait"
+  },
+  {
+    "author": "Moloy559",
+    "name": "Moloy Traits"
+  },
+  {
+    "author": "NilchEi",
+    "name": "NilchEi Personality Traits"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colours"
+  },
+  {
+    "author": "RSev",
+    "name": "Synergistic Traits"
+  },
+  {
+    "author": "Mlie",
+    "name": "Tag Trait (Continued)"
+  },
+  {
+    "author": "DanielCoffey",
+    "name": "Traits - Corpse Handling"
+  },
+  {
+    "author": "Alias",
+    "name": "De-generalize Work"
+  },
+  {
+    "author": "Gewen, Swenzi, and Alias",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents"
+  },
+  {
+    "author": "samo",
+    "name": "RareTraits"
+  },
+  {
+    "author": "ALE199",
+    "name": "Clockwork Rimworld - CLockworkian Traits"
+  },
+  {
+    "author": "LingLuo",
+    "name": "ZeroTech-Trait"
   }
 ]
