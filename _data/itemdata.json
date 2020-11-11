@@ -6209,14 +6209,14 @@
     "Mod": "[SRTS Expanded] Planes and Bombs",
     "QuantityLimit": -1
   },
-  "yak41a": {
+  "AIRobot_RechargeStation_Cleaner_IV": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "JH7a": {
@@ -6629,14 +6629,14 @@
     "Mod": "[SRTS Expanded] Planes and Bombs",
     "QuantityLimit": -1
   },
-  "tu2da": {
+  "AIRobot_RechargeStation_Cleaner_III": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "True_Dragon_Leather": {
@@ -8079,14 +8079,14 @@
     "Mod": "Combat Extended",
     "QuantityLimit": -1
   },
-  "mi8a": {
+  "AIRobot_RechargeStation_Cleaner_II": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "MI4a": {
@@ -8119,14 +8119,14 @@
     "Mod": "[SRTS Expanded] Planes and Bombs",
     "QuantityLimit": -1
   },
-  "mig27a": {
+  "RPP_RechargeStation_Builder_V": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "MIG144a": {
@@ -8139,14 +8139,14 @@
     "Mod": "[SRTS Expanded] Planes and Bombs",
     "QuantityLimit": -1
   },
-  "mig29a": {
+  "RPP_RechargeStation_Builder_IV": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "MicroScanner": {
@@ -9129,14 +9129,14 @@
     "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1
   },
-  "he177a": {
+  "RPP_RechargeStation_Builder_III": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "HE111a": {
@@ -9149,14 +9149,14 @@
     "Mod": "[SRTS Expanded] Planes and Bombs",
     "QuantityLimit": -1
   },
-  "AIRobot_Hauler": {
+  "RPP_RechargeStation_Builder_II": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Misc. Robots",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "EggHarbingerVoidDragonFertilized": {
@@ -11839,14 +11839,14 @@
     "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1
   },
-  "AIRobot_Cleaner": {
+  "RPP_RechargeStation_Builder_I": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Misc. Robots",
+    "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
   "JCC16a": {
@@ -12617,6 +12617,346 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "[RWY]Dragon's Decent: Void Dwellers",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Cleaner_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "he177a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "mig29a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "mig27a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "mi8a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Omni_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Component": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "Table_RPP_RoboticsBench": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "tu2da": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "yak41a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
     "QuantityLimit": -1
   }
 }
