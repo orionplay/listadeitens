@@ -11979,14 +11979,14 @@
     "Mod": "Archotechnology and Archotech Bionics Expanded",
     "QuantityLimit": -1
   },
-  "fa18a": {
+  "WakeUpDripMed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Autoinjectors",
     "QuantityLimit": -1
   },
   "ArchotechAIAssistant": {
@@ -12499,16 +12499,6 @@
     "Mod": "[SRTS Expanded] Planes and Bombs",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_wind_turbine": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
-    "QuantityLimit": -1
-  },
   "GN_M16AFour": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12539,34 +12529,34 @@
     "Mod": "Gun Nut - Community Pack",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_WatermillGenerator": {
+  "SmokeleafDripMed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Autoinjectors",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_solar_generator": {
+  "zeushammer_card": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "BitCards - Royalty",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_nuclear_power_plant": {
+  "GoJuiceDripMed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Autoinjectors",
     "QuantityLimit": -1
   },
   "GN_PulseRifle": {
@@ -12589,14 +12579,14 @@
     "Mod": "Archotech+",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_geothermal_generator": {
+  "yayo_card": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "BitCards",
     "QuantityLimit": -1
   },
   "PJ_AdeganCrystal": {
@@ -12769,14 +12759,14 @@
     "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
-  "he177a": {
+  "FlakeDripMed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Autoinjectors",
     "QuantityLimit": -1
   },
   "RPP_RechargeStation_Kitchen_I": {
@@ -12829,34 +12819,34 @@
     "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
-  "mig29a": {
+  "AmbrosiaDripMed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Autoinjectors",
     "QuantityLimit": -1
   },
-  "mig27a": {
+  "AlcoholDripMed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Autoinjectors",
     "QuantityLimit": -1
   },
-  "mi8a": {
+  "Canister_AcidGas": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1
   },
   "RPP_RechargeStation_Omni_V": {
@@ -12939,14 +12929,24 @@
     "Mod": "Misc. Robots++",
     "QuantityLimit": -1
   },
-  "tu2da": {
+  "CEC_MRS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "RWP_Building_CoehornMortar": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "Mod": "Rimworld Westernization Project (Continued)",
     "QuantityLimit": -1
   },
   "yak41a": {
@@ -12957,6 +12957,5836 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "wood_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "YayoDripMed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "Gun_AKTwelve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_AKTwelve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "Gun_AKFortySeven": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_AKFortySeven": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "CEC_CompactSR": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_AKSSeventyFourU": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "ALC": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "AlcoholExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "AlcoholDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "warhammer_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "AmbrosiaExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "AmbrosiaDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "CEC_BurstRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "Canister_AntibugGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Gas Traps And Shells",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_AntiMaterialRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "warveil_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "ATOM": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Autoclave": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "warmask_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "wake-up_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_BanditScarf": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Bandolier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Baton": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_BattleAxe": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_M1822MusketBayoneted": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "BeamSplitter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "turbineBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "tuque_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "tu2da": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_BowieKnife": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "t-shirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "triplerocketlauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "TMC_CAGGENOne": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "TMC Equipment - Combat Assist Goggles",
+    "QuantityLimit": -1
+  },
+  "TMC_CAGGENTwo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "TMC Equipment - Combat Assist Goggles",
+    "QuantityLimit": -1
+  },
+  "TMC_CAGGENThree": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "TMC Equipment - Combat Assist Goggles",
+    "QuantityLimit": -1
+  },
+  "tribalwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "tribalheaddress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "tornadogenerator_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Gun_ChargeLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "tophat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Gun_ChargeLMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "thrumbohorn_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_ChargeRocketLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "FuelPowerplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "ChemfuelHopper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "ChemfuelSiphon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_HandCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_ChiefMarshalBadge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Cleaver": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_ClothApron": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "spear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Gun_Coach": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_ColtBuntline": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_ColtFrontier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_M1878Colt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_ColtOpenTop": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_Colt_OneEightFiveFive_Revolving_Rifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_ColtPeacemaker": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_CombatKnife": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "VWE_Bow_Compound": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "ControlRodActuator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "sniperrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeAcid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "smokepopbelt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "smokeleafjoint_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "VWE_Bow_Crossbow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "smokelauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "DepletedUraniumPellets": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_DeputySheriffBadge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_DeputyMarshalBadge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_DesperadoHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "DiceOfDestiny_Dice": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "DiceOfDestiny",
+    "QuantityLimit": -1
+  },
+  "DiceOfDestiny_DiceOfBadOmen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "DiceOfDestiny",
+    "QuantityLimit": -1
+  },
+  "DiceOfDestiny_DiceOfChaos": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "DiceOfDestiny",
+    "QuantityLimit": -1
+  },
+  "DiceOfDestiny_DiceOfDespair": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "DiceOfDestiny",
+    "QuantityLimit": -1
+  },
+  "DiceOfDestiny_DiceOfFortune": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "DiceOfDestiny",
+    "QuantityLimit": -1
+  },
+  "simplehelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "CEC_BigIron": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "DriveActuator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "RailgunSabotDU": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "shortbow_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "CEC_DVLTen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_ChargeShotgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "shieldbelt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "ruffleshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "royalvest_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "royalrobe_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "revolver_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "recurvebow_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "reconhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "ERS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Canister_FearGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Gas Traps And Shells",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeFear": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_FeatheredTopHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_FireExtinguisher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "CEC_FiveSeven": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "reconarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "pumpshotgun_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "psyfocustaff_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "psychitetea_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "psychicfoilhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "FlakeExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "FlakeDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_Flintlock": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_FAL": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_FNFAL": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "prestigereconhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_LeatherPants": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "CombatExtendedFsxRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "FuelRods": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "FuelRodsMOX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "CEC_ClockworkAR": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_GentPants": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "prestigereconarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "prestigemarinehelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "prestigemarinearmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "UltraMedKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Rimkit",
+    "QuantityLimit": -1
+  },
+  "prestigecataphracthelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "GoJuiceExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "GoJuiceDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "prestigecataphractarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_ChargeLMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Halberd": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Glaive": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Melee",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Hammer": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "HandAlcohol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandAmbrosia": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandFlake": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandGoJuice": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandMorphine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandPenoxy": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandSmokeleaf": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandWakeUp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "HandYayo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Axe": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "platearmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "plasmasword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Gun_Henry_Rifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "pipelineValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Chaps": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "HyperweaveRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "pila_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "penoxycyline_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "parka_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeAntiBug": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "CEC_Intervention": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "pants_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Jeans": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Kepi": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "orbitalpowerbeamtargeter_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "CEC_LWAMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "CEC_WoodlandSMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "Gun_Vector": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "orbitalbombardmenttargeter_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "monosword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "molotove_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "minigun_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "mi8a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "mig27a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "mig29a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "medicine_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "marinehelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "marinearmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "machinepistol_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "mace_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "luciferium_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "longsword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "lmg_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "linkzeushammer_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "linkplasmasword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "linkmonosword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "ladieshat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "kurinworkjumpsuit_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinwinterpadding_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinwinterhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinwhiteunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinwhitestocking_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurint-shirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurintraditionalsimpledress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurintraditionalluxurydress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurintraditionalhairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurintraditionalfancydress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurintraditionalcoat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinsurigum_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinsummerhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinstripedunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinstripedstocking_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinsniperrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinslimunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinseductivewhitedress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinseductiveblackdress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinscarf_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinredunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinpantyhose_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinpajamas_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinopenshoulderknit_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinopenbackknit_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinkurinonepiecedress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinnundress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinmilitaryuniform_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinmilitaryhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinhotpants_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_ChargeLMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "kurinhoodie_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_LeatherApron": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Lambrosia_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lautopistol_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Laxe_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lbeer_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lbolt-actionrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lbowlerhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lbutton-downshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lcataphractarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lcataphracthelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lchainshotgun_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lchargelance_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lchargerifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lclub_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lcoronet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lcorset_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lcowboyhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lcrown_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Ldoomsdayrocketlauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lduster_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lelephanttusk_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Leltexhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Leltexrobe_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Leltexshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Leltexvest_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lempgrenade_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lemplauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lflakhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lflakjacket_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lflakpants_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lflakvest_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lflake_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lfraggrenade_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lgladius_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lglitterworldmedicine_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lgo-juice_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lgreatbow_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lheavysmg_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lherbalmedicine_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Likwa_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lincendiarylauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Linfernocannon_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Ljacket_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lknife_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lkurinarmoredgothicdress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinassaultrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinbikiniarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinbikiniarmorheadgear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinblackunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinbodyarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinbrownstocking_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurincardigan_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurincasualhairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurincasualwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinceremonialsword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurincutedress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurincutehairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinduster_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkuringarterbelt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkuringoggles_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkuringothicdress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkuringothichairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinhoodie_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinhotpants_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinmilitaryhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinmilitaryuniform_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinnundress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinkurinonepiecedress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinopenbackknit_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinopenshoulderknit_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinpajamas_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinpantyhose_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinredunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinscarf_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinseductiveblackdress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinseductivewhitedress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinslimunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinsniperrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinstripedstocking_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinstripedunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinsummerhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinsurigum_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurintraditionalcoat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurintraditionalfancydress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurintraditionalhairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurintraditionalluxurydress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurintraditionalsimpledress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurint-shirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinwhitestocking_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinwhiteunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinwinterhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinwinterpadding_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lkurinworkjumpsuit_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Lladieshat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lassultrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Llinkmonosword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Llinkplasmasword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Llinkzeushammer_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Llmg_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Llongsword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lluciferium_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lmace_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lmachinepistol_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lmarinearmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lmarinehelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lmedicine_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lminigun_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lmolotove_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lmonosword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lorbitalbombardmenttargeter_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lorbitalpowerbeamtargeter_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lpants_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lparka_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lpenoxycyline_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lpila_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lplasmasword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lplatearmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lprestigecataphractarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lprestigecataphracthelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lprestigemarinearmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lprestigemarinehelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lprestigereconarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lprestigereconhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lpsychitetea_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lpsyfocustaff_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lpumpshotgun_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lreconarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lreconhelemt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lrecurvebow_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lrevolver_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lroyalrobe_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lroyalvest_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lruffleshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lshieldbelt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lshortbow_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lsimplehelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lsmokelauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lsmokeleafjoint_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lsmokepopbelt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lsniperrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lspear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lthrumbohorn_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Ltophat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Ltornadogenerator_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Ltribalheaddress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Ltribalwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Ltriplerocketlauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lt-shirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Ltuque_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lwake-up_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lwarmask_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lwarveil_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lwarhammer_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Lwood_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lyayo_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Lzeushammer_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "LenseModule": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "kuringothichairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kuringothicdress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kuringoggles_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kuringarterbeltstocking_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "VWE_Bow_Long": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "kurinduster_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Longcoat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Lpsychicfoilhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "kurincutehairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "CEC_BattleRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_ChargeMinigun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_MSixty": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_MSixty": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "Gun_M72LAW": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_M72LAW": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "kurincutedress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinceremonialsword_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurincasualwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurincasualhairpin_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Gun_Marlin_M_OneEightNineFourC_Rifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Maul": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Melee",
+    "QuantityLimit": -1
+  },
+  "Canister_MechVirusGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Gas Traps And Shells",
+    "QuantityLimit": -1
+  },
+  "MedicineBag": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Rimkit",
+    "QuantityLimit": -1
+  },
+  "kurincardigan_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "MedicalKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Rimkit",
+    "QuantityLimit": -1
+  },
+  "MEPS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "CEC_TMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "kurinbrownstocking_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinbodyarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinblackunderwear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Gun_MGL": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_MilkorMGL": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "Gun_Minigun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "kurinbikiniarmorheadgear_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "MissileFuselage": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_M1840Saber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_M1860Saber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "TurretGun_M1881Gatling": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "kurinbikiniarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "kurinassaultrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "Apparel_MoppMaskDesert": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Apparel_MoppMaskSnow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Apparel_MoppMaskWoodland": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Apparel_MoppSuitDesert": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Apparel_MoppSuitSnow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Apparel_MoppSuitWoodland": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "MorphineExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "MorphineDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_SMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_Musket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeMechVirus": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "NapalmBomb": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "NapalmRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "NeutroamineRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "CEC_AntiMaterielRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "FissionWarhead": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "kurinarmoredgothicdress_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Kurin",
+    "QuantityLimit": -1
+  },
+  "knife_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Overalls": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_CombatHandgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_PSeven": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_ChargePistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "CEC_PDW": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_PaddyHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "jacket_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "infernocannon_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_PatchworkPants": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "CEC_Neopup": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "incendiarylauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "PenoxyExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Pickaxe": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "ikwa_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "herbalmedicine_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Gun_PKM": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_PKM": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "he177a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "heavysmg_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Plutonium": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Pocketwatch": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Poncho": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "PotassiumIodide": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "CE_Melee_PoweredMace": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Melee",
+    "QuantityLimit": -1
+  },
+  "CE_Melee_PoweredMaul": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Melee",
+    "QuantityLimit": -1
+  },
+  "CE_Melee_PoweredShortsword": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Melee",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_PrairieSkirt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "greatbow_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "go-juice_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "glitterworldmedicine_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "gladius_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "fraggrenade_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "flake_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "flakvest_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "flakpants_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "flakjacket_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "Gun_PTRS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_PTRS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "flakhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "RimatomicsRTG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_ChargeSniperRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "Apparel_RadiationMask": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Apparel_RadiationSuit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Canister_RageGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Gas Traps And Shells",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeRage": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "emplauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "empgrenade_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "eltexvest_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "RefineryLoadingBay": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "DubsRepairKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Rimkit",
+    "QuantityLimit": -1
+  },
+  "ResourceConsole": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "eltexshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_Flamethrower": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "RocketEngine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_RocketLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "eltexrobe_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "eltexhelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Gun_RPD": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_RPD": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_RPGSeven": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "elephanttusk_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_ChargeSMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "RailgunSabot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "SalvagedComponent": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Rimkit",
+    "QuantityLimit": -1
+  },
+  "VWE_SawedOffShotgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_SawnOff": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "SCAD": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Scalpel": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_BattleRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_M_OneEightSixThree_Sharps_Carbine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_M_OneEightSevenFour_Sharps": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_SheriffBadge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "duster_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "doomsdayrocketlauncher_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Shovel": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "crown_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "CEC_SkorpionEvo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "Gun_SKS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_SKS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "Canister_SleepGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Gas Traps And Shells",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeSleep": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "cowboyhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "SmokeleafExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "SmokeleafDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "corset_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "coronet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "club_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Sombrero": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "chargerifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Spectacles": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_SpikeBayonet": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_M1822Musket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_StablehandTrousers": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_Carbine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "CEC_SSRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "CEC_MuffaloCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_MedicalApron": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_SVD": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_SVD": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "SynthamideRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "SynthreadRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "SynthyleneRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "Gun_TacFifty": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_TacFifty": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "CEC_TacticalSledgeHammer": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "TargetingChip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Gun_Judge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_TaurusJudge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "Canister_TearGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Gas Traps And Shells",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeTearGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "Gun_ThreeCrowns": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_Throwing_Knives": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "VWE_Throwing_Rocks": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "chargelance_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "CEC_Thunder": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_TopHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "chainshotgun_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "cataphracthelmet_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "Canister_ToxicGas": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Gas Traps And Shells",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeToxic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Unknown",
+    "QuantityLimit": -1
+  },
+  "VWE_ToxicGrenade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_TraderCoat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "cataphractarmor_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "button-downshirt_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "bowlerhat_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "bolt-actionrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "fa18a": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SRTS Expanded] Planes and Bombs",
+    "QuantityLimit": -1
+  },
+  "beer_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "axe_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards - Royalty",
+    "QuantityLimit": -1
+  },
+  "UncuredPlasteel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "UncuredComposite": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "UraniumPellets": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1
+  },
+  "Gun_USASTwelve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "CE_Gun_USASTwelve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Guns",
+    "QuantityLimit": -1
+  },
+  "CEC_CombatShotgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "Gun_Uzi": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rim Guns Extended",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_LightSMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "CEC_BullpupSniper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Waistcoat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "autopistol_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "WakeUpExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "WakeUpDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "RWP_Apparel_Zorro": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "assultrifle_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "ambrosia_card": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "BitCards",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_adv_wind_turbine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "VWE_Tool_Whip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "VWE_Gun_LeverActionRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_Winchester_OneEightSevenThree": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "Gun_Winchester_OneEightSevenSix": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld Westernization Project (Continued)",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_WatermillGenerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "CE_Melee_WraithBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Melee",
+    "QuantityLimit": -1
+  },
+  "VWE_MeleeWeapon_Wrench": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_adv_solar_generator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_nuclear_power_plant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "YayoExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "YayoDrip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Autoinjectors",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_adv_geothermal_generator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "CEC_Zipper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Enthusiast's Collection",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Zweihander": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Combat Extended Melee",
     "QuantityLimit": -1
   }
 }
