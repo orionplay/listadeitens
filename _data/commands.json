@@ -363,9 +363,39 @@
     "data": {
       "isShortcut": false
     },
+    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+    "name": "Viewer health",
+    "usage": "!mypawnhealth [capacity]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows an overview of your pawn's needs.",
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows an overview of your pawn's gear.",
+    "name": "Viewer gear",
+    "usage": "!mypawngear",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows an overview of your pawn's body.",
+    "name": "Viewer body",
+    "usage": "!mypawnbody",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -515,7 +545,7 @@
     },
     "description": "Shows the colony's current wealth. This command uses the same value the storyteller will use.",
     "name": "Colony wealth",
-    "usage": "!wealth",
+    "usage": "!valordacolonia",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -536,6 +566,16 @@
     "description": "Provides some information about supported things. Supported categories are: weapons",
     "name": "Database",
     "usage": "!rwdata <category/weaponname> [weaponname]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows information about your current RimWorld of Magic class. This command will only be usable when RimWorld of Magic is installed.",
+    "name": "Viewer class",
+    "usage": "!mypawnclass",
     "userLevel": "Anyone",
     "shortcut": false
   },
