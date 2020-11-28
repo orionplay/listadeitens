@@ -6969,26 +6969,6 @@
     "Mod": "Alpha Animals",
     "QuantityLimit": -1
   },
-  "RangWeapon_Pilum_GripPart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
-  "RangWeapon_TinkersPilum": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
   "SandPile": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8139,16 +8119,6 @@
     "Mod": "Call of Cthulhu - Cults (Continued)",
     "QuantityLimit": -1
   },
-  "Stove_Mould": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
   "Mithril": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9079,16 +9049,6 @@
     "Mod": "Alien Vs Predator",
     "QuantityLimit": -1
   },
-  "MeleeWeapon_TinkersLongSword": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
   "Meat_Alien_Wolvx": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9309,36 +9269,6 @@
     "Mod": "Rim of Madness - Arachnophobia (Continued)",
     "QuantityLimit": -1
   },
-  "MeleeWeapon_KnifeHandlePart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
-  "MeleeWeapon_KnifeBladePart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
-  "MeleeWeapon_TinkersKnife": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
   "Meat_Procoptodon": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9377,16 +9307,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1
-  },
-  "MeleeWeapon_JunctionPart": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
     "QuantityLimit": -1
   },
   "Jecrell_BookJournal": {
@@ -9887,16 +9807,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Cybernetic Storm",
-    "QuantityLimit": -1
-  },
-  "MeleeWeapon_HandlePart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
     "QuantityLimit": -1
   },
   "QE_Organ_Hand": {
@@ -12299,36 +12209,6 @@
     "Mod": "Fertile Fields [1.1]",
     "QuantityLimit": -1
   },
-  "RangWeapon_Crossbow_TopPart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
-  "RangWeapon_Crossbow_BodyPart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
-  "RangWeapon_TinkersCrossbow": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
-    "QuantityLimit": -1
-  },
   "Meat_Quinkana": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12507,16 +12387,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Door Mat",
-    "QuantityLimit": -1
-  },
-  "RangWeapon_Crossbow_TopCompositePart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
     "QuantityLimit": -1
   },
   "BookOfSniper": {
@@ -12909,26 +12779,6 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1
   },
-  "Item_AdvancedCapacitor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Item_HeavySMG_AdaptiveChambering": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "MSE_AdamantiumCoatedBoneModule": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13279,16 +13129,6 @@
     "Mod": "Alpha Animals",
     "QuantityLimit": -1
   },
-  "Item_ACOG": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "Canister_AcidGas": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13627,16 +13467,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1
-  },
-  "MeleeWeapon_BladePart": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Tinker's Construct",
     "QuantityLimit": -1
   },
   "AA_BlackSpider": {
@@ -14677,16 +14507,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Rimatomics",
-    "QuantityLimit": -1
-  },
-  "Item_4X_8XSniperScope": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "SpellOf_FoldReality": {
@@ -15839,16 +15659,6 @@
     "Mod": "Archotechnology and Archotech Bionics Expanded",
     "QuantityLimit": -1
   },
-  "turbineBlade": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
-    "QuantityLimit": -1
-  },
   "ArchotechBrainStimulant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15907,26 +15717,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Archotech+",
-    "QuantityLimit": -1
-  },
-  "sixdd_TrayRackSingle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
-    "QuantityLimit": -1
-  },
-  "sixdd_FabricHamperSingle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
   "FSFArchotechEar": {
@@ -16189,26 +15979,6 @@
     "Mod": "Archotechnology and Archotech Bionics Expanded",
     "QuantityLimit": -1
   },
-  "sixdd_BasketSingle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
-    "QuantityLimit": -1
-  },
-  "sixdd_DeepShelfSingle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
-    "QuantityLimit": -1
-  },
   "ArchotechPainStopper": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16469,16 +16239,6 @@
     "Mod": "Royalty",
     "QuantityLimit": -1
   },
-  "Item_Armrack": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "ArtificialClavicle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16539,26 +16299,6 @@
     "Mod": "Gun Nut - Chapter #2",
     "QuantityLimit": -1
   },
-  "Item_AssaultRifle_AmmoChain": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon CE Patch",
-    "QuantityLimit": -1
-  },
-  "Gun_TinkersAssaultRifle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "GN_ATFour": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16617,26 +16357,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Cybernetic Organism and Neural Network",
-    "QuantityLimit": -1
-  },
-  "Item_Autopistol_Magazine": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Gun_TinkersAutopistol": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "FarmerCore": {
@@ -17529,16 +17249,6 @@
     "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1
   },
-  "Gun_TinkersBoltActionRifle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "MeleeWeapon_BowieKnife": {
     "HasQuantityLimit": false,
     "IsMelee": true,
@@ -17689,26 +17399,6 @@
     "Mod": "RimPlas (Continued)",
     "QuantityLimit": -1
   },
-  "Item_CartridgeClip": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Item_AssaultRifle_CartridgeDrum": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "VoidMatingHorn": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17769,46 +17459,6 @@
     "Mod": "RimPlas (Continued)",
     "QuantityLimit": -1
   },
-  "Item_ChainShotgun_AmmoChain": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon CE Patch",
-    "QuantityLimit": -1
-  },
-  "Item_ChainShotgun_CartridgeDrum": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Item_ChainShotgun_Magazine": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Gun_TinkersChainShotgun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "Turret_Blaster": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17827,46 +17477,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1
-  },
-  "Item_ChargeRifle_Battery": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Item_ChargeRifle_LargeBattery": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Item_ChargeRifle_PowerLine": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon CE Patch",
-    "QuantityLimit": -1
-  },
-  "Gun_TinkersChargeRifle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "VWE_Gun_ChargeRocketLauncher": {
@@ -17907,26 +17517,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Enhanced Battery",
-    "QuantityLimit": -1
-  },
-  "Item_ChargeSMG_Battery": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon(for Vanilla Weapons Expanded)",
-    "QuantityLimit": -1
-  },
-  "Item_ChargeSMG_LargBattery": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon(for Vanilla Weapons Expanded)",
     "QuantityLimit": -1
   },
   "MSE_ChefAI": {
@@ -18237,16 +17827,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1
-  },
-  "Item_HeavySMG_StockC": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "CombinedRib": {
@@ -19169,16 +18749,6 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "Item_AssaultRifle_FlameDamper": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "AA_Flamethrower": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19569,16 +19139,6 @@
     "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1
   },
-  "Item_GrenadeLauncher": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "Apparel_ArmorMarineGrenadier": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19597,16 +19157,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Gun Nut - Community Pack",
-    "QuantityLimit": -1
-  },
-  "Item_Grip": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "Apparel_Gunlink": {
@@ -19719,26 +19269,6 @@
     "Mod": "Combat Extended",
     "QuantityLimit": -1
   },
-  "Item_HeavySMG_AmmoChain": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon CE Patch",
-    "QuantityLimit": -1
-  },
-  "Gun_TinkersHeavySMG": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "Gun_Henry_Rifle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19757,16 +19287,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimPlas (Continued)",
-    "QuantityLimit": -1
-  },
-  "Item_Holographic": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "Cults_CthulhidEyestalk": {
@@ -20239,16 +19759,6 @@
     "Mod": "Mercer's Backpacks + Nano Suit (Continued)",
     "QuantityLimit": -1
   },
-  "Item_ChainShotgun_Muffler": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "LargeAirThermal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20329,16 +19839,6 @@
     "Mod": "Unknown",
     "QuantityLimit": -1
   },
-  "Item_AssaultRifle_LengthenedBarrel": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "LightColumnMod": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20347,16 +19847,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Utility Columns",
-    "QuantityLimit": -1
-  },
-  "Item_LightGrenadeLauncher": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "LightReceptor": {
@@ -20739,16 +20229,6 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "Gun_TinkersMachinePistol": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "TableMachining": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20757,16 +20237,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1
-  },
-  "Item_AssaultRifle_Magazine": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "Building_RTMagneticShield": {
@@ -20857,16 +20327,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Rimworld Westernization Project (Continued)",
-    "QuantityLimit": -1
-  },
-  "Item_Masterkey": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "MatingHorn": {
@@ -21369,16 +20829,6 @@
     "Mod": "Gun Nut - Chapter #1",
     "QuantityLimit": -1
   },
-  "Item_AssaultRifle_Muffler": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "MultiAnalyzer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21437,26 +20887,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Radiology",
-    "QuantityLimit": -1
-  },
-  "Item_AssaultRifle_MuzzleBrake": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
-  "Item_AssaultRifle_MuzzleCompensator": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "Ogre_NanoTech_AnimalBed": {
@@ -22009,16 +21439,6 @@
     "Mod": "Royalty",
     "QuantityLimit": -1
   },
-  "plumbingValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
-    "QuantityLimit": -1
-  },
   "CarboPitch": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22067,16 +21487,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimPlas (Continued)",
-    "QuantityLimit": -1
-  },
-  "pipelineValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1
   },
   "Sniper_CS_PointBreak": {
@@ -22999,16 +22409,6 @@
     "Mod": "Combat Extended Guns",
     "QuantityLimit": -1
   },
-  "Gun_TinkersPumpShotgun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "RimFridge_QuadRefrigerator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23189,16 +22589,6 @@
     "Mod": "[PS] Reconditioning Pod (Continued)",
     "QuantityLimit": -1
   },
-  "Item_RedDot": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
-    "QuantityLimit": -1
-  },
   "RefineryLoadingBay": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23287,16 +22677,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1
-  },
-  "Gun_TinkersRevolver": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
     "QuantityLimit": -1
   },
   "BlocksRimica": {
@@ -23709,24 +23089,14 @@
     "Mod": "A RimWorld of Magic",
     "QuantityLimit": -1
   },
-  "Item_ServiceRifle_CartridgeDrum": {
+  "turbineBlade": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon(for Vanilla Weapons Expanded)",
-    "QuantityLimit": -1
-  },
-  "Item_ServiceRifle_Magazine": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon(for Vanilla Weapons Expanded)",
+    "Mod": "Rimatomics",
     "QuantityLimit": -1
   },
   "ANN_Shadowrunner": {
@@ -23789,14 +23159,14 @@
     "Mod": "Royalty",
     "QuantityLimit": -1
   },
-  "Item_ChainShotgun_Buncher": {
+  "sixdd_TrayRackSingle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
+    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
   "Shoulder": {
@@ -23989,34 +23359,34 @@
     "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1
   },
-  "Item_HeavySMG_StockS": {
+  "sixdd_FabricHamperSingle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
+    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_wind_turbine": {
+  "sixdd_BasketSingle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_WatermillGenerator": {
+  "sixdd_DeepShelfSingle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
   "RimFridge_SingleRefrigerator": {
@@ -24229,24 +23599,24 @@
     "Mod": "RimPlas (Continued)",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_solar_generator": {
+  "plumbingValve": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_nuclear_power_plant": {
+  "pipelineValve": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Rimefeller",
     "QuantityLimit": -1
   },
   "AIESmallVanometricPowerCell": {
@@ -24279,24 +23649,24 @@
     "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1
   },
-  "Item_HeavySMG_CartridgeDrum": {
+  "sd_adv_powergen_adv_wind_turbine": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1
   },
-  "Item_HeavySMG_Magazine": {
+  "sd_adv_powergen_WatermillGenerator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1
   },
   "Weapon_GrenadeSmoke": {
@@ -24319,14 +23689,14 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "Gun_TinkersSniperRifle": {
+  "sd_adv_powergen_adv_solar_generator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1
   },
   "AvP_Yautja_Gun_SpearRifle": {
@@ -24909,14 +24279,14 @@
     "Mod": "Diseases Overhauled",
     "QuantityLimit": -1
   },
-  "Item_TriangleGrip": {
+  "sd_adv_powergen_nuclear_power_plant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Modularization Weapon",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1
   },
   "Gun_TripleRocket": {
@@ -25397,6 +24767,146 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightAzure": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightBlue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightChartreuse": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightCyan": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightMagenta": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightOrange": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightRed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightRose": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightSpringGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightViolet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightYellow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallSunLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
     "QuantityLimit": -1
   }
 }

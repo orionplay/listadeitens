@@ -40,6 +40,10 @@
     "version": "2.5.4.1"
   },
   {
+    "author": "Alias",
+    "name": "De-generalize Work"
+  },
+  {
     "author": "Gewen, Swenzi, and Alias",
     "name": "Additional Traits (Heroes + Gods Optional)",
     "steamId": "1621571024",
@@ -286,8 +290,10 @@
     "name": "Genetically Engineered Trait"
   },
   {
-    "author": "[cn]nuclear",
-    "name": "Tinker's Construct"
+    "author": "Oskar Potocki, Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.0.8.0"
   },
   {
     "author": "Oskar Potocki, Trunken",
@@ -468,18 +474,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "[cn]nuclear",
-    "name": "Modularization Weapon"
-  },
-  {
-    "author": "[cn]nuclear",
-    "name": "Modularization Weapon CE Patch"
-  },
-  {
-    "author": "[cn]nuclear",
-    "name": "Modularization Weapon(for Vanilla Weapons Expanded)"
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] More Slaves",
     "steamId": "2021510577",
@@ -590,10 +584,10 @@
     "version": "1.4.1"
   },
   {
-    "author": "LongWater",
+    "author": "slofa",
     "name": "Quick Stockpile Creation",
     "steamId": "1742151109",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
   },
   {
     "author": "AUTOMATIC",
@@ -828,12 +822,6 @@
     "name": "Utility Columns: Show Roof Radius."
   },
   {
-    "author": "Oskar Potocki, Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.0.8.0"
-  },
-  {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
     "name": "Alpha Animals",
     "steamId": "1541721856",
@@ -924,10 +912,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Pausbrak",
-    "name": "Ranged DPS"
-  },
-  {
     "author": "Tamias and JackeryFox",
     "name": "Rimworld Westernization Project (Continued)"
   },
@@ -974,5 +958,19 @@
   {
     "author": "Bob",
     "name": "[1.1] TicksPerSecond"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents"
   }
 ]

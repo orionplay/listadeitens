@@ -111,11 +111,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 50,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -188,11 +183,6 @@
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "travelergroup",
-		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -281,11 +271,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -336,11 +321,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "reviveme",
 		"price": 2833,
 		"karmatype": "Good"
@@ -362,7 +342,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -406,5 +386,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 81
+	"total": 77
 }

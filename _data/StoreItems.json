@@ -4117,12 +4117,6 @@
 		"defname": "AA_BlackSpider"
 	},
 	{
-		"abr": "blade",
-		"price": 218,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_BladePart"
-	},
-	{
 		"abr": "blizzarisk",
 		"price": 833,
 		"category": "Animal",
@@ -4579,12 +4573,6 @@
 		"defname": "BookOfSniper"
 	},
 	{
-		"abr": "compositecrossbowtop",
-		"price": 109,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Crossbow_TopCompositePart"
-	},
-	{
 		"abr": "constructionbook",
 		"price": 2258,
 		"category": "Books",
@@ -4655,24 +4643,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Quinkana"
-	},
-	{
-		"abr": "crossbow",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "RangWeapon_TinkersCrossbow"
-	},
-	{
-		"abr": "crossbowbody",
-		"price": 176,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Crossbow_BodyPart"
-	},
-	{
-		"abr": "crossbowtop",
-		"price": 59,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Crossbow_TopPart"
 	},
 	{
 		"abr": "crushedrocks",
@@ -5648,7 +5618,7 @@
 	},
 	{
 		"abr": "giantspider",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ROMA_SpiderRaceGiant"
 	},
@@ -5666,7 +5636,7 @@
 	},
 	{
 		"abr": "giantspiderqueen",
-		"price": 2000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ROMA_SpiderRaceGiantQueen"
 	},
@@ -5795,12 +5765,6 @@
 		"price": 167,
 		"category": "Natural",
 		"defname": "QE_Organ_Hand"
-	},
-	{
-		"abr": "handle",
-		"price": 89,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_HandlePart"
 	},
 	{
 		"abr": "handlerimplant",
@@ -6043,12 +6007,6 @@
 		"defname": "Jecrell_BookJournal"
 	},
 	{
-		"abr": "junction",
-		"price": 53,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_JunctionPart"
-	},
-	{
 		"abr": "junglelisk",
 		"price": 833,
 		"category": "Animal",
@@ -6071,24 +6029,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Procoptodon"
-	},
-	{
-		"abr": "knife",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "MeleeWeapon_TinkersKnife"
-	},
-	{
-		"abr": "knifeblade",
-		"price": 53,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_KnifeBladePart"
-	},
-	{
-		"abr": "knifehandle",
-		"price": 52,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_KnifeHandlePart"
 	},
 	{
 		"abr": "largecocoon",
@@ -6191,12 +6131,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alien_Wolvx"
-	},
-	{
-		"abr": "longsword",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "MeleeWeapon_TinkersLongSword"
 	},
 	{
 		"abr": "m10patternballistichelmet",
@@ -6725,12 +6659,6 @@
 		"price": 15,
 		"category": "Raw resources",
 		"defname": "Mithril"
-	},
-	{
-		"abr": "mold",
-		"price": 8,
-		"category": "Manufactured",
-		"defname": "Stove_Mould"
 	},
 	{
 		"abr": "monstrousabominationsculpture",
@@ -7319,18 +7247,6 @@
 		"price": 2,
 		"category": "Fertile Field's Resources",
 		"defname": "SandPile"
-	},
-	{
-		"abr": "pilum",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "RangWeapon_TinkersPilum"
-	},
-	{
-		"abr": "pilumgrip",
-		"price": 106,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Pilum_GripPart"
 	},
 	{
 		"abr": "plantmeat",
@@ -8341,12 +8257,6 @@
 		"defname": "EggTitanisFertilized"
 	},
 	{
-		"abr": "titanoboa",
-		"price": 4500,
-		"category": "Animal",
-		"defname": "Titanoboa"
-	},
-	{
 		"abr": "titanoboaegg(fert.)",
 		"price": 333,
 		"category": "Eggs (fert.)",
@@ -8989,12 +8899,6 @@
 		"defname": "RWP_Building_CoehornMortar"
 	},
 	{
-		"abr": "4x-8xsniperscope",
-		"price": 433,
-		"category": "Weapons Part",
-		"defname": "Item_4X_8XSniperScope"
-	},
-	{
 		"abr": "81mmmortar",
 		"price": 1058,
 		"category": "Security",
@@ -9031,12 +8935,6 @@
 		"defname": "Canister_AcidGas"
 	},
 	{
-		"abr": "acog",
-		"price": 292,
-		"category": "Weapons Part",
-		"defname": "Item_ACOG"
-	},
-	{
 		"abr": "adamantiumbonemodule",
 		"price": 5000,
 		"category": "Archotech modules",
@@ -9047,18 +8945,6 @@
 		"price": 2500,
 		"category": "Bionic modules",
 		"defname": "MSE_AdamantiumCoatedBoneModule"
-	},
-	{
-		"abr": "adaptivechambering",
-		"price": 41,
-		"category": "Weapons Part",
-		"defname": "Item_HeavySMG_AdaptiveChambering"
-	},
-	{
-		"abr": "adaptivechambering",
-		"price": 900,
-		"category": "Weapons Part",
-		"defname": "Item_AdvancedCapacitor"
 	},
 	{
 		"abr": "adrenalineribreplacement",
@@ -9997,12 +9883,6 @@
 		"defname": "ArmorskinGland"
 	},
 	{
-		"abr": "armrack",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_Armrack"
-	},
-	{
 		"abr": "artificialclavicle",
 		"price": 141,
 		"category": "Prosthetic",
@@ -10039,18 +9919,6 @@
 		"defname": "GN_AShTwelve"
 	},
 	{
-		"abr": "assaultrifleammochain",
-		"price": 211,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_AmmoChain"
-	},
-	{
-		"abr": "assaultrifle(canuseweaponattachments)",
-		"price": 642,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersAssaultRifle"
-	},
-	{
 		"abr": "at-4",
 		"price": 60,
 		"category": "Ranged weapons",
@@ -10085,18 +9953,6 @@
 		"price": 2583,
 		"category": "Cyborg",
 		"defname": "ANN_Autonomicviruskiller"
-	},
-	{
-		"abr": "autopistolmagazine",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_Autopistol_Magazine"
-	},
-	{
-		"abr": "autopistol(canuseweaponattachments)",
-		"price": 281,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersAutopistol"
 	},
 	{
 		"abr": "auxiliaryai(agricultural)",
@@ -10633,12 +10489,6 @@
 		"defname": "ANN_BlackPearl"
 	},
 	{
-		"abr": "bolt-actionrifle(canuseweaponattachments)",
-		"price": 330,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersBoltActionRifle"
-	},
-	{
 		"abr": "bowieknife",
 		"price": 167,
 		"category": "Melee weapons",
@@ -10729,18 +10579,6 @@
 		"defname": "CarboSynth"
 	},
 	{
-		"abr": "cartridgeclip",
-		"price": 41,
-		"category": "Weapons Part",
-		"defname": "Item_CartridgeClip"
-	},
-	{
-		"abr": "cartridgedrum",
-		"price": 211,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_CartridgeDrum"
-	},
-	{
 		"abr": "cataclysmlance",
 		"price": 2500,
 		"category": "Artifacts",
@@ -10777,30 +10615,6 @@
 		"defname": "RP_CeilingLight"
 	},
 	{
-		"abr": "chainshotgunammochain",
-		"price": 195,
-		"category": "Weapons Part",
-		"defname": "Item_ChainShotgun_AmmoChain"
-	},
-	{
-		"abr": "chainshotguncartridgedrum",
-		"price": 195,
-		"category": "Weapons Part",
-		"defname": "Item_ChainShotgun_CartridgeDrum"
-	},
-	{
-		"abr": "chainshotgunmagazine",
-		"price": 110,
-		"category": "Weapons Part",
-		"defname": "Item_ChainShotgun_Magazine"
-	},
-	{
-		"abr": "chainshotgun(canuseweaponattachments)",
-		"price": 458,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersChainShotgun"
-	},
-	{
 		"abr": "chargeblasterauto-turret",
 		"price": 1583,
 		"category": "Security",
@@ -10811,30 +10625,6 @@
 		"price": 3667,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
-	},
-	{
-		"abr": "chargeriflebattery",
-		"price": 567,
-		"category": "Weapons Part",
-		"defname": "Item_ChargeRifle_Battery"
-	},
-	{
-		"abr": "chargeriflelargebattery",
-		"price": 1050,
-		"category": "Weapons Part",
-		"defname": "Item_ChargeRifle_LargeBattery"
-	},
-	{
-		"abr": "chargeriflepowerline",
-		"price": 392,
-		"category": "Weapons Part",
-		"defname": "Item_ChargeRifle_PowerLine"
-	},
-	{
-		"abr": "chargerifle(canuseweaponattachments)",
-		"price": 1375,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersChargeRifle"
 	},
 	{
 		"abr": "chargerocketlauncher",
@@ -10859,18 +10649,6 @@
 		"price": 417,
 		"category": "Power",
 		"defname": "ChargeBack_Battery_Prototype"
-	},
-	{
-		"abr": "chargesmgbattery",
-		"price": 492,
-		"category": "Weapons Part",
-		"defname": "Item_ChargeSMG_Battery"
-	},
-	{
-		"abr": "chargesmglargbattery",
-		"price": 975,
-		"category": "Weapons Part",
-		"defname": "Item_ChargeSMG_LargBattery"
 	},
 	{
 		"abr": "chefai",
@@ -11057,12 +10835,6 @@
 		"price": 205,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_CombatKnife"
-	},
-	{
-		"abr": "combatstock",
-		"price": 126,
-		"category": "Weapons Part",
-		"defname": "Item_HeavySMG_StockC"
 	},
 	{
 		"abr": "combinedribreplacement",
@@ -11617,12 +11389,6 @@
 		"defname": "Flake"
 	},
 	{
-		"abr": "flamedamper",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_FlameDamper"
-	},
-	{
 		"abr": "flamethrower",
 		"price": 2333,
 		"category": "Ranged weapons",
@@ -11857,12 +11623,6 @@
 		"defname": "ANN_Greenthumb"
 	},
 	{
-		"abr": "grenadelauncher",
-		"price": 367,
-		"category": "Weapons Part",
-		"defname": "Item_GrenadeLauncher"
-	},
-	{
 		"abr": "grenadierarmor",
 		"price": 4300,
 		"category": "Armor",
@@ -11873,12 +11633,6 @@
 		"price": 433,
 		"category": "Gun Nut",
 		"defname": "GN_GreyHawk"
-	},
-	{
-		"abr": "grip",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_Grip"
 	},
 	{
 		"abr": "gunlink",
@@ -11947,18 +11701,6 @@
 		"defname": "Turret_Heavy"
 	},
 	{
-		"abr": "heavysmgammochain",
-		"price": 179,
-		"category": "Weapons Part",
-		"defname": "Item_HeavySMG_AmmoChain"
-	},
-	{
-		"abr": "heavysmg(canuseweaponattachments)",
-		"price": 550,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersHeavySMG"
-	},
-	{
 		"abr": "henryrifle",
 		"price": 324,
 		"category": "Ranged weapons",
@@ -11969,12 +11711,6 @@
 		"price": 2475,
 		"category": "Furniture",
 		"defname": "RPHT_HospitalBed"
-	},
-	{
-		"abr": "holographic",
-		"price": 254,
-		"category": "Weapons Part",
-		"defname": "Item_Holographic"
 	},
 	{
 		"abr": "horrifyingeyestalk",
@@ -12259,12 +11995,6 @@
 		"defname": "LargeBackpackMC"
 	},
 	{
-		"abr": "largecalibermuffler",
-		"price": 88,
-		"category": "Weapons Part",
-		"defname": "Item_ChainShotgun_Muffler"
-	},
-	{
 		"abr": "largeclimatecontrolunit",
 		"price": 2408,
 		"category": "Climate",
@@ -12313,22 +12043,10 @@
 		"defname": "Infusion_Infuser_Legendary"
 	},
 	{
-		"abr": "lengthenedbarrel",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_LengthenedBarrel"
-	},
-	{
 		"abr": "lightcolumn",
 		"price": 170,
 		"category": "Misc",
 		"defname": "LightColumnMod"
-	},
-	{
-		"abr": "lightgrenadelauncher",
-		"price": 220,
-		"category": "Weapons Part",
-		"defname": "Item_LightGrenadeLauncher"
 	},
 	{
 		"abr": "lightreceptor",
@@ -12559,22 +12277,10 @@
 		"defname": "Gun_MachinePistol"
 	},
 	{
-		"abr": "machinepistol(canuseweaponattachments)",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersMachinePistol"
-	},
-	{
 		"abr": "machiningtable",
 		"price": 758,
 		"category": "Production",
 		"defname": "TableMachining"
-	},
-	{
-		"abr": "magazine",
-		"price": 110,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_Magazine"
 	},
 	{
 		"abr": "magneticshield",
@@ -12629,12 +12335,6 @@
 		"price": 273,
 		"category": "Ranged weapons",
 		"defname": "Gun_Marlin_M_OneEightNineFourC_Rifle"
-	},
-	{
-		"abr": "masterkeyshotgun",
-		"price": 492,
-		"category": "Weapons Part",
-		"defname": "Item_Masterkey"
 	},
 	{
 		"abr": "matinghorn",
@@ -12937,12 +12637,6 @@
 		"defname": "GN_MPSevenAOne"
 	},
 	{
-		"abr": "muffler",
-		"price": 88,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_Muffler"
-	},
-	{
 		"abr": "multi-analyzer",
 		"price": 1700,
 		"category": "Misc",
@@ -12977,18 +12671,6 @@
 		"price": 152,
 		"category": "Furniture",
 		"defname": "RadiologyMonitorMutation"
-	},
-	{
-		"abr": "muzzlebrake",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_MuzzleBrake"
-	},
-	{
-		"abr": "muzzlecompensator",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_AssaultRifle_MuzzleCompensator"
 	},
 	{
 		"abr": "nanotechanimalbed",
@@ -13909,12 +13591,6 @@
 		"defname": "CE_Gun_PTRS"
 	},
 	{
-		"abr": "pumpshotgun(canuseweaponattachments)",
-		"price": 273,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersPumpShotgun"
-	},
-	{
 		"abr": "quadrefrigerator",
 		"price": 307,
 		"category": "Furniture",
@@ -14023,12 +13699,6 @@
 		"defname": "PS_Buildings_ReconPod"
 	},
 	{
-		"abr": "reddot",
-		"price": 156,
-		"category": "Weapons Part",
-		"defname": "Item_RedDot"
-	},
-	{
 		"abr": "refineryunloadingbay",
 		"price": 49,
 		"category": "Oil",
@@ -14081,12 +13751,6 @@
 		"price": 2833,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
-	},
-	{
-		"abr": "revolver(canuseweaponattachments)",
-		"price": 244,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersRevolver"
 	},
 	{
 		"abr": "rimicablocks",
@@ -14335,18 +13999,6 @@
 		"defname": "BookOfSuperSoldier"
 	},
 	{
-		"abr": "serviceriflecartridgedrum",
-		"price": 975,
-		"category": "Weapons Part",
-		"defname": "Item_ServiceRifle_CartridgeDrum"
-	},
-	{
-		"abr": "serviceriflemagazine",
-		"price": 492,
-		"category": "Weapons Part",
-		"defname": "Item_ServiceRifle_Magazine"
-	},
-	{
 		"abr": "shadowrunner",
 		"price": 2458,
 		"category": "Cyborg",
@@ -14381,12 +14033,6 @@
 		"price": 185,
 		"category": "Misc",
 		"defname": "ShipLandingBeacon"
-	},
-	{
-		"abr": "shotgunbuncher",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_ChainShotgun_Buncher"
 	},
 	{
 		"abr": "shoulder",
@@ -14501,12 +14147,6 @@
 		"price": 52,
 		"category": "Hygiene",
 		"defname": "ShowerSimple"
-	},
-	{
-		"abr": "simplestock",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_HeavySMG_StockS"
 	},
 	{
 		"abr": "singlerefrigerator",
@@ -14665,18 +14305,6 @@
 		"defname": "ToiletAdvStuff"
 	},
 	{
-		"abr": "smgcartridgedrum",
-		"price": 195,
-		"category": "Weapons Part",
-		"defname": "Item_HeavySMG_CartridgeDrum"
-	},
-	{
-		"abr": "smgmagazine",
-		"price": 110,
-		"category": "Weapons Part",
-		"defname": "Item_HeavySMG_Magazine"
-	},
-	{
 		"abr": "smokegrenade",
 		"price": 17,
 		"category": "Grenades",
@@ -14687,12 +14315,6 @@
 		"price": 277,
 		"category": "Utility",
 		"defname": "Apparel_SmokepopBelt"
-	},
-	{
-		"abr": "sniperrifle(canuseweaponattachments)",
-		"price": 692,
-		"category": "Ranged weapons",
-		"defname": "Gun_TinkersSniperRifle"
 	},
 	{
 		"abr": "spearrifle",
@@ -15041,12 +14663,6 @@
 		"price": 43,
 		"category": "Drugs",
 		"defname": "Tranquiazepin"
-	},
-	{
-		"abr": "trianglegrip",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "Item_TriangleGrip"
 	},
 	{
 		"abr": "triplerocketlauncher",
@@ -16153,24 +15769,6 @@
 		"defname": "Ammo_40x46mmGrenade_Toxic"
 	},
 	{
-		"abr": "40x53mmvog-25grenade(emp)",
-		"price": 9,
-		"category": "40x53mm VOG-25 Grenade",
-		"defname": "Ammo_40x53mmVOG25Grenade_EMP"
-	},
-	{
-		"abr": "40x53mmvog-25grenade(he)",
-		"price": 5,
-		"category": "40x53mm VOG-25 Grenade",
-		"defname": "Ammo_40x53mmVOG25Grenade_HE"
-	},
-	{
-		"abr": "40x53mmvog25grenade(smoke)",
-		"price": 3,
-		"category": "40x53mm VOG-25 Grenade",
-		"defname": "Ammo_40x53mmVOG25Grenade_Smoke"
-	},
-	{
 		"abr": "5.45x39mmsovietcartridge(ap)",
 		"price": 1,
 		"category": "5.45x39mm Soviet",
@@ -16752,6 +16350,90 @@
 		"category": "FN 5.7x28mm",
 		"defname": "Ammo_FN57x28mm_HP"
 	},
+	{
+		"abr": "walllight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallSunLight"
+	},
 	],
-	"total": 2795
+	"total": 2740
 }
