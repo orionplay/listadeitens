@@ -16434,6 +16434,12 @@
 		"category": "Furniture",
 		"defname": "Lighting_MURWallSunLight"
 	},
+	{
+		"abr": "titanoboa",
+		"price": 4500,
+		"category": "Animal",
+		"defname": "Titanoboa"
+	},
 	],
-	"total": 2740
+	"total": 2751
 }

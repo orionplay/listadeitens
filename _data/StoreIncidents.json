@@ -217,7 +217,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 70000,
 		"karmatype": "Good"
 	},
 	{
@@ -271,6 +271,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -319,6 +324,11 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
@@ -386,5 +396,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 79
 }

@@ -37,7 +37,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.4.1"
+    "version": "2.5.4.2"
   },
   {
     "author": "Alias",
@@ -938,6 +938,10 @@
     "name": "Expanded Prosthetics and Organ Engineering"
   },
   {
+    "author": "Teok25",
+    "name": "Archotech Expanded Prosthetics"
+  },
+  {
     "author": "Abraxas",
     "name": "Medical System Expansion - Revived"
   },
@@ -972,5 +976,11 @@
   {
     "author": "Sierra",
     "name": "RimTraits - Medieval Talents"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
   }
 ]

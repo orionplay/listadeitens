@@ -23089,14 +23089,14 @@
     "Mod": "A RimWorld of Magic",
     "QuantityLimit": -1
   },
-  "turbineBlade": {
+  "ArchotechObliterator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
+    "Mod": "Archotech Expanded Prosthetics",
     "QuantityLimit": -1
   },
   "ANN_Shadowrunner": {
@@ -23159,14 +23159,14 @@
     "Mod": "Royalty",
     "QuantityLimit": -1
   },
-  "sixdd_TrayRackSingle": {
+  "ArchotechMembrane": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Archotech Expanded Prosthetics",
     "QuantityLimit": -1
   },
   "Shoulder": {
@@ -23359,34 +23359,34 @@
     "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1
   },
-  "sixdd_FabricHamperSingle": {
+  "ArchotechDenture": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Archotech Expanded Prosthetics",
     "QuantityLimit": -1
   },
-  "sixdd_BasketSingle": {
+  "ArchotechDeathClaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Archotech Expanded Prosthetics",
     "QuantityLimit": -1
   },
-  "sixdd_DeepShelfSingle": {
+  "ArchotechBrainMelder": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Archotech Expanded Prosthetics",
     "QuantityLimit": -1
   },
   "RimFridge_SingleRefrigerator": {
@@ -23599,24 +23599,24 @@
     "Mod": "RimPlas (Continued)",
     "QuantityLimit": -1
   },
-  "plumbingValve": {
+  "turbineBlade": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Rimatomics",
     "QuantityLimit": -1
   },
-  "pipelineValve": {
+  "sixdd_TrayRackSingle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
+    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
   "AIESmallVanometricPowerCell": {
@@ -23649,24 +23649,24 @@
     "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_wind_turbine": {
+  "sixdd_FabricHamperSingle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_WatermillGenerator": {
+  "sixdd_BasketSingle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Little Storage 2",
     "QuantityLimit": -1
   },
   "Weapon_GrenadeSmoke": {
@@ -23689,14 +23689,14 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_solar_generator": {
+  "Meat_TM_SpiritWolfR": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "A RimWorld of Magic",
     "QuantityLimit": -1
   },
   "AvP_Yautja_Gun_SpearRifle": {
@@ -24279,14 +24279,14 @@
     "Mod": "Diseases Overhauled",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_nuclear_power_plant": {
+  "AdvancedArchotechLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Archotech Expanded Prosthetics",
     "QuantityLimit": -1
   },
   "Gun_TripleRocket": {
@@ -24319,14 +24319,14 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "sd_adv_powergen_adv_geothermal_generator": {
+  "AdvancedArchotechArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Archotech Expanded Prosthetics",
     "QuantityLimit": -1
   },
   "VBE_TypewritersTable": {
@@ -24907,6 +24907,106 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "SpellOf_ShieldOther": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A RimWorld of Magic",
+    "QuantityLimit": -1
+  },
+  "SpellOf_Discord": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A RimWorld of Magic",
+    "QuantityLimit": -1
+  },
+  "sixdd_DeepShelfSingle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Little Storage 2",
+    "QuantityLimit": -1
+  },
+  "plumbingValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1
+  },
+  "pipelineValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_adv_wind_turbine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_WatermillGenerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_adv_solar_generator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_nuclear_power_plant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1
+  },
+  "sd_adv_powergen_adv_geothermal_generator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1
   }
 }
