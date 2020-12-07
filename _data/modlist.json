@@ -12,12 +12,6 @@
     "version": "3.8.1038"
   },
   {
-    "author": "Biscuit",
-    "name": "Archotech+",
-    "steamId": "2010967585",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics"
   },
@@ -34,12 +28,6 @@
     "version": "1.1.1.2"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.2"
-  },
-  {
     "author": "Alias",
     "name": "De-generalize Work"
   },
@@ -48,10 +36,6 @@
     "name": "Additional Traits (Heroes + Gods Optional)",
     "steamId": "1621571024",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Advanced Bionics Expansion"
   },
   {
     "author": "Kiame Vivacity",
@@ -68,12 +52,6 @@
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Alien Vs Predator",
-    "steamId": "2034103876",
-    "version": "1.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -138,10 +116,6 @@
     "version": "2.0.4.0"
   },
   {
-    "author": "ColdToad",
-    "name": "Centralized Climate Control (Continued)"
-  },
-  {
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
@@ -175,17 +149,13 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.8.1652"
+    "version": "2.8.1666"
   },
   {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
     "version": "1.1.23"
-  },
-  {
-    "author": "LadyCookie",
-    "name": "Cookie Traits"
   },
   {
     "author": "Mythos",
@@ -210,10 +180,6 @@
     "name": "Cybernetic Storm"
   },
   {
-    "author": "Doomsday343",
-    "name": "DD Traits Expanded"
-  },
-  {
     "author": "Mythos",
     "name": "Diseases Overhauled"
   },
@@ -226,16 +192,6 @@
     "name": "Door Mat"
   },
   {
-    "author": "Ravvy",
-    "name": "[RWY]Dragon's Decent: Void Dwellers"
-  },
-  {
-    "author": "Onyxae",
-    "name": "Dragon's Descent",
-    "steamId": "2026992161",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "BaRKy",
     "name": "Dryxsteel (Continued)"
   },
@@ -243,7 +199,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.2.768"
+    "version": "1.2.787"
   },
   {
     "author": "Dubwise",
@@ -266,14 +222,6 @@
   {
     "author": "CarbonTNT",
     "name": "ez infestation"
-  },
-  {
-    "author": "Mlie",
-    "name": "Fallout Traits (Continued)"
-  },
-  {
-    "author": "MercuryDoll / original by Agracore",
-    "name": "Fantasy Metals Reforged"
   },
   {
     "author": "Fluffy",
@@ -396,10 +344,6 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.4.0.0"
-  },
-  {
-    "author": "BJInternetSupervision",
-    "name": "[SS]Maid Project"
   },
   {
     "author": "Zylle",
@@ -590,12 +534,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Radiology",
-    "steamId": "1617578581",
-    "version": "1.0.690.0907"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Range Finder",
     "steamId": "1332119637",
@@ -626,12 +564,6 @@
   {
     "author": "tfaivre",
     "name": "Rich Traders - Royalty DLC"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Rim of Madness - Arachnophobia (Continued)",
-    "steamId": "2242359252",
-    "version": "1.0.4.0"
   },
   {
     "author": "Sihv",
@@ -708,12 +640,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "gguake",
     "name": "Simple Search Bar"
   },
@@ -760,10 +686,6 @@
     "name": "Super Soil"
   },
   {
-    "author": "Mlie",
-    "name": "Tag Trait (Continued)"
-  },
-  {
     "author": "Uuugggg",
     "name": "TD Enhancement Pack",
     "steamId": "1339135272",
@@ -792,8 +714,8 @@
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
-    "steamId": "",
-    "version": "5.0.1.10"
+    "steamId": "2009500580",
+    "version": "5.0.2.2"
   },
   {
     "author": "Smash Phil",
@@ -828,10 +750,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Taranchuk",
-    "name": "Vanilla Books Expanded"
-  },
-  {
     "author": "Toasteh, Updated by Ogliss",
     "name": "Veinminer R1.1"
   },
@@ -848,10 +766,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Albion",
-    "name": "Xenohumans - Gen-spliced Xenos on the Rim"
-  },
-  {
     "author": "Jaxxa",
     "name": "ED-Embrasures",
     "steamId": "722085442",
@@ -866,12 +780,6 @@
   {
     "author": "Little White Mouse",
     "name": "Restricted Storage"
-  },
-  {
-    "author": "AliceTries, updated by Ogliss",
-    "name": "[WarHammer 40k] GeneSeed",
-    "steamId": "2017823407",
-    "version": "1.0.0.0"
   },
   {
     "author": "Falconne",
@@ -950,16 +858,6 @@
     "name": "Crafted Mutants(continued+expanded)"
   },
   {
-    "author": "Burnt",
-    "name": "Archotechnology and Archotech Bionics Expanded"
-  },
-  {
-    "author": "FLASHPOINT55",
-    "name": "RPG Style Level Up Mod",
-    "steamId": "1995668415",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Bob",
     "name": "[1.1] TicksPerSecond"
   },
@@ -974,13 +872,65 @@
     "name": "Dual Wield"
   },
   {
-    "author": "Sierra",
-    "name": "RimTraits - Medieval Talents"
-  },
-  {
     "author": "Oskar Potocki, Taranchuk, Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Cannibal Trait Tweaks"
+  },
+  {
+    "author": "Spdskatr, CaesarV6",
+    "name": "Damage Indicators [1.2]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mantrasong",
+    "name": "Farmable Neutroamine"
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy"
+  },
+  {
+    "author": "Nathan Harbour",
+    "name": "Pocket Dimension",
+    "steamId": "2307817213",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Jecrell and contributors",
+    "name": "Rim of Madness - Vampires",
+    "steamId": "2242846132",
+    "version": "1.22.0.1"
+  },
+  {
+    "author": "Mario90900",
+    "name": "Vampire Meditation Fix"
+  },
+  {
+    "author": "GwinnBleidd",
+    "name": "Technology Blueprints & Reverse Engineering",
+    "steamId": "2010527094",
+    "version": "1.2.8.0"
+  },
+  {
+    "author": "tikubonn",
+    "name": "Anesthetic Gun MOD"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Rim of Madness - Werewolves"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Clay Soldier Race"
   }
 ]
