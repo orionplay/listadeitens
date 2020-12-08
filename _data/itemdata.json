@@ -21703,25 +21703,25 @@
     "QuantityLimit": -1,
     "Weight": 0.0
   },
-  "turbineBlade": {
+  "ElderThing_LaserGun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
-  "sixdd_TrayRackSingle": {
+  "ET_ChairPentagonal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
@@ -21758,58 +21758,58 @@
     "QuantityLimit": -1,
     "Weight": 0.0
   },
-  "sixdd_FabricHamperSingle": {
+  "ET_Chair": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
-  "sixdd_BasketSingle": {
+  "ET_Bed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
-  "sixdd_DeepShelfSingle": {
+  "Alien_ElderThing_Race_Standard": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Little Storage 2",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
-  "plumbingValve": {
+  "Meat_Alien_ElderThing_Race_Standard": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
-  "pipelineValve": {
+  "ET_Item_BionicWing": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
@@ -21832,6 +21832,116 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Clay Soldier Race",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookGrowing": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookCrafting": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookCooking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookConstruction": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_Blueprint": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "ET_Item_Phloem": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookArt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookAnimals": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "ET_Item_PsionicLobe": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "ET_Item_HeartLung": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
     "QuantityLimit": -1,
     "Weight": 0.0
   },
@@ -21879,6 +21989,17 @@
     "QuantityLimit": -1,
     "Weight": 0.0
   },
+  "ET_Table": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
   "sd_adv_powergen_adv_geothermal_generator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21887,6 +22008,204 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "ET_Item_Xylem": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Call of Cthulhu - Elder Things (Continued)",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookIntellectual": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_Map": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookMedical": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookMelee": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookMining": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_Newspaper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "pipelineValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "plumbingValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookShooting": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "sixdd_DeepShelfSingle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Little Storage 2",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "sixdd_BasketSingle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Little Storage 2",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "sixdd_FabricHamperSingle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Little Storage 2",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "sixdd_TrayRackSingle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Little Storage 2",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_BookSocial": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "turbineBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_TypewritersTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
+    "QuantityLimit": -1,
+    "Weight": 0.0
+  },
+  "VBE_WritersTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Books Expanded",
     "QuantityLimit": -1,
     "Weight": 0.0
   }

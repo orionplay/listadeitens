@@ -199,7 +199,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.2.787"
+    "version": "1.2.790"
   },
   {
     "author": "Dubwise",
@@ -928,5 +928,13 @@
   {
     "author": "Taranchuk",
     "name": "Clay Soldier Race"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Elder Things (Continued)"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Books Expanded"
   }
 ]
