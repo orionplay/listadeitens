@@ -149,7 +149,7 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.8.1666"
+    "version": "2.8.1670"
   },
   {
     "author": "avilmask",
@@ -324,10 +324,6 @@
     "name": "Let's Trade!"
   },
   {
-    "author": "Xen, ChJees",
-    "name": "Logann Race (Continued)"
-  },
-  {
     "author": "Kiame Vivacity",
     "name": "[KV] RimFridge",
     "steamId": "1180721235",
@@ -362,20 +358,6 @@
   {
     "author": "Daniledman",
     "name": "Mechalit Core 1.2"
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Mechanoid Nerf for Combat Extended"
-  },
-  {
-    "author": "Mlie",
-    "name": "Mechanoid Power (Continued)",
-    "steamId": "2013172430",
-    "version": "1.0.3.0"
-  },
-  {
-    "author": "ItchyFlea",
-    "name": "Medical Training"
   },
   {
     "author": "FrozenSnowFox",
@@ -587,7 +569,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7626.41092"
+    "version": "1.0.7648.34163"
   },
   {
     "author": "pelador",
@@ -672,10 +654,6 @@
     "name": "SS Researchable Stat Upgrades (Reupload)"
   },
   {
-    "author": "Linkolas",
-    "name": "Stabilize"
-  },
-  {
     "author": "Fluffy",
     "name": "Stuffed Floors",
     "steamId": "853043503",
@@ -696,10 +674,6 @@
     "name": "Temperature Control Unit"
   },
   {
-    "author": "Mlie",
-    "name": "The Witcher Trials (Continued)"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -715,7 +689,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.2.2"
+    "version": "5.0.2.4"
   },
   {
     "author": "Smash Phil",
@@ -752,12 +726,6 @@
   {
     "author": "Toasteh, Updated by Ogliss",
     "name": "Veinminer R1.1"
-  },
-  {
-    "author": "AliceTries",
-    "name": "Woohooer 1.1",
-    "steamId": "2127642337",
-    "version": "1.0.0.0"
   },
   {
     "author": "Syrchalis",
@@ -818,10 +786,6 @@
     "name": "Powerful Faction Bases",
     "steamId": "1570960972",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Tamias and JackeryFox",
-    "name": "Rimworld Westernization Project (Continued)"
   },
   {
     "author": "Mlie",
@@ -899,7 +863,7 @@
     "author": "Nathan Harbour",
     "name": "Pocket Dimension",
     "steamId": "2307817213",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   {
     "author": "Jecrell and contributors",
@@ -927,14 +891,22 @@
   },
   {
     "author": "Taranchuk",
-    "name": "Clay Soldier Race"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Elder Things (Continued)"
+    "name": "Clay Soldier Race",
+    "steamId": "2307153650",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk",
     "name": "Vanilla Books Expanded"
+  },
+  {
+    "author": "Kapitan Oczywisty",
+    "name": "Change map edge limit"
+  },
+  {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": "2297729625",
+    "version": "1.0.7629.42224"
   }
 ]
