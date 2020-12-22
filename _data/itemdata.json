@@ -11495,17 +11495,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "denture": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Meat_Deinocheirus": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17853,14 +17842,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gastronomy_CashRegister": {
+  "turbineBlade": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Gastronomy",
+    "Mod": "Rimatomics",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -27258,14 +27247,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "pipelineValve": {
+  "TMC_Destructor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
+    "Mod": "TMC Armory - Community Pack ",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -29876,14 +29865,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "turbineBlade": {
+  "pipelineValve": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
+    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -31017,6 +31006,28 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "TMC Gun Accessories",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AT_PP_S": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "denture": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   }

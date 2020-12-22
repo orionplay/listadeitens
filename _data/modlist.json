@@ -292,10 +292,14 @@
     "name": "Pick Up And Haul (Continued)"
   },
   {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor"
+  },
+  {
     "author": "Nathan Harbour",
-    "name": "Pocket Dimension",
+    "name": "Pocket Dimensions",
     "steamId": "2307817213",
-    "version": "1.0.4"
+    "version": "1.0.5"
   },
   {
     "author": "aRandomKiwi",
@@ -610,12 +614,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "FunkyShit",
-    "name": "WorldEdit 2.0",
-    "steamId": "2314163152",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Jaxxa",
     "name": "ED-Embrasures",
     "steamId": "722085442",
@@ -708,10 +706,6 @@
     "name": "Harvest Organs Post Mortem"
   },
   {
-    "author": "Orion",
-    "name": "Gastronomy"
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion"
   },
@@ -766,13 +760,47 @@
     "name": "Pawnmorpher: Insectoids"
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor"
-  },
-  {
     "author": "Roo",
     "name": "Anty the war ant race",
     "steamId": "2297729625",
     "version": "1.0.7629.42224"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Animal Food Restrictions"
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.2.1.37"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "Restricted Storage"
+  },
+  {
+    "author": "Updated by Saucy_Pigeon",
+    "name": "Pawn Badge Fan Fork",
+    "steamId": "2112663412",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Botaxalim",
+    "name": "Pawn Badge - XCOM Badge"
+  },
+  {
+    "author": "void",
+    "name": "Terraform Rimworld"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
   }
 ]

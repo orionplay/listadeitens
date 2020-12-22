@@ -136,11 +136,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -352,7 +347,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -388,6 +383,11 @@
 	{
 		"abr": "backpack",
 		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "immortality",
+		"price": 100000,
 		"karmatype": "Neutral"
 	}
 	],
