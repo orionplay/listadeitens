@@ -5181,14 +5181,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Genewax": {
+  "ANN_MindClearer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -5269,14 +5269,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_GeneticHoney": {
+  "ANN_Lionheart": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -7128,14 +7128,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Exploding_Queen": {
+  "ANN_LaserDetection": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -7304,14 +7304,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Exploding_Honeycomb": {
+  "ANN_IndependentEye": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -7458,14 +7458,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Exploding_Drone": {
+  "ANN_HoverFeet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -12045,25 +12045,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Clucking_Queen": {
+  "SF_HazardOperationsArmorHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Clucking_Honeycomb": {
+  "SF_HazardOperationsArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -12078,14 +12078,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Clucking_Drone": {
+  "SF_GrenadierPowerArmorHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -13794,25 +13794,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Cattle_Queen": {
+  "SF_GrenadierPowerArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Cattle_Honeycomb": {
+  "ANN_Greenthumb": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -13838,14 +13838,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Cattle_Drone": {
+  "GeneIncubator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16665,14 +16665,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgDesert": {
+  "GeneExtractTool": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16698,47 +16698,47 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgAgri": {
+  "GeneEvolveBase": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgInsect": {
+  "GLung": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgElec": {
+  "GLiver": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgPet": {
+  "GKidney": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16929,14 +16929,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgPsy": {
+  "GHeart": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16951,14 +16951,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgOily": {
+  "GStomach": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16973,14 +16973,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgEgg": {
+  "GeneCatalyzer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16995,25 +16995,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgWool": {
+  "Gene_Cardiotonic": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_ResearchPapersOrgWood": {
+  "ANN_FlashLight": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -17842,14 +17842,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "turbineBlade": {
+  "AT_TP_AMM": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
+    "Mod": "Anty the war ant race",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -21879,69 +21879,69 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Horned_Drone": {
+  "UniversalFermenter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "[SYR] Universal Fermenter",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Horned_Honeycomb": {
+  "SF_ExplorerPowerArmorHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Horned_Queen": {
+  "SF_ExplorerPowerArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Hound_Drone": {
+  "ANN_Exoskeleton": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Hound_Honeycomb": {
+  "SF_EngineerPowerArmorHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Hound_Queen": {
+  "SF_EngineerPowerArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -22275,36 +22275,36 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Hybernating_Drone": {
+  "ANN_EnergyLink": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Hybernating_Honeycomb": {
+  "ANN_EnergyFist": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Hybernating_Queen": {
+  "ANN_EnergyCore": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -23683,36 +23683,36 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Mecha_Drone": {
+  "ANN_EnergeticLung": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Mecha_Honeycomb": {
+  "ANN_EnergeticKidney": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Mecha_Queen": {
+  "ANN_ElasticAchilles": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24321,36 +24321,36 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Megaspidery_Drone": {
+  "SF_DiplomatPowerArmorHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Megaspidery_Honeycomb": {
+  "SF_DiplomatPowerArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Megaspidery_Queen": {
+  "ANN_Dermalplating": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24519,36 +24519,36 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Mousy_Drone": {
+  "MedPodAnimalBig": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "MedPod",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Mousy_Honeycomb": {
+  "SF_DefenderPowerArmorHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Mousy_Queen": {
+  "SF_DefenderPowerArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -26510,25 +26510,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Organic_Drone": {
+  "ANN_CyclopsVisor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Organic_Honeycomb": {
+  "ANN_CompressionStomach": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -26543,14 +26543,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Organic_Queen": {
+  "ANN_CompressionJaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -27720,36 +27720,36 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Purring_Drone": {
+  "SF_CommandoArmorHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Purring_Honeycomb": {
+  "SF_CommandoArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Rimworld: Spartan Foundry",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Purring_Queen": {
+  "ANN_CombatAI": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -28281,36 +28281,36 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Scaly_Drone": {
+  "ANN_Brainwash": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Scaly_Honeycomb": {
+  "ANN_BlackPearl": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RB_Bee_Scaly_Queen": {
+  "ANN_BerserkerChip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "RimBees - Genetic Rim Patch",
+    "Mod": "Cybernetic Organism and Neural Network",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -29865,14 +29865,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "pipelineValve": {
+  "Mithril": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
+    "Mod": "Fantasy Metals Reforged",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -31020,6 +31020,534 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "ANN_Autonomicviruskiller": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AT_Superregenerationdevice": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Adamantite": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Fantasy Metals Reforged",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Orichalcum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Fantasy Metals Reforged",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Aurum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Tozra": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Fantasy Metals Reforged",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Solorite": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Fantasy Metals Reforged",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_AureanCornea": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Skelsshkrum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Fantasy Metals Reforged",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Mindtwist": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Musclewire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_MuseChip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_NeuroEnhancer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_NeuromodBooster": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Vanya_Gene": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Vanya_Gene_Prototype": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Vanya_Gene_Ultratech": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_OuterBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_PassionGiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MedPodAnimal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "MedPod",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_PowerArms": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_PoweredAssaultArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_PoweredAssaultArmorHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneEvolveAdvanced": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_ReconPowerArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_ReconPowerArmorHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Reconditioner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneEvolveSenior": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_SamuraiPowerArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_SamuraiPowerArmorHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_ScoutPowerArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_ScoutPowerArmorHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneFructification": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_SensoricEarside": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Shadowrunner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_ShockTrooperArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SF_ShockTrooperArmorHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimworld: Spartan Foundry",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneSterileIncubator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Synchronizer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "pipelineValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Zoom": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneSeed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneSbed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneSRoot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneMSroot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GeneMechSerum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[基因进化药剂]Gene-adjusted agent",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "turbineBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "denture": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31028,6 +31556,50 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "LWM_Safe": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "LWM's Deep Storage",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Anty_pheromone": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Antypheromone_Charge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Antypheromone_Shooting": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
     "QuantityLimit": -1,
     "Weight": 1.0
   }

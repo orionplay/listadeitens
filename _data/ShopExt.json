@@ -2981,7 +2981,15 @@
       "name": "absent-minded",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "workaholic",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [],
@@ -3004,7 +3012,13 @@
       "name": "eccentric",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "dunce"
+        ],
+        "customName": false,
+        "stats": [
+          "x115% research speed"
+        ]
       },
       "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
       "stats": [
@@ -3025,7 +3039,11 @@
       "name": "perfectionist",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "x65% global work speed"
+        ]
       },
       "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
       "stats": [
@@ -3044,7 +3062,13 @@
       "name": "coward",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "brawler",
+          "brave",
+          "bloodlust"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [],
@@ -3065,7 +3089,15 @@
       "name": "brave",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "wimp",
+          "coward"
+        ],
+        "customName": false,
+        "stats": [
+          "-20% mental break threshold",
+          "+20% pain shock threshold"
+        ]
       },
       "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
       "stats": [
@@ -3088,7 +3120,11 @@
       "name": "clumsy",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "nimble"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
       "stats": [],
@@ -3107,7 +3143,13 @@
       "name": "heatinclined",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "coldinclined"
+        ],
+        "customName": false,
+        "stats": [
+          "+10.0C Maximum comfortable temperature"
+        ]
       },
       "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
@@ -3128,7 +3170,13 @@
       "name": "coldinclined",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "heatinclined"
+        ],
+        "customName": false,
+        "stats": [
+          "-10.0C Minimum comfortable temperature"
+        ]
       },
       "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
@@ -3149,7 +3197,9 @@
       "name": "heavysleeper",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [],
@@ -3166,7 +3216,11 @@
       "name": "neat",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "slob"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
       "stats": [],
@@ -3185,7 +3239,11 @@
       "name": "slob",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "neat"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
       "stats": [],
@@ -3204,7 +3262,15 @@
       "name": "workaholic",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "absent-minded",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [],
@@ -3227,7 +3293,11 @@
       "name": "ironstomach",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "squeamish"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to his.",
       "stats": [],
@@ -3246,7 +3316,11 @@
       "name": "animallover",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "animalhater"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
       "stats": [],
@@ -3265,7 +3339,12 @@
       "name": "animalhater",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "animallover",
+          "menagerist"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
       "stats": [],
@@ -3285,7 +3364,9 @@
       "name": "big-boned",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
       "stats": [],
@@ -3302,7 +3383,11 @@
       "name": "rebel",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "submissive"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
       "stats": [],
@@ -3321,7 +3406,11 @@
       "name": "submissive",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "rebel"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
       "stats": [],
@@ -3340,7 +3429,11 @@
       "name": "vengeful",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "kind"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
       "stats": [],
@@ -3359,7 +3452,13 @@
       "name": "technophobe",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "transhumanist"
+        ],
+        "customName": false,
+        "stats": [
+          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+        ]
       },
       "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
       "stats": [
@@ -3380,7 +3479,11 @@
       "name": "fun-loving",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "anxious"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
       "stats": [],
@@ -3399,7 +3502,17 @@
       "name": "dunce",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "eccentric",
+          "prodigy"
+        ],
+        "customName": false,
+        "stats": [
+          "-50% global learning factor",
+          "-50.00% social impact"
+        ]
       },
       "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
       "stats": [
@@ -3424,7 +3537,9 @@
       "name": "martialartist",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [],
@@ -3441,7 +3556,11 @@
       "name": "snob",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "ascetic"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
       "stats": [],
@@ -3460,7 +3579,11 @@
       "name": "squeamish",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "ironstomach"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for his.",
       "stats": [],
@@ -3479,7 +3602,13 @@
       "name": "anxious",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "fun-loving"
+        ],
+        "customName": false,
+        "stats": [
+          "Only mental break \"VTE_PanicFreezing\" allowed."
+        ]
       },
       "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
       "stats": [
@@ -3500,7 +3629,12 @@
       "name": "insatiable",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "prude",
+          "asexual"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
       "stats": [],
@@ -3520,7 +3654,12 @@
       "name": "prude",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "insatiable",
+          "nudist"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
       "stats": [],
@@ -3540,7 +3679,9 @@
       "name": "couchpotato",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [],
@@ -3557,7 +3698,11 @@
       "name": "catperson",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "dogperson"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
       "stats": [],
@@ -3576,7 +3721,11 @@
       "name": "dogperson",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "catperson"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
       "stats": [],
@@ -3595,7 +3744,14 @@
       "name": "prodigy",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "dunce"
+        ],
+        "customName": false,
+        "stats": [
+          "+20% mental break threshold",
+          "x130% research speed"
+        ]
       },
       "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
       "stats": [
@@ -3617,7 +3773,14 @@
       "name": "menagerist",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "animalhater"
+        ],
+        "customName": false,
+        "stats": [
+          "x120% tame animal chance",
+          "x120% train animal chance"
+        ]
       },
       "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
       "stats": [
@@ -3639,7 +3802,9 @@
       "name": "oceanlover",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [],
@@ -3656,7 +3821,9 @@
       "name": "mountainlover",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [],
@@ -3673,7 +3840,11 @@
       "name": "madsurgeon",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+20% surgery success chance factor"
+        ]
       },
       "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
       "stats": [
@@ -3692,7 +3863,11 @@
       "name": "drunkenmaster",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 melee"
+        ]
       },
       "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
       "stats": [
@@ -3711,7 +3886,11 @@
       "name": "kleptomaniac",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "Only mental break \"VTE_Kleptomaniac\" allowed."
+        ]
       },
       "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
@@ -3730,9 +3909,16 @@
       "name": "stoner",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "customName": false,
+        "stats": []
       },
-      "description": "Smokeleaf culture is just part life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3752,9 +3938,16 @@
       "name": "lush",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "customName": false,
+        "stats": []
       },
-      "description": "Alcohol culture is just part life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3774,7 +3967,11 @@
       "name": "wanderlust",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.2 foraged food amount"
+        ]
       },
       "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
       "stats": [
@@ -3793,7 +3990,14 @@
       "name": "insomniac",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "customName": false,
+        "stats": [
+          "x50% global work speed",
+          "x70% move speed"
+        ]
       },
       "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
@@ -3815,7 +4019,9 @@
       "name": "worldweary",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [],
@@ -3832,7 +4038,9 @@
       "name": "desensitized",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
       "stats": [],
@@ -3849,7 +4057,13 @@
       "name": "refinedpalate",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "ascetic"
+        ],
+        "customName": false,
+        "stats": [
+          "x70% eating speed"
+        ]
       },
       "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
       "stats": [
@@ -3870,9 +4084,15 @@
       "name": "academian",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 intellectual",
+          "+4 medical",
+          "+20% medical tend quality"
+        ]
       },
-      "description": "Whether through studying ancient manuscripts or years of scholastic persuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practician.",
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
       "stats": [
         "+4 intellectual",
         "+4 medical",
@@ -3891,7 +4111,14 @@
       "name": "groundbreaker",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 mining",
+          "+4 construction",
+          "+20% mining yield",
+          "+20% construction speed"
+        ]
       },
       "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
       "stats": [
@@ -3913,7 +4140,13 @@
       "name": "gastronomist",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 cooking",
+          "+4 artistic",
+          "-25.00% food poison chance"
+        ]
       },
       "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
       "stats": [
@@ -3934,7 +4167,14 @@
       "name": "ecologist",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 animals",
+          "+4 plants",
+          "+20% plant harvest yield",
+          "+20% butchery efficiency"
+        ]
       },
       "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
       "stats": [
@@ -3956,7 +4196,13 @@
       "name": "tycoon",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 social",
+          "+4 crafting",
+          "+25.00% trade price improvement"
+        ]
       },
       "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
       "stats": [
@@ -3977,7 +4223,11 @@
       "name": "thickskinned",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "thinskinned"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
       "stats": [],
@@ -3996,7 +4246,11 @@
       "name": "thinskinned",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "thickskinned"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
       "stats": [],
@@ -4015,7 +4269,14 @@
       "name": "schizoid",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [],

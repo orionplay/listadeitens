@@ -69,7 +69,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.0.4.0"
+    "version": "2.1.1.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -96,6 +96,12 @@
   {
     "author": "Mythos",
     "name": "Extended Human Body Simulation"
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "1.5.0.0"
   },
   {
     "author": "Ykara",
@@ -225,7 +231,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.1.5"
+    "version": "1.2.2"
   },
   {
     "author": "Spino",
@@ -299,13 +305,13 @@
     "author": "Nathan Harbour",
     "name": "Pocket Dimensions",
     "steamId": "2307817213",
-    "version": "1.0.5"
+    "version": "1.0.9"
   },
   {
     "author": "aRandomKiwi",
     "name": "Power++",
     "steamId": "1771402217",
-    "version": "1.7.11"
+    "version": "1.8.1"
   },
   {
     "author": "Mlie",
@@ -421,7 +427,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7648.34163"
+    "version": "1.0.7671.11675"
   },
   {
     "author": "aRandomKiwi",
@@ -579,7 +585,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.2.4"
+    "version": "5.0.3.1"
   },
   {
     "author": "BaRKy",
@@ -590,12 +596,6 @@
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
     "version": "1.0.8.0"
-  },
-  {
-    "author": "Sarg",
-    "name": "RimBees",
-    "steamId": "1558161673",
-    "version": "1.0.0.0"
   },
   {
     "author": "Toasteh, Updated by Ogliss",
@@ -673,7 +673,7 @@
     "author": "Jecrell",
     "name": "Call of Cthulhu - Cosmic Horrors (Continued)",
     "steamId": "2246088032",
-    "version": "1.0.4.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "EdB",
@@ -691,7 +691,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.4"
+    "version": "1.2.0.5"
   },
   {
     "author": "Oken",
@@ -802,5 +802,47 @@
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "MercuryDoll / original by Agracore",
+    "name": "Fantasy Metals Reforged"
+  },
+  {
+    "author": "Nykot",
+    "name": "RPG Style Inventory CE Revived [1.2]"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Rimworld: Spartan Foundry"
+  },
+  {
+    "author": "Denethor",
+    "name": "Gain Skill Passions",
+    "steamId": "2072521087",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "CarbonTNT",
+    "name": "ez infestation"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Universal Fermenter",
+    "steamId": "2073225100",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "RimBees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "臥軒聽雨",
+    "name": "[基因进化药剂]Gene-adjusted agent"
+  },
+  {
+    "author": "MrJet",
+    "name": "Gene-adjusted agent - ENG"
   }
 ]

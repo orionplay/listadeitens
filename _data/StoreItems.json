@@ -9691,66 +9691,6 @@
 		"defname": "RB_ResearchPapersWoolyTanner"
 	},
 	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgWood"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgWool"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgEgg"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgOily"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgPsy"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgPet"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgElec"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgInsect"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgAgri"
-	},
-	{
-		"abr": "beeresearchpapers(genetic)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersOrgDesert"
-	},
-	{
 		"abr": "beeresearchpapers(pawnmorpher)",
 		"price": 83,
 		"category": "Bee research",
@@ -10465,24 +10405,6 @@
 		"defname": "GR_Catrabbit"
 	},
 	{
-		"abr": "cattledrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Cattle_Drone"
-	},
-	{
-		"abr": "cattlehoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Cattle_Honeycomb"
-	},
-	{
-		"abr": "cattlequeen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Cattle_Queen"
-	},
-	{
 		"abr": "catwolf",
 		"price": 250,
 		"category": "Animal",
@@ -11015,24 +10937,6 @@
 		"price": 667,
 		"category": "Prosthetic",
 		"defname": "ClothTail"
-	},
-	{
-		"abr": "cluckingdrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Clucking_Drone"
-	},
-	{
-		"abr": "cluckinghoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Clucking_Honeycomb"
-	},
-	{
-		"abr": "cluckingqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Clucking_Queen"
 	},
 	{
 		"abr": "cobra(dovetail)",
@@ -11611,24 +11515,6 @@
 		"defname": "FSFImplantBrainAnimals"
 	},
 	{
-		"abr": "explodingdrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Exploding_Drone"
-	},
-	{
-		"abr": "explodinghoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Exploding_Honeycomb"
-	},
-	{
-		"abr": "explodingqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Exploding_Queen"
-	},
-	{
 		"abr": "explosivesac",
 		"price": 12,
 		"category": "Grenades",
@@ -11833,22 +11719,10 @@
 		"defname": "GR_GeneticExtractionTable"
 	},
 	{
-		"abr": "genetichoney",
-		"price": 3,
-		"category": "Bee honeys",
-		"defname": "RB_GeneticHoney"
-	},
-	{
 		"abr": "genetrainerbench",
 		"price": 458,
 		"category": "Production",
 		"defname": "GR_GenetrainerBench"
-	},
-	{
-		"abr": "genewax",
-		"price": 7,
-		"category": "Beeswax",
-		"defname": "RB_Genewax"
 	},
 	{
 		"abr": "gigalocust",
@@ -12017,42 +11891,6 @@
 		"price": 5,
 		"category": "Honey food products",
 		"defname": "RB_HoneyedIcePop"
-	},
-	{
-		"abr": "horneddrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Horned_Drone"
-	},
-	{
-		"abr": "hornedhoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Horned_Honeycomb"
-	},
-	{
-		"abr": "hornedqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Horned_Queen"
-	},
-	{
-		"abr": "hounddrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hound_Drone"
-	},
-	{
-		"abr": "houndhoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Hound_Honeycomb"
-	},
-	{
-		"abr": "houndqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hound_Queen"
 	},
 	{
 		"abr": "hugebearpelt",
@@ -12233,24 +12071,6 @@
 		"price": 75,
 		"category": "Genetic materials",
 		"defname": "GR_HumanoidGenetic"
-	},
-	{
-		"abr": "hybernatingdrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hybernating_Drone"
-	},
-	{
-		"abr": "hybernatinghoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Hybernating_Honeycomb"
-	},
-	{
-		"abr": "hybernatingqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hybernating_Queen"
 	},
 	{
 		"abr": "hybridbeargenesgenetrainer",
@@ -13009,24 +12829,6 @@
 		"defname": "GR_MeadowLizardIncubator"
 	},
 	{
-		"abr": "mechadrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Mecha_Drone"
-	},
-	{
-		"abr": "mechahoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Mecha_Honeycomb"
-	},
-	{
-		"abr": "mechaqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Mecha_Queen"
-	},
-	{
 		"abr": "mechabear",
 		"price": 5000,
 		"category": "Animal",
@@ -13357,24 +13159,6 @@
 		"defname": "VFEI_Insectoid_Megapede"
 	},
 	{
-		"abr": "megaspiderydrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Megaspidery_Drone"
-	},
-	{
-		"abr": "megaspideryhoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Megaspidery_Honeycomb"
-	},
-	{
-		"abr": "megaspideryqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Megaspidery_Queen"
-	},
-	{
 		"abr": "microdot",
 		"price": 126,
 		"category": "Weapons Part",
@@ -13463,24 +13247,6 @@
 		"price": 75,
 		"category": "Incubators",
 		"defname": "GR_MousebeeIncubator"
-	},
-	{
-		"abr": "mousydrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Mousy_Drone"
-	},
-	{
-		"abr": "mousyhoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Mousy_Honeycomb"
-	},
-	{
-		"abr": "mousyqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Mousy_Queen"
 	},
 	{
 		"abr": "mp7suppressor",
@@ -14551,28 +14317,10 @@
 		"defname": "RB_Bee_Oily_Queen"
 	},
 	{
-		"abr": "organicdrone",
-		"price": 167,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Organic_Drone"
-	},
-	{
-		"abr": "organichoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Organic_Honeycomb"
-	},
-	{
 		"abr": "organicpulp",
 		"price": 3,
 		"category": "Manufactured",
 		"defname": "GR_OrganicPulp"
-	},
-	{
-		"abr": "organicqueen",
-		"price": 167,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Organic_Queen"
 	},
 	{
 		"abr": "ostrichparagonserum",
@@ -15205,24 +14953,6 @@
 		"defname": "Gun_TinkersPumpShotgun"
 	},
 	{
-		"abr": "purringdrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Purring_Drone"
-	},
-	{
-		"abr": "purringhoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Purring_Honeycomb"
-	},
-	{
-		"abr": "purringqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Purring_Queen"
-	},
-	{
 		"abr": "quetzalcoatlus",
 		"price": 1000,
 		"category": "Animal",
@@ -15509,24 +15239,6 @@
 		"price": 295,
 		"category": "Furniture",
 		"defname": "GR_ScalyBearRug"
-	},
-	{
-		"abr": "scalydrone",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Scaly_Drone"
-	},
-	{
-		"abr": "scalyhoneycomb",
-		"price": -10,
-		"category": "Honey combs",
-		"defname": "RB_Scaly_Honeycomb"
-	},
-	{
-		"abr": "scalyqueen",
-		"price": -10,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Scaly_Queen"
 	},
 	{
 		"abr": "serviceriflecartridgedrum",
@@ -17004,6 +16716,612 @@
 		"category": "TMC Assualt Rifles",
 		"defname": "TMC_Destructor"
 	},
+	{
+		"abr": "antyx-wargiftbox",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "AT_PP_S"
+	},
+	{
+		"abr": "recyclemine",
+		"price": 992,
+		"category": "Security",
+		"defname": "AT_TP_AMM"
+	},
+	{
+		"abr": "superregenerationdevice",
+		"price": 3675,
+		"category": "Furniture",
+		"defname": "AT_Superregenerationdevice"
+	},
+	{
+		"abr": "adamantite",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Adamantite"
+	},
+	{
+		"abr": "mithril",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Mithril"
+	},
+	{
+		"abr": "orichalcum",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Orichalcum"
+	},
+	{
+		"abr": "scarletite",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Tozra"
+	},
+	{
+		"abr": "solorite",
+		"price": 13,
+		"category": "Raw resources",
+		"defname": "Solorite"
+	},
+	{
+		"abr": "vibranium",
+		"price": 12,
+		"category": "Raw resources",
+		"defname": "Skelsshkrum"
+	},
+	{
+		"abr": "aureancornea",
+		"price": 5217,
+		"category": "Cyborg",
+		"defname": "ANN_AureanCornea"
+	},
+	{
+		"abr": "aurum",
+		"price": 6333,
+		"category": "Cyborg",
+		"defname": "ANN_Aurum"
+	},
+	{
+		"abr": "autonomicviruskiller",
+		"price": 2583,
+		"category": "Cyborg",
+		"defname": "ANN_Autonomicviruskiller"
+	},
+	{
+		"abr": "berserkerchip",
+		"price": 5250,
+		"category": "Cyborg",
+		"defname": "ANN_BerserkerChip"
+	},
+	{
+		"abr": "blackpearl",
+		"price": 2833,
+		"category": "Cyborg",
+		"defname": "ANN_BlackPearl"
+	},
+	{
+		"abr": "brainwash",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_Brainwash"
+	},
+	{
+		"abr": "combatai",
+		"price": 8125,
+		"category": "Cyborg",
+		"defname": "ANN_CombatAI"
+	},
+	{
+		"abr": "commandoarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_CommandoArmor"
+	},
+	{
+		"abr": "commandoarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_CommandoArmorHelmet"
+	},
+	{
+		"abr": "compressionjaw",
+		"price": 2875,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionJaw"
+	},
+	{
+		"abr": "compressionstomach",
+		"price": 3333,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionStomach"
+	},
+	{
+		"abr": "cyclopsvisor",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_CyclopsVisor"
+	},
+	{
+		"abr": "defenderpowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_DefenderPowerArmor"
+	},
+	{
+		"abr": "defenderpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_DefenderPowerArmorHelmet"
+	},
+	{
+		"abr": "dermalplating",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_Dermalplating"
+	},
+	{
+		"abr": "diplomatpowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_DiplomatPowerArmor"
+	},
+	{
+		"abr": "diplomatpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_DiplomatPowerArmorHelmet"
+	},
+	{
+		"abr": "elasticachilles",
+		"price": 1583,
+		"category": "Cyborg",
+		"defname": "ANN_ElasticAchilles"
+	},
+	{
+		"abr": "energetickidney",
+		"price": 2083,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticKidney"
+	},
+	{
+		"abr": "energeticlung",
+		"price": 2083,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticLung"
+	},
+	{
+		"abr": "energycore",
+		"price": 7875,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyCore"
+	},
+	{
+		"abr": "energyfist",
+		"price": 7292,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyFist"
+	},
+	{
+		"abr": "energylink",
+		"price": 7792,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyLink"
+	},
+	{
+		"abr": "engineerpowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_EngineerPowerArmor"
+	},
+	{
+		"abr": "engineerpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_EngineerPowerArmorHelmet"
+	},
+	{
+		"abr": "exoskeletonarmor",
+		"price": 6458,
+		"category": "Cyborg",
+		"defname": "ANN_Exoskeleton"
+	},
+	{
+		"abr": "explorerpowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_ExplorerPowerArmor"
+	},
+	{
+		"abr": "explorerpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ExplorerPowerArmorHelmet"
+	},
+	{
+		"abr": "fermentingbarrel",
+		"price": 135,
+		"category": "Production",
+		"defname": "UniversalFermenter"
+	},
+	{
+		"abr": "flashlight",
+		"price": 1083,
+		"category": "Cyborg",
+		"defname": "ANN_FlashLight"
+	},
+	{
+		"abr": "genecardiac",
+		"price": 333,
+		"category": "Drugs",
+		"defname": "Gene_Cardiotonic"
+	},
+	{
+		"abr": "genecatalyst",
+		"price": 100,
+		"category": "Natural",
+		"defname": "GeneCatalyzer"
+	},
+	{
+		"abr": "geneevolutiongastricextract",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "GStomach"
+	},
+	{
+		"abr": "geneevolutionheartextract",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "GHeart"
+	},
+	{
+		"abr": "geneevolutionkidneyextract",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "GKidney"
+	},
+	{
+		"abr": "geneevolutionliverextract",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "GLiver"
+	},
+	{
+		"abr": "geneevolutionlungextract",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "GLung"
+	},
+	{
+		"abr": "geneevolutionsubstrate",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "GeneEvolveBase"
+	},
+	{
+		"abr": "geneextractiontool",
+		"price": 333,
+		"category": "Natural",
+		"defname": "GeneExtractTool"
+	},
+	{
+		"abr": "geneincubator",
+		"price": 1025,
+		"category": "Production",
+		"defname": "GeneIncubator"
+	},
+	{
+		"abr": "greenthumb",
+		"price": 2250,
+		"category": "Cyborg",
+		"defname": "ANN_Greenthumb"
+	},
+	{
+		"abr": "grenadierpowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_GrenadierPowerArmor"
+	},
+	{
+		"abr": "grenadierpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_GrenadierPowerArmorHelmet"
+	},
+	{
+		"abr": "hazardoperationsarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_HazardOperationsArmor"
+	},
+	{
+		"abr": "hazardoperationshelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_HazardOperationsArmorHelmet"
+	},
+	{
+		"abr": "hoverfeet",
+		"price": 4583,
+		"category": "Cyborg",
+		"defname": "ANN_HoverFeet"
+	},
+	{
+		"abr": "independenteye",
+		"price": 3167,
+		"category": "Cyborg",
+		"defname": "ANN_IndependentEye"
+	},
+	{
+		"abr": "laserdetection",
+		"price": 1458,
+		"category": "Cyborg",
+		"defname": "ANN_LaserDetection"
+	},
+	{
+		"abr": "lionheart",
+		"price": 10250,
+		"category": "Cyborg",
+		"defname": "ANN_Lionheart"
+	},
+	{
+		"abr": "mindclearer",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_MindClearer"
+	},
+	{
+		"abr": "mindtwist",
+		"price": 1375,
+		"category": "Cyborg",
+		"defname": "ANN_Mindtwist"
+	},
+	{
+		"abr": "musclewire",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_Musclewire"
+	},
+	{
+		"abr": "musechip",
+		"price": 6458,
+		"category": "Cyborg",
+		"defname": "ANN_MuseChip"
+	},
+	{
+		"abr": "neuroenhancer",
+		"price": 2000,
+		"category": "Cyborg",
+		"defname": "ANN_NeuroEnhancer"
+	},
+	{
+		"abr": "neuromodbooster",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_NeuromodBooster"
+	},
+	{
+		"abr": "ouroborosvirus",
+		"price": 8333,
+		"category": "Drugs",
+		"defname": "Vanya_Gene"
+	},
+	{
+		"abr": "ouroborosvirus-prototype",
+		"price": 1333,
+		"category": "Drugs",
+		"defname": "Vanya_Gene_Prototype"
+	},
+	{
+		"abr": "ouroborosvirus-shine",
+		"price": 100000,
+		"category": "Drugs",
+		"defname": "Vanya_Gene_Ultratech"
+	},
+	{
+		"abr": "outerblade",
+		"price": 7292,
+		"category": "Cyborg",
+		"defname": "ANN_OuterBlade"
+	},
+	{
+		"abr": "passiongiver",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_PassionGiver"
+	},
+	{
+		"abr": "powerarms",
+		"price": 7917,
+		"category": "Cyborg",
+		"defname": "ANN_PowerArms"
+	},
+	{
+		"abr": "poweredassaultarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_PoweredAssaultArmor"
+	},
+	{
+		"abr": "poweredassaultarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_PoweredAssaultArmorHelmet"
+	},
+	{
+		"abr": "puregeneticevolutionmaterial",
+		"price": 700,
+		"category": "Manufactured",
+		"defname": "GeneEvolveAdvanced"
+	},
+	{
+		"abr": "reconpowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_ReconPowerArmor"
+	},
+	{
+		"abr": "reconpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ReconPowerArmorHelmet"
+	},
+	{
+		"abr": "reconditioner",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_Reconditioner"
+	},
+	{
+		"abr": "refinedgeneticevolutionmaterial",
+		"price": 9167,
+		"category": "Manufactured",
+		"defname": "GeneEvolveSenior"
+	},
+	{
+		"abr": "samuraipowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_SamuraiPowerArmor"
+	},
+	{
+		"abr": "samuraipowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_SamuraiPowerArmorHelmet"
+	},
+	{
+		"abr": "scoutpowerarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_ScoutPowerArmor"
+	},
+	{
+		"abr": "scoutpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ScoutPowerArmorHelmet"
+	},
+	{
+		"abr": "seedbedfruit",
+		"price": 225,
+		"category": "Natural",
+		"defname": "GeneFructification"
+	},
+	{
+		"abr": "sensoricearside",
+		"price": 1833,
+		"category": "Cyborg",
+		"defname": "ANN_SensoricEarside"
+	},
+	{
+		"abr": "shadowrunner",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_Shadowrunner"
+	},
+	{
+		"abr": "shocktrooperarmor",
+		"price": 4333,
+		"category": "Apparel",
+		"defname": "SF_ShockTrooperArmor"
+	},
+	{
+		"abr": "shocktrooperarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ShockTrooperArmorHelmet"
+	},
+	{
+		"abr": "sterileincubator",
+		"price": 4108,
+		"category": "Production",
+		"defname": "GeneSterileIncubator"
+	},
+	{
+		"abr": "synchronizer",
+		"price": 1958,
+		"category": "Cyborg",
+		"defname": "ANN_Synchronizer"
+	},
+	{
+		"abr": "visceralextract",
+		"price": 225,
+		"category": "Natural",
+		"defname": "GeneExtract"
+	},
+	{
+		"abr": "zoom",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_Zoom"
+	},
+	{
+		"abr": "基因活化之种",
+		"price": 10,
+		"category": "Manufactured",
+		"defname": "GeneSeed"
+	},
+	{
+		"abr": "基因活化苗床",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "GeneSbed"
+	},
+	{
+		"abr": "基因活化苗床母体",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "GeneSRoot"
+	},
+	{
+		"abr": "基因苗床机械液母体",
+		"price": 1000,
+		"category": "Manufactured",
+		"defname": "GeneMSroot"
+	},
+	{
+		"abr": "纳米基因活化苗床",
+		"price": 1000,
+		"category": "Manufactured",
+		"defname": "GeneMechSerum"
+	},
+	{
+		"abr": "antychargepheromone",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "Antypheromone_Charge"
+	},
+	{
+		"abr": "antypheromonepack",
+		"price": 7,
+		"category": "Manufactured",
+		"defname": "Anty_pheromone"
+	},
+	{
+		"abr": "antyshootingpheromone",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "Antypheromone_Shooting"
+	},
+	{
+		"abr": "safe",
+		"price": 1017,
+		"category": "Furniture",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "vetpod",
+		"price": 100000,
+		"category": "Furniture",
+		"defname": "MedPodAnimal"
+	},
+	{
+		"abr": "vetpodmega",
+		"price": 200000,
+		"category": "Furniture",
+		"defname": "MedPodAnimalBig"
+	},
 	],
-	"total": 2835
+	"total": 2922
 }
