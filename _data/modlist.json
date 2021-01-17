@@ -231,7 +231,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.2.2"
+    "version": "1.2.3"
   },
   {
     "author": "Spino",
@@ -412,12 +412,6 @@
     "version": "1.7.2297"
   },
   {
-    "author": "Dubwise",
-    "name": "Rimefeller",
-    "steamId": "1321849735",
-    "version": "1.2.944"
-  },
-  {
     "author": "Kiame Vivacity",
     "name": "[KV] RimFridge",
     "steamId": "1180721235",
@@ -427,17 +421,13 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7671.11675"
+    "version": "1.0.7684.37487"
   },
   {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
-    "version": "2020.1.3.0"
-  },
-  {
-    "author": "H4nsH3inrich",
-    "name": "Robots++ Patch for Rimfeller"
+    "version": "2020.1.4.0"
   },
   {
     "author": "Ratys",
@@ -479,7 +469,7 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.7.1"
+    "version": "0.7.3"
   },
   {
     "author": "Spdskatr",
@@ -499,7 +489,7 @@
     "author": "GwinnBleidd",
     "name": "Technology Blueprints & Reverse Engineering",
     "steamId": "2010527094",
-    "version": "1.2.8.0"
+    "version": "1.2.11.0"
   },
   {
     "author": "Murmur",
@@ -691,7 +681,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.5"
+    "version": "1.2.0.7"
   },
   {
     "author": "Oken",
@@ -844,5 +834,11 @@
   {
     "author": "MrJet",
     "name": "Gene-adjusted agent - ENG"
+  },
+  {
+    "author": "Avius",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "0.10.7660.40384"
   }
 ]

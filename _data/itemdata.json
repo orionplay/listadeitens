@@ -5390,28 +5390,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "UncuredComposite": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "UncuredPlasteel": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "GR_GeneticExtractionTable": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12430,17 +12408,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Autoclave": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "GR_ChickenlopeEggUnfertilized": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13615,39 +13582,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Modularization Weapon",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "FuelPowerplant": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ChemfuelHopper": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ChemfuelSiphon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -14872,17 +14806,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "CombatExtendedFsxRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "GR_Boombeetle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15397,17 +15320,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "HyperweaveRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16885,28 +16797,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "NapalmBomb": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "NapalmRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "CM_PocketDimensionHopper": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16981,17 +16871,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "[基因进化药剂]Gene-adjusted agent",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "NeutroamineRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18546,17 +18425,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RefineryLoadingBay": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "BarrierDD": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18620,17 +18488,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "GeneticRim Alpha Animals Patch",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ResourceConsole": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19976,17 +19833,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SynthamideRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "GR_ChickenBrains": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20017,28 +19863,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SynthreadRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SynthyleneRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -31449,17 +31273,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "pipelineValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "GeneExtract": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31593,6 +31406,116 @@
     "Weight": 1.0
   },
   "Antypheromone_Shooting": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_EggFlamingoPhoenixFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_FlamingoPhoenix": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_FungalHusk": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_LuciferBug": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_SandProwler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_Terramorph": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Anty_RecycleTurretB": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AT_RedHalberd": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AT_Apparel_CombatSmoke": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Anty the war ant race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AT_Apparel_pheromone_TP": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
