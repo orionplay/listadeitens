@@ -115,7 +115,7 @@
     },
     "description": "Adds you to the name queue.",
     "name": "Join queue",
-    "usage": "!entrar",
+    "usage": "!join",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -176,6 +176,16 @@
     "description": "Shows you the current list of commands, which may or may not be this list.",
     "name": "All commands",
     "usage": "!allcommands",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows you the complete list of installed mods.",
+    "name": "Installed mods",
+    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -545,7 +555,7 @@
     },
     "description": "Shows the colony's current wealth. This command uses the same value the storyteller will use.",
     "name": "Colony wealth",
-    "usage": "!valordacolonia",
+    "usage": "!wealth",
     "userLevel": "Anyone",
     "shortcut": false
   },
