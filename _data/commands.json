@@ -245,7 +245,7 @@
     },
     "description": "Purchases the part specified and queues it for surgery on your pawn.",
     "name": "Surgery",
-    "usage": "!surgery <item> <quantity/bodypart>",
+    "usage": "!operar <item> <quantity/bodypart>",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -586,6 +586,16 @@
     "description": "It's like unstick, but safe for viewers to use.",
     "name": "Unstick me",
     "usage": "!unstickme",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows information about your current RimWorld of Magic class. This command will only be usable when RimWorld of Magic is installed.",
+    "name": "Viewer class",
+    "usage": "!mypawnclass",
     "userLevel": "Anyone",
     "shortcut": false
   },
