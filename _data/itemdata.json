@@ -10647,39 +10647,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "MTB_Woodpecker": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "[CE Only] Housefire (+ Chisel)",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "MTB_Housefire": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "[CE Only] Housefire (+ Chisel)",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "MTB_Chisel": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "[CE Only] Housefire (+ Chisel)",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Meat_Sduiggles": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12264,487 +12231,300 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AmmoBench": {
+  "VFEM_Shield_Heater": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Vanilla Factions Expanded - Medieval",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_Blaster": {
+  "VFEM_Shield_Kite": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Vanilla Factions Expanded - Medieval",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_Heavy": {
+  "PJ_UltimaPearl": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_M240B": {
+  "Gun_ChargeLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "No More Spacer",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEV_Shield_Crypto": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Vanilla Factions Expanded - Vikings",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_KPV": {
+  "VFEV_Shield_Round": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Vanilla Factions Expanded - Vikings",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_AGSThirty": {
+  "Shell_GasAntiBug": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_Flak": {
+  "Shell_MechVirus": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Prometheum": {
+  "Shell_GasAcid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "FSX": {
+  "Shell_GasFear": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_TacVest": {
+  "Shell_GasSleep": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_Backpack": {
+  "Shell_GasTear": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_TribalBackpack": {
+  "Shell_GasRage": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_Bascinet": {
+  "Shell_GasToxic": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Gas Traps And Shells",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_GasMask": {
+  "PJ_AnkSapphire": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_ImprovGasMask": {
+  "VWE_Gun_ChargeSniperRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_ChargeSMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_MarksmanRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_ServiceRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_HMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_Flamethrower": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_GrenadeLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_FlashGrenade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_SmokeGrenade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Turret_SteamCannon": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Clockwork And Steam",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_MeleeShield": {
+  "Turret_ClockworkSniper": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Clockwork And Steam",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_BallisticShield": {
+  "Turret_ClockworkTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_CompositeVest": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Weapon_GrenadeFlashbang": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Weapon_GrenadeStickBomb": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Weapon_GrenadeSmoke": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Weapon_GrenadeFirefoam": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_GrenadeLauncher": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Gun_BinocularsRadio": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_TaurusJudge": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_USASTwelve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_FNFAL": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_SKS": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_AKFortySeven": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_AKTwelve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_AKSSeventyFourU": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_SVD": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_TacFifty": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_PTRS": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_MSixty": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_RPD": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_PKM": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_RPGSeven": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_M72LAW": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_MilkorMGL": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_ChargeLMG": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_ChargeSniperRifle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_ChargeSMG": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_Gun_Flamethrower": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended Guns",
+    "Mod": "Clockwork And Steam",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16928,80 +16708,80 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "turbineBlade": {
+  "ClockworkSpider": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
+    "Mod": "Clockwork And Steam",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "bricabrac": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Clockwork Rimworld - Buildings and Modules.",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "sd_adv_powergen_WatermillGenerator": {
+  "ClockworkSpiderKitB": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Clockwork And Steam",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "sd_adv_powergen_nuclear_power_plant": {
+  "ClockworkSpiderKitA": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Clockwork And Steam",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "sd_adv_powergen_adv_geothermal_generator": {
+  "VFEI_Shell_PsychicWarhead": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Vanilla Factions Expanded - Insectoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "sd_adv_powergen_adv_solar_generator": {
+  "VFEI_Shield_Riot": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Vanilla Factions Expanded - Insectoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RawArtiveg": {
+  "Nanoswarm_shell": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Genetically Engineered Plants 1.1",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PJ_BarabIngot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -17808,14 +17588,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Infusion_InfuserEmpty": {
+  "PJ_PontiteCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Infusion 2",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -20624,69 +20404,69 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Battery_Silver": {
+  "PJ_FirkrannCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SYR] Metallic Batteries",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Battery_Gold": {
+  "PJ_RubatCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SYR] Metallic Batteries",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Battery_Plasteel": {
+  "PJ_EralamCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[SYR] Metallic Batteries",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Battery_Uranium": {
+  "Gun_InfernoCannonTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "[SYR] Metallic Batteries",
+    "Mod": "Royalty",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Battery_Advanced": {
+  "Gun_InfernoCannon": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "[SYR] Metallic Batteries",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Battery_Vanometric": {
+  "Gun_Minigun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "[SYR] Metallic Batteries",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -21141,80 +20921,80 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AdvancedMultiAnalyzer": {
+  "Gun_EmpLauncher": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "More Linkables",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ToolCabinetA": {
+  "Gun_SmokeLauncher": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "More Linkables",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ToolCabinetB": {
+  "Shell_AntigrainWarhead": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "More Linkables",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ToolCabinetC": {
+  "Shell_Firefoam": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "More Linkables",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "KitchenCupboard": {
+  "Shell_Smoke": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "More Linkables",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SurgicalLamp": {
+  "Shell_EMP": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "More Linkables",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SurgicalInstruments": {
+  "Shell_Incendiary": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "More Linkables",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -21548,179 +21328,179 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ROMV_BatRace": {
+  "PJ_HurCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodPack_Animal": {
+  "PJ_DragiteCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodPack_LowBlood": {
+  "PJ_DamindCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodPack_AverageBlood": {
+  "PJ_AdeganCrystal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodPack_HighBlood": {
+  "PJ_KyberCrystalRed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodVial_LowBlood": {
+  "PJ_KyberCrystalPurple": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodVial_AverageBlood": {
+  "PJ_KyberCrystalAzure": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodVial_HighBlood": {
+  "PJ_KyberCrystalCyan": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodVial_Special": {
+  "PJ_KyberCrystalBlue": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodWine_LowBlood": {
+  "PJ_KyberCrystalYellow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PJ_KyberCrystal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "turbineBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "bricabrac": {
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "Clockwork Rimworld - Buildings and Modules.",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BloodWine_AverageBlood": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "BloodWine_HighBlood": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "BloodWine_Special": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ROMV_SimpleCoffin": {
+  "sd_adv_powergen_WatermillGenerator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ROMV_RoyalCoffin": {
+  "sd_adv_powergen_nuclear_power_plant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ROMV_RoyalCoffinDouble": {
+  "sd_adv_powergen_adv_geothermal_generator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -21779,14 +21559,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "sd_adv_powergen_adv_wind_turbine": {
+  "Shell_HighExplosive": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24001,25 +23781,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_ROMV_BatRace": {
+  "sd_adv_powergen_adv_solar_generator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_ROMV_BatSpectralRace": {
+  "sd_adv_powergen_adv_wind_turbine": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rim of Madness - Vampires",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24031,6 +23811,204 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Zombieland",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PJ_BlackPearl": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PJ_KaiburrCrystal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PJ_SaberCasing": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PJ_SaberInternal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_Lightsaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_DookuSaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_KyloSaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_Doublesaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_ObiSaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_ElectrumSaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_Ahsokasaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_Inquis": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_JGuard": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_Quigon": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_Darksaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_Yodasaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_MaceSaber": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SWSaber_SaberPike": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Star Wars - Fully Functional Lightsabers",
     "QuantityLimit": -1,
     "Weight": 1.0
   }

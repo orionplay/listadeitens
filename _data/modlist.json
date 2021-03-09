@@ -12,10 +12,6 @@
     "version": "3.8.1038"
   },
   {
-    "author": "NetImmerse",
-    "name": "[CE Only] Housefire (+ Chisel)"
-  },
-  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics"
   },
@@ -180,16 +176,6 @@
     "name": "CaS - Automatons"
   },
   {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.2.3.2"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Guns"
-  },
-  {
     "author": "Oskar Potocki, Trunken",
     "name": "Vanilla Weapons Expanded"
   },
@@ -202,10 +188,6 @@
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Harkon",
-    "name": "CE Guns/VWE - Consistency Patch"
   },
   {
     "author": "ColdToad",
@@ -246,24 +228,16 @@
     "version": "4.33.649"
   },
   {
-    "author": "Rosco",
-    "name": "Combat Extended - Chemical Warfare"
-  },
-  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.23"
+    "version": "1.1.28"
   },
   {
     "author": "PeteTimesSix",
     "name": "Compact Hediffs",
     "steamId": "2031734067",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "LadyCookie",
-    "name": "Cookie Traits"
   },
   {
     "author": "Mythos",
@@ -434,14 +408,6 @@
     "name": "[ZEN] Gas Traps And Shells Retextured"
   },
   {
-    "author": "XeoNovaDan and battlemage64",
-    "name": "Genetically Engineered Plants 1.1"
-  },
-  {
-    "author": "Anubis",
-    "name": "Genetically Engineered Trait"
-  },
-  {
     "author": "pelador",
     "name": "RimPlas (Continued)",
     "steamId": "2194993727",
@@ -506,14 +472,6 @@
     "name": "Infused",
     "steamId": "731287727",
     "version": "1.1.1.0"
-  },
-  {
-    "author": "latta",
-    "name": "FSharp.Core"
-  },
-  {
-    "author": "latta",
-    "name": "Infusion 2"
   },
   {
     "author": "CodeOptimist",
@@ -610,10 +568,6 @@
     "name": "Mercer's Backpacks + Nano Suit (Continued)"
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Metallic Batteries"
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Robots"
   },
@@ -630,14 +584,6 @@
     "name": "ModDiff",
     "steamId": "2200054867",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "[bhtp]Ataman",
-    "name": "More Crashed Ship Parts"
-  },
-  {
-    "author": "4loris4",
-    "name": "More Linkables"
   },
   {
     "author": "Paradox",
@@ -666,10 +612,6 @@
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
     "version": "1.2.1.37"
-  },
-  {
-    "author": "Bar0th",
-    "name": "No Debris 1.1/1.2"
   },
   {
     "author": "Techno Fox",
@@ -784,12 +726,6 @@
     "name": "Rich Traders - Royalty DLC"
   },
   {
-    "author": "Jecrell and contributors",
-    "name": "Rim of Madness - Vampires",
-    "steamId": "2242846132",
-    "version": "1.22.0.1"
-  },
-  {
     "author": "Jecrell",
     "name": "Rim of Madness - Werewolves (Continued)"
   },
@@ -826,10 +762,6 @@
   {
     "author": "Jecrell",
     "name": "RimWriter - Books, Scrolls, Tablets, and Libraries (Continued)"
-  },
-  {
-    "author": "Nykot",
-    "name": "RPG Style Inventory CE Revived [1.2]"
   },
   {
     "author": "Ratys",
@@ -884,10 +816,6 @@
   {
     "author": "Spdskatr",
     "name": "SS Researchable Stat Upgrades (Reupload)"
-  },
-  {
-    "author": "Linkolas",
-    "name": "Stabilize"
   },
   {
     "author": "Indeed",
@@ -976,14 +904,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "BaalEvan",
-    "name": "Turret Hunt"
-  },
-  {
-    "author": "Mario90900",
-    "name": "Vampire Meditation Fix"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -1066,13 +986,13 @@
     "name": "[HLX] Ultratech: Altered Carbon - Armoury"
   },
   {
-    "author": "Chance2000w",
-    "name": "CaS - CE Patch"
-  },
-  {
     "author": "Jaxxa",
     "name": "ED-EnhancedOptions",
     "steamId": "1241694757",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Jecrell and Xen",
+    "name": "Star Wars - Fully Functional Lightsabers"
   }
 ]
