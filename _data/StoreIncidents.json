@@ -226,9 +226,9 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"abr": "1124554548612684321sad651as6d4a68s4d98as4d5as1d968adljfkhijgiugfjbgkdfhgkjsdhbkdsbkjcbiughds",
+		"price": 1500000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
@@ -389,12 +389,7 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 78
 }

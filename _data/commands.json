@@ -463,16 +463,6 @@
     "data": {
       "isShortcut": false
     },
-    "description": "Makes your pawn leave the colony.",
-    "name": "Abandon pawn",
-    "usage": "!leave",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",

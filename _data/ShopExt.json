@@ -2968,142 +2968,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "SimpleMindedAndroid",
-      "degree": 0,
-      "name": "simpleminded",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-90.00% social impact"
-        ]
-      },
-      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
-      "stats": [
-        "-90.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "MechAtlas",
-      "degree": 0,
-      "name": "mech",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-90.00% social impact"
-        ]
-      },
-      "description": "A mechanized infantry unit, they do not think or feel.",
-      "stats": [
-        "-90.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Intolerance",
-      "degree": 0,
-      "name": "intolerance",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "Only mental break \"Berserk\" allowed.",
-          "Only mental break \"Slaughterer\" allowed.",
-          "Only mental break \"MurderousRage\" allowed.",
-          "Only mental break \"SadisticRage\" allowed.",
-          "Only mental break \"InsultingSpree\" allowed.",
-          "-90.00% social impact"
-        ]
-      },
-      "description": "Timmy is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
-      "stats": [
-        "Only mental break \"Berserk\" allowed.",
-        "Only mental break \"Slaughterer\" allowed.",
-        "Only mental break \"MurderousRage\" allowed.",
-        "Only mental break \"SadisticRage\" allowed.",
-        "Only mental break \"InsultingSpree\" allowed.",
-        "-90.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "FeelingsTowardHumanity",
-      "degree": 1,
-      "name": "loveshumanity",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "FeelingsTowardHumanity",
-      "degree": 2,
-      "name": "hateshumanity",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "HelldroneHiveMind",
-      "degree": 0,
-      "name": "hivemind",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is interconnected with his fellow hellbots, forming a deep connection with every one of them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "Clockmaker",
       "degree": 0,
       "name": "clockmaker",
@@ -3187,64 +3051,6 @@
       "stats": [],
       "conflicts": [
         "bodypurist"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Broken",
-      "degree": 0,
-      "name": "broken",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "efficient"
-        ],
-        "customName": false,
-        "stats": [
-          "-0.20 move speed",
-          "-30% global work speed"
-        ]
-      },
-      "description": "Timmy is broken. Some flaw has caused them be be less efficient.",
-      "stats": [
-        "-0.20 move speed",
-        "-30% global work speed"
-      ],
-      "conflicts": [
-        "efficient"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Efficient",
-      "degree": 0,
-      "name": "efficient",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "broken"
-        ],
-        "customName": false,
-        "stats": [
-          "+0.20 move speed",
-          "+30% global work speed"
-        ]
-      },
-      "description": "Timmy is unusually efficient. Some fluke has made them faster and more effective.",
-      "stats": [
-        "+0.20 move speed",
-        "+30% global work speed"
-      ],
-      "conflicts": [
-        "broken"
       ],
       "bypassLimit": false
     },
@@ -6326,23 +6132,77 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "AC_FreeMind",
-      "degree": 0,
-      "name": "freemind",
+      "defName": "PJ_ForceSensitive",
+      "degree": 1,
+      "name": "forcesensitive",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_ForceSensitive",
+      "degree": 2,
+      "name": "forceapprentice",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_JediTrait",
+      "degree": 1,
+      "name": "jedi",
       "data": {
         "canBypassLimit": false,
         "conflicts": [
-          "sleever",
-          "onesoul"
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "customName": false,
         "stats": []
       },
-      "description": "Timmy always saw their body as nothing more than a vessel for their mind. he does not care about the gender, age or looks of a body.",
+      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "sleever",
-        "onesoul"
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false
     },
@@ -6351,23 +6211,39 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "AC_Sleever",
-      "degree": 0,
-      "name": "sleever",
+      "defName": "PJ_JediTrait",
+      "degree": 2,
+      "name": "jediknight",
       "data": {
         "canBypassLimit": false,
         "conflicts": [
-          "onesoul",
-          "freemind"
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "customName": false,
         "stats": []
       },
-      "description": "Timmy is used to switching sleeves like they are clothes. he doesn’t care how often he switches him sleeves or what sleeve he is currently using.",
+      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "onesoul",
-        "freemind"
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false
     },
@@ -6376,204 +6252,445 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "AC_AntiStack",
-      "degree": 0,
-      "name": "onesoul",
+      "defName": "PJ_JediTrait",
+      "degree": 3,
+      "name": "jedimaster",
       "data": {
         "canBypassLimit": false,
         "conflicts": [
-          "freemind",
-          "sleever"
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "customName": false,
         "stats": []
       },
-      "description": "Timmy considers the use of stacks and sleeves as amoral. he believes that humans only get one life and that the extension of their lives via technology is a sin.",
+      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "freemind",
-        "sleever"
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_JediTrait",
+      "degree": 4,
+      "name": "jediconsular",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_SithTrait",
+      "degree": 1,
+      "name": "sith",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_SithTrait",
+      "degree": 2,
+      "name": "sithinquisitor",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_SithTrait",
+      "degree": 3,
+      "name": "sithlord",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_SithTrait",
+      "degree": 4,
+      "name": "sithmaster",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_GrayTrait",
+      "degree": 1,
+      "name": "graypadawan",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_GrayTrait",
+      "degree": 2,
+      "name": "grayjedi",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_GrayTrait",
+      "degree": 3,
+      "name": "graymaster",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_GrayTrait",
+      "degree": 4,
+      "name": "graysage",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false
     }
   ],
   "races": [
     {
+      "price": 2500,
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3167,
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1417,
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
       "price": 2917,
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 30000,
-      "defName": "M7Mech",
-      "enabled": true,
-      "name": "M7 Mechanised infantry",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 13333,
-      "defName": "Android5Tier",
-      "enabled": true,
-      "name": "T5 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 10000,
-      "defName": "Android4Tier",
-      "enabled": true,
-      "name": "T4 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 8000,
-      "defName": "Android3Tier",
-      "enabled": true,
-      "name": "T3 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2333,
-      "defName": "Android1Tier",
-      "enabled": true,
-      "name": "T1 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "Android2Tier",
-      "enabled": true,
-      "name": "T2 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5833,
-      "defName": "ATPP_Android2TX",
-      "enabled": true,
-      "name": "TX2 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 9667,
-      "defName": "ATPP_Android3TX",
-      "enabled": true,
-      "name": "TX3 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 11667,
-      "defName": "ATPP_Android4TX",
-      "enabled": true,
-      "name": "TX4 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 9167,
-      "defName": "ATPP_Android2KTX",
-      "enabled": true,
-      "name": "TX2K Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 9167,
-      "defName": "ATPP_Android2KITX",
-      "enabled": true,
-      "name": "TX2KI Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5833,
-      "defName": "ATPP_Android2ITX",
-      "enabled": true,
-      "name": "TX2I Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 9667,
-      "defName": "ATPP_Android3ITX",
-      "enabled": true,
-      "name": "TX3I Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 11667,
-      "defName": "ATPP_Android4ITX",
-      "enabled": true,
-      "name": "TX4I Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 8333,
-      "defName": "AT_HellUnit",
-      "enabled": true,
-      "name": "Hell Unit",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "ClockworkAutomaton_Brass",
-      "enabled": true,
-      "name": "Clockwork Automaton",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "ClockworkAutomaton_Doll",
-      "enabled": true,
-      "name": "Clockwork Automaton",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "ClockworkAutomaton_Brute",
-      "enabled": true,
-      "name": "Clockwork Automaton",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1,
-      "defName": "Zombie",
-      "enabled": true,
-      "name": "Zombie",
       "data": {
         "customName": false
       }

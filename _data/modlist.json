@@ -66,28 +66,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Atlas, aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "2.0.2.0"
-  },
-  {
-    "author": "aRandomKiwi, CrackaJack",
-    "name": "Android tiers - TX Series"
-  },
-  {
-    "author": "Super-Colliding Super Button",
-    "name": "Android tiers Enchantment"
-  },
-  {
-    "author": "Atlas",
-    "name": "Android tiers HellDrone-Extension "
-  },
-  {
-    "author": "Neceros",
-    "name": "Android Tiers Unfeeling Patch"
-  },
-  {
     "author": "Jaxe",
     "name": "Animal Food Restrictions"
   },
@@ -170,10 +148,6 @@
     "name": "Clockwork And Steam",
     "steamId": "1736127702",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Chance2000w",
-    "name": "CaS - Automatons"
   },
   {
     "author": "Oskar Potocki, Trunken",
@@ -462,12 +436,6 @@
     "name": "Hospitality"
   },
   {
-    "author": "fridgeBaron",
-    "name": "Immortals",
-    "steamId": "1984905966",
-    "version": "0.0.2.0"
-  },
-  {
     "author": "notfood",
     "name": "Infused",
     "steamId": "731287727",
@@ -611,7 +579,7 @@
     "author": "Netrve",
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
-    "version": "1.2.1.37"
+    "version": "1.2.1.38"
   },
   {
     "author": "Techno Fox",
@@ -876,24 +844,6 @@
     "name": "TMC Equipment - Combat Assist Goggles"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "5.0.3.2"
-  },
-  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot"
   },
@@ -970,18 +920,6 @@
     "name": "Works Controller"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "2.0.9.0"
-  },
-  {
-    "author": "Helixien, Taranchuk, Saakra, OskarPotocki",
-    "name": "Ultratech: Altered Carbon",
-    "steamId": "2196278117",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Helixien and Luizi",
     "name": "[HLX] Ultratech: Altered Carbon - Armoury"
   },
@@ -994,5 +932,35 @@
   {
     "author": "Jecrell and Xen",
     "name": "Star Wars - Fully Functional Lightsabers"
+  },
+  {
+    "author": "Jecrell and Xen",
+    "name": "Star Wars - The Force",
+    "steamId": "918226861",
+    "version": "1.21.1.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
   }
 ]
